@@ -1,0 +1,3001 @@
+meal_type,food_prepared_kg,meals_served,day_of_week,previous_waste_kg,actual_waste_kg,waste_percentage
+Lunch,51.6,78,Friday,6.1,6.57,12.73
+Breakfast,20.9,41,Thursday,1.0,2.36,11.29
+Breakfast,15.3,37,Thursday,0.9,0.59,3.86
+Breakfast,20.7,39,Thursday,1.3,3.2,15.46
+Dinner,37.5,48,Sunday,3.5,6.37,16.99
+Lunch,48.5,59,Tuesday,3.5,10.98,22.64
+Dinner,34.6,50,Tuesday,0.0,1.37,3.96
+Breakfast,14.6,28,Wednesday,1.1,2.92,20.0
+Dinner,41.6,45,Tuesday,3.4,8.42,20.24
+Dinner,65.3,73,Friday,8.6,11.5,17.61
+Breakfast,37.2,84,Sunday,2.8,2.29,6.16
+Dinner,95.6,74,Saturday,20.7,41.24,43.14
+Dinner,39.2,50,Sunday,1.6,1.96,5.0
+Dinner,30.4,30,Tuesday,8.9,10.15,33.39
+Buffet / Event,214.0,189,Saturday,73.8,69.91,32.67
+Dinner,51.2,58,Saturday,5.7,13.28,25.94
+Dinner,64.4,79,Friday,3.4,6.41,9.95
+Lunch,46.3,75,Wednesday,2.1,6.21,13.41
+Dinner,56.9,60,Tuesday,6.1,10.05,17.66
+Lunch,61.6,74,Wednesday,11.1,15.19,24.66
+Buffet / Event,171.9,174,Monday,6.5,15.51,9.02
+Dinner,29.9,35,Monday,3.5,6.47,21.64
+Lunch,18.6,25,Wednesday,3.3,4.01,21.56
+Breakfast,36.8,45,Thursday,8.9,16.8,45.65
+Dinner,31.2,39,Sunday,3.2,4.79,15.35
+Lunch,64.9,83,Tuesday,7.2,15.19,23.41
+Dinner,26.5,36,Friday,4.5,3.62,13.66
+Dinner,36.0,43,Wednesday,5.6,5.13,14.25
+Lunch,59.3,91,Friday,4.9,13.16,22.19
+Lunch,24.7,23,Tuesday,6.0,9.8,39.68
+Lunch,28.7,35,Monday,3.3,6.14,21.39
+Dinner,27.2,40,Monday,1.6,1.26,4.63
+Dinner,57.5,71,Tuesday,7.7,12.34,21.46
+Breakfast,46.3,61,Sunday,15.5,18.44,39.83
+Dinner,55.4,47,Wednesday,10.8,17.09,30.85
+Lunch,32.3,47,Tuesday,4.8,4.73,14.64
+Breakfast,16.9,35,Monday,2.1,4.54,26.86
+Lunch,27.6,45,Saturday,1.1,1.79,6.49
+Lunch,40.5,67,Monday,1.2,4.54,11.21
+Lunch,33.1,63,Sunday,1.9,2.53,7.64
+Buffet / Event,64.2,56,Saturday,6.4,9.17,14.28
+Breakfast,31.2,68,Friday,3.0,6.65,21.31
+Dinner,43.9,47,Saturday,7.5,7.19,16.38
+Lunch,31.4,41,Tuesday,5.2,6.52,20.76
+Lunch,36.6,50,Monday,0.9,4.94,13.5
+Breakfast,23.2,56,Wednesday,1.5,1.29,5.56
+Buffet / Event,161.0,192,Tuesday,6.3,10.5,6.52
+Buffet / Event,113.8,150,Saturday,6.2,3.68,3.23
+Buffet / Event,215.7,145,Wednesday,40.4,95.65,44.34
+Buffet / Event,102.4,103,Monday,16.7,16.27,15.89
+Breakfast,37.9,50,Friday,7.9,16.72,44.12
+Dinner,51.3,57,Saturday,5.3,6.32,12.32
+Dinner,58.5,51,Tuesday,12.6,21.04,35.97
+Breakfast,33.1,57,Thursday,4.3,7.15,21.6
+Lunch,86.6,98,Sunday,28.4,25.2,29.1
+Buffet / Event,113.9,132,Friday,5.6,6.5,5.71
+Lunch,40.9,52,Thursday,3.7,7.72,18.88
+Breakfast,16.5,33,Monday,1.0,3.11,18.85
+Lunch,55.3,90,Saturday,3.5,2.35,4.25
+Lunch,30.0,60,Friday,2.2,0.95,3.17
+Dinner,23.8,31,Saturday,2.3,2.71,11.39
+Dinner,31.9,34,Thursday,4.4,7.76,24.33
+Lunch,35.9,54,Thursday,4.2,6.5,18.11
+Breakfast,28.0,55,Saturday,2.6,6.8,24.29
+Buffet / Event,202.0,165,Saturday,21.5,38.99,19.3
+Lunch,51.0,66,Monday,7.6,11.67,22.88
+Lunch,31.9,57,Wednesday,1.0,3.53,11.07
+Dinner,56.6,61,Wednesday,5.5,13.1,23.14
+Buffet / Event,154.5,123,Wednesday,48.5,45.01,29.13
+Dinner,47.8,43,Wednesday,14.3,16.12,33.72
+Dinner,57.8,73,Friday,2.9,5.68,9.83
+Breakfast,26.4,55,Saturday,3.1,5.9,22.35
+Lunch,33.1,57,Friday,4.8,3.3,9.97
+Dinner,51.5,60,Sunday,8.2,9.79,19.01
+Dinner,53.6,70,Wednesday,1.7,2.73,5.09
+Lunch,75.6,90,Saturday,14.4,23.26,30.77
+Breakfast,23.9,61,Thursday,0.5,0.85,3.56
+Breakfast,30.5,43,Sunday,8.5,11.11,36.43
+Dinner,50.5,40,Friday,13.5,22.58,44.71
+Breakfast,16.3,44,Wednesday,1.1,0.86,5.28
+Dinner,51.2,52,Thursday,7.8,8.97,17.52
+Lunch,52.9,75,Saturday,1.2,6.8,12.85
+Dinner,89.0,95,Sunday,7.8,21.84,24.54
+Lunch,38.2,56,Wednesday,4.3,4.77,12.49
+Breakfast,20.9,50,Sunday,2.3,3.28,15.69
+Dinner,30.5,36,Thursday,0.8,1.87,6.13
+Dinner,77.0,61,Friday,18.0,30.26,39.3
+Dinner,64.0,74,Friday,7.0,12.77,19.95
+Lunch,63.4,90,Wednesday,8.6,10.29,16.23
+Dinner,46.3,52,Friday,12.0,13.99,30.22
+Dinner,32.2,40,Sunday,2.2,1.68,5.22
+Dinner,43.0,64,Saturday,1.4,2.56,5.95
+Lunch,32.2,43,Thursday,5.2,7.12,22.11
+Lunch,80.8,72,Wednesday,17.8,35.79,44.29
+Lunch,54.3,89,Monday,3.1,5.29,9.74
+Lunch,83.7,79,Thursday,24.9,35.71,42.66
+Dinner,72.1,64,Sunday,19.2,23.43,32.5
+Lunch,35.9,62,Tuesday,0.7,3.27,9.11
+Dinner,37.6,44,Thursday,0.7,3.56,9.47
+Breakfast,34.2,66,Sunday,5.6,5.89,17.22
+Lunch,53.1,61,Wednesday,5.9,14.1,26.55
+Dinner,71.2,73,Thursday,9.1,11.44,16.07
+Lunch,53.0,81,Saturday,1.1,5.57,10.51
+Buffet / Event,98.0,99,Friday,7.5,5.12,5.22
+Breakfast,20.8,44,Thursday,0.5,1.24,5.96
+Buffet / Event,136.2,122,Saturday,19.2,19.96,14.65
+Lunch,28.2,44,Tuesday,2.2,0.93,3.3
+Dinner,58.3,76,Wednesday,9.5,7.85,13.46
+Dinner,18.0,23,Tuesday,1.9,2.38,13.22
+Dinner,35.8,38,Friday,5.0,8.53,23.83
+Dinner,30.2,44,Wednesday,0.6,1.91,6.32
+Buffet / Event,135.5,132,Monday,32.4,40.8,30.11
+Dinner,32.9,42,Friday,2.9,5.97,18.15
+Breakfast,24.9,44,Monday,4.4,4.81,19.32
+Dinner,40.1,55,Saturday,2.9,5.51,13.74
+Lunch,49.1,97,Thursday,3.0,2.29,4.66
+Lunch,47.7,68,Friday,2.9,6.06,12.7
+Buffet / Event,179.5,110,Thursday,62.5,77.06,42.93
+Lunch,32.1,56,Saturday,5.6,4.79,14.92
+Dinner,43.9,55,Friday,4.1,8.61,19.61
+Buffet / Event,99.1,120,Thursday,4.5,7.89,7.96
+Lunch,31.0,38,Friday,2.8,8.93,28.81
+Buffet / Event,203.1,186,Saturday,25.9,26.78,13.19
+Breakfast,24.8,48,Saturday,1.0,4.82,19.44
+Lunch,38.1,48,Monday,11.5,12.22,32.07
+Dinner,41.3,48,Monday,2.9,3.28,7.94
+Lunch,72.5,98,Wednesday,10.1,16.55,22.83
+Dinner,35.9,40,Monday,1.2,4.57,12.73
+Lunch,37.9,67,Tuesday,0.6,2.18,5.75
+Breakfast,22.1,45,Friday,3.5,3.13,14.16
+Lunch,72.7,82,Tuesday,17.2,24.82,34.14
+Breakfast,10.4,17,Tuesday,2.9,3.15,30.29
+Dinner,66.2,80,Sunday,3.1,5.49,8.29
+Lunch,42.4,56,Thursday,9.5,14.69,34.65
+Lunch,45.5,72,Thursday,6.6,8.33,18.31
+Dinner,16.6,18,Thursday,1.7,2.31,13.92
+Breakfast,22.4,35,Monday,4.1,10.2,45.54
+Lunch,52.2,74,Sunday,4.9,9.78,18.74
+Breakfast,21.3,41,Sunday,1.6,3.18,14.93
+Dinner,49.1,61,Sunday,3.3,4.81,9.8
+Lunch,18.3,29,Friday,2.9,3.48,19.02
+Dinner,44.2,50,Saturday,7.6,10.38,23.48
+Breakfast,18.4,34,Saturday,3.3,4.4,23.91
+Lunch,58.0,96,Saturday,7.9,11.49,19.81
+Lunch,25.2,36,Saturday,4.0,5.26,20.87
+Lunch,83.3,102,Sunday,19.7,32.87,39.46
+Breakfast,20.3,35,Thursday,5.5,7.17,35.32
+Lunch,43.1,69,Monday,2.5,4.32,10.02
+Breakfast,19.3,36,Thursday,3.0,3.77,19.53
+Dinner,64.7,55,Tuesday,17.2,27.05,41.81
+Dinner,40.1,43,Sunday,4.2,8.0,19.95
+Breakfast,29.5,55,Friday,2.2,6.73,22.81
+Buffet / Event,193.2,178,Wednesday,16.3,43.62,22.58
+Lunch,35.0,55,Sunday,1.3,1.42,4.06
+Dinner,35.6,43,Friday,2.8,2.15,6.04
+Lunch,67.1,117,Saturday,11.7,10.32,15.38
+Breakfast,22.8,57,Friday,2.5,2.43,10.66
+Dinner,63.5,82,Saturday,11.8,9.51,14.98
+Lunch,68.4,89,Saturday,6.2,12.47,18.23
+Lunch,25.3,36,Monday,4.4,4.95,19.57
+Lunch,20.6,28,Saturday,3.1,4.93,23.93
+Breakfast,28.5,75,Sunday,1.5,1.73,6.07
+Dinner,30.5,36,Monday,4.9,6.34,20.79
+Dinner,49.0,71,Friday,1.6,3.03,6.18
+Lunch,41.3,81,Friday,2.3,2.24,5.42
+Breakfast,11.5,24,Saturday,0.7,0.39,3.39
+Lunch,46.7,69,Wednesday,4.5,6.62,14.18
+Dinner,40.7,41,Tuesday,7.8,14.5,35.63
+Dinner,53.2,55,Saturday,4.5,11.2,21.05
+Dinner,88.3,73,Friday,18.6,32.42,36.72
+Breakfast,28.7,52,Tuesday,3.6,6.4,22.3
+Dinner,42.9,43,Friday,14.1,13.81,32.19
+Lunch,28.1,45,Monday,1.3,2.27,8.08
+Dinner,43.5,57,Friday,1.1,2.76,6.34
+Buffet / Event,69.4,83,Wednesday,5.1,6.06,8.73
+Lunch,22.2,45,Tuesday,0.8,1.28,5.77
+Lunch,90.5,88,Thursday,18.5,36.7,40.55
+Lunch,37.5,56,Wednesday,4.3,5.46,14.56
+Breakfast,47.8,61,Friday,10.5,21.18,44.31
+Dinner,55.3,81,Sunday,2.7,2.88,5.21
+Breakfast,29.2,61,Friday,5.6,7.2,24.66
+Lunch,41.7,79,Wednesday,2.9,1.99,4.77
+Dinner,39.1,48,Thursday,1.9,1.8,4.6
+Dinner,74.1,58,Thursday,24.4,32.63,44.04
+Dinner,54.3,45,Saturday,14.2,19.63,36.15
+Dinner,32.5,39,Thursday,5.5,6.62,20.37
+Breakfast,45.2,71,Thursday,14.1,15.09,33.38
+Lunch,50.1,71,Saturday,2.4,4.55,9.08
+Breakfast,41.1,55,Sunday,12.8,17.9,43.55
+Breakfast,22.6,38,Saturday,3.3,5.48,24.25
+Breakfast,23.9,46,Wednesday,6.3,6.8,28.45
+Lunch,39.1,60,Saturday,2.4,4.41,11.28
+Lunch,35.4,47,Friday,7.9,11.17,31.55
+Breakfast,32.7,71,Friday,1.2,1.74,5.32
+Breakfast,24.1,50,Sunday,1.3,1.36,5.64
+Lunch,35.0,37,Wednesday,7.3,15.48,44.23
+Lunch,39.4,57,Friday,5.8,6.79,17.23
+Breakfast,25.9,47,Saturday,4.2,4.95,19.11
+Lunch,46.5,63,Thursday,8.6,8.13,17.48
+Breakfast,24.4,54,Friday,2.1,1.97,8.07
+Lunch,28.2,44,Saturday,3.1,4.19,14.86
+Breakfast,19.9,43,Thursday,1.4,2.68,13.47
+Buffet / Event,165.0,134,Tuesday,28.0,37.31,22.61
+Dinner,44.7,45,Thursday,8.5,10.25,22.93
+Lunch,72.3,90,Friday,15.0,26.8,37.07
+Dinner,40.1,45,Tuesday,4.4,10.0,24.94
+Dinner,56.7,65,Monday,8.7,10.96,19.33
+Dinner,50.4,50,Saturday,7.2,12.42,24.64
+Lunch,41.3,54,Monday,6.7,5.95,14.41
+Breakfast,17.5,29,Monday,3.2,5.34,30.51
+Lunch,62.7,77,Friday,9.4,14.66,23.38
+Lunch,35.1,55,Wednesday,3.6,5.44,15.5
+Lunch,36.7,52,Monday,2.8,3.97,10.82
+Dinner,33.3,50,Saturday,0.9,1.34,4.02
+Dinner,31.5,38,Friday,2.7,2.87,9.11
+Breakfast,43.8,72,Sunday,10.7,15.05,34.36
+Dinner,42.1,50,Thursday,6.5,3.83,9.1
+Breakfast,26.8,52,Saturday,3.2,5.23,19.51
+Lunch,41.4,63,Friday,3.4,1.59,3.84
+Lunch,36.2,59,Monday,4.8,4.68,12.93
+Breakfast,22.3,47,Saturday,2.4,4.07,18.25
+Lunch,66.9,75,Wednesday,19.3,24.44,36.53
+Lunch,80.0,82,Friday,25.6,36.74,45.93
+Breakfast,23.2,45,Saturday,3.3,3.63,15.65
+Lunch,44.4,59,Monday,4.0,9.47,21.33
+Dinner,51.0,55,Thursday,9.3,10.09,19.78
+Breakfast,13.4,23,Sunday,2.9,3.56,26.57
+Lunch,28.5,45,Tuesday,1.6,2.12,7.44
+Dinner,37.8,44,Tuesday,3.4,7.44,19.68
+Buffet / Event,113.3,124,Wednesday,12.6,23.05,20.34
+Dinner,64.2,76,Friday,6.2,7.96,12.4
+Breakfast,23.4,60,Saturday,2.7,2.98,12.74
+Buffet / Event,89.0,79,Friday,12.1,20.95,23.54
+Breakfast,18.6,42,Saturday,1.2,1.71,9.19
+Lunch,31.1,41,Friday,4.2,4.82,15.5
+Lunch,29.1,40,Wednesday,4.0,4.8,16.49
+Breakfast,53.9,85,Friday,16.9,22.73,42.17
+Dinner,40.4,53,Thursday,3.4,7.18,17.77
+Lunch,22.3,37,Sunday,4.3,3.56,15.96
+Buffet / Event,114.4,108,Tuesday,18.4,22.06,19.28
+Breakfast,24.7,48,Monday,7.0,5.04,20.4
+Breakfast,43.3,67,Saturday,13.3,15.97,36.88
+Breakfast,16.9,37,Tuesday,2.8,4.57,27.04
+Dinner,40.2,45,Sunday,5.3,4.87,12.11
+Breakfast,21.0,35,Wednesday,6.2,5.59,26.62
+Lunch,36.5,62,Tuesday,5.8,4.68,12.82
+Lunch,48.9,62,Sunday,5.1,9.77,19.98
+Lunch,38.3,56,Monday,2.7,4.31,11.25
+Dinner,74.9,60,Tuesday,20.3,27.89,37.24
+Lunch,64.6,61,Saturday,14.5,25.85,40.02
+Dinner,53.5,63,Tuesday,11.4,13.14,24.56
+Lunch,74.9,80,Wednesday,25.4,28.75,38.38
+Buffet / Event,139.3,129,Wednesday,21.4,30.27,21.73
+Dinner,71.4,64,Monday,18.1,23.23,32.54
+Dinner,21.9,28,Wednesday,4.1,2.76,12.6
+Breakfast,21.8,38,Monday,3.4,4.8,22.02
+Dinner,33.4,38,Saturday,1.0,4.28,12.81
+Lunch,34.3,58,Thursday,6.3,6.01,17.52
+Breakfast,21.4,54,Wednesday,2.7,0.91,4.25
+Dinner,42.6,58,Sunday,2.0,4.0,9.39
+Breakfast,22.6,50,Sunday,2.6,3.93,17.39
+Breakfast,23.7,45,Wednesday,2.5,4.09,17.26
+Lunch,53.3,48,Thursday,18.8,22.07,41.41
+Lunch,46.7,60,Wednesday,7.2,11.11,23.79
+Lunch,62.1,91,Thursday,7.3,14.89,23.98
+Breakfast,20.4,41,Monday,1.4,2.11,10.34
+Lunch,40.7,49,Tuesday,10.8,14.72,36.17
+Lunch,42.1,60,Thursday,7.9,4.38,10.4
+Breakfast,11.9,26,Thursday,1.9,1.88,15.8
+Breakfast,24.9,54,Saturday,0.9,2.23,8.96
+Lunch,45.5,64,Monday,3.6,10.81,23.76
+Dinner,50.4,68,Saturday,2.7,2.47,4.9
+Buffet / Event,236.5,242,Wednesday,19.6,28.32,11.97
+Dinner,34.9,44,Friday,4.8,5.86,16.79
+Breakfast,26.0,49,Tuesday,7.5,8.35,32.12
+Lunch,24.8,37,Friday,3.3,4.03,16.25
+Lunch,20.9,37,Sunday,0.0,1.48,7.08
+Dinner,81.8,66,Monday,19.7,35.89,43.88
+Breakfast,20.0,35,Monday,6.7,6.86,34.3
+Lunch,47.3,70,Monday,1.2,2.51,5.31
+Dinner,55.5,69,Sunday,0.8,2.97,5.35
+Lunch,33.7,48,Monday,1.9,7.45,22.11
+Dinner,60.8,71,Saturday,6.5,12.51,20.58
+Buffet / Event,252.8,224,Tuesday,44.0,49.95,19.76
+Lunch,38.5,71,Wednesday,3.1,2.47,6.42
+Lunch,15.1,22,Thursday,1.1,1.71,11.32
+Dinner,69.9,79,Monday,6.5,14.69,21.02
+Dinner,54.0,52,Tuesday,6.6,13.49,24.98
+Buffet / Event,75.4,94,Tuesday,2.7,3.25,4.31
+Dinner,39.1,53,Friday,5.4,5.04,12.89
+Lunch,39.5,51,Thursday,7.3,8.71,22.05
+Breakfast,24.1,51,Saturday,0.3,3.9,16.18
+Lunch,33.7,45,Wednesday,5.8,7.24,21.48
+Lunch,51.4,68,Wednesday,10.7,18.2,35.41
+Lunch,31.8,42,Tuesday,3.6,7.3,22.96
+Breakfast,18.2,47,Wednesday,1.3,1.92,10.55
+Dinner,54.6,49,Monday,18.9,20.7,37.91
+Dinner,34.8,43,Saturday,1.4,2.09,6.01
+Lunch,55.5,67,Sunday,15.8,18.11,32.63
+Dinner,64.7,73,Friday,6.3,6.69,10.34
+Breakfast,15.0,31,Friday,1.6,2.34,15.6
+Lunch,59.6,91,Saturday,10.3,9.82,16.48
+Breakfast,15.5,24,Wednesday,5.9,6.31,40.71
+Dinner,30.8,37,Tuesday,3.5,4.54,14.74
+Lunch,41.7,67,Friday,3.5,9.22,22.11
+Lunch,67.0,103,Saturday,12.2,16.36,24.42
+Lunch,26.9,43,Thursday,3.6,4.72,17.55
+Lunch,43.1,56,Sunday,5.2,7.25,16.82
+Lunch,79.7,103,Saturday,8.5,15.31,19.21
+Lunch,31.3,44,Sunday,4.7,7.07,22.59
+Lunch,28.6,56,Saturday,0.9,1.06,3.71
+Buffet / Event,107.8,100,Wednesday,15.0,19.32,17.92
+Lunch,82.4,100,Wednesday,21.7,35.0,42.48
+Lunch,64.1,81,Friday,17.0,20.37,31.78
+Breakfast,29.3,62,Friday,5.0,6.84,23.34
+Dinner,53.9,58,Monday,6.6,13.02,24.16
+Lunch,49.2,102,Friday,0.4,2.68,5.45
+Dinner,37.4,50,Thursday,2.9,1.43,3.82
+Lunch,26.0,44,Wednesday,2.5,2.45,9.42
+Lunch,44.1,57,Sunday,4.5,9.31,21.11
+Dinner,50.3,73,Sunday,1.6,4.63,9.2
+Breakfast,36.2,66,Sunday,6.1,9.01,24.89
+Lunch,23.4,44,Wednesday,1.1,0.87,3.72
+Breakfast,24.5,54,Tuesday,3.2,5.57,22.73
+Dinner,21.4,28,Wednesday,0.0,2.67,12.48
+Dinner,74.4,61,Thursday,23.4,30.77,41.36
+Lunch,44.6,79,Saturday,7.4,6.83,15.31
+Buffet / Event,168.8,174,Saturday,26.0,37.46,22.19
+Lunch,33.0,64,Sunday,1.3,1.66,5.03
+Breakfast,35.9,63,Saturday,7.8,14.38,40.06
+Buffet / Event,219.2,144,Friday,55.5,91.01,41.52
+Lunch,69.7,87,Wednesday,7.3,14.64,21.0
+Lunch,62.3,76,Wednesday,11.9,24.06,38.62
+Lunch,40.7,57,Monday,5.9,7.61,18.7
+Breakfast,21.7,44,Thursday,3.7,4.59,21.15
+Breakfast,21.7,48,Wednesday,1.7,2.19,10.09
+Dinner,45.0,39,Saturday,14.2,14.84,32.98
+Breakfast,18.7,36,Tuesday,3.4,3.51,18.77
+Lunch,45.7,68,Thursday,0.8,2.22,4.86
+Lunch,28.4,46,Tuesday,4.5,5.64,19.86
+Breakfast,13.9,35,Tuesday,0.7,0.86,6.19
+Breakfast,21.7,37,Sunday,5.6,8.99,41.43
+Lunch,48.0,57,Wednesday,4.6,10.96,22.83
+Lunch,47.7,52,Thursday,13.4,15.62,32.75
+Lunch,7.0,10,Monday,0.6,0.84,12.0
+Breakfast,17.3,23,Friday,5.3,7.04,40.69
+Buffet / Event,90.8,83,Monday,28.2,29.01,31.95
+Dinner,51.0,55,Saturday,6.6,6.09,11.94
+Lunch,20.0,29,Sunday,2.3,1.37,6.85
+Dinner,56.0,58,Tuesday,5.0,10.64,19.0
+Lunch,49.4,71,Tuesday,8.2,6.26,12.67
+Lunch,81.5,104,Saturday,12.7,13.99,17.17
+Dinner,52.0,68,Monday,8.9,7.79,14.98
+Lunch,48.3,75,Thursday,1.2,3.57,7.39
+Lunch,64.0,94,Wednesday,10.4,15.43,24.11
+Dinner,50.6,59,Wednesday,5.9,7.75,15.32
+Dinner,35.8,40,Wednesday,4.0,6.19,17.29
+Dinner,56.1,56,Monday,6.1,13.71,24.44
+Lunch,60.3,59,Tuesday,12.6,22.39,37.13
+Lunch,43.8,53,Sunday,4.4,9.94,22.69
+Dinner,43.8,40,Tuesday,11.1,18.27,41.71
+Dinner,67.5,57,Tuesday,19.8,21.92,32.47
+Lunch,35.4,60,Monday,5.6,5.04,14.24
+Lunch,83.6,101,Saturday,12.6,20.5,24.52
+Lunch,35.6,70,Monday,0.2,2.06,5.79
+Dinner,63.4,58,Thursday,21.2,20.64,32.56
+Breakfast,17.4,45,Thursday,0.3,0.86,4.94
+Lunch,62.4,61,Sunday,12.1,25.66,41.12
+Breakfast,12.4,32,Saturday,0.6,0.64,5.16
+Lunch,44.6,80,Wednesday,5.5,5.94,13.32
+Breakfast,21.3,46,Wednesday,2.7,2.97,13.94
+Dinner,27.4,34,Monday,1.9,2.04,7.45
+Dinner,38.4,44,Tuesday,2.7,7.28,18.96
+Dinner,35.8,52,Saturday,1.9,2.47,6.9
+Lunch,77.2,73,Sunday,22.9,30.66,39.72
+Dinner,41.9,46,Friday,6.0,10.12,24.15
+Lunch,41.3,57,Tuesday,4.6,9.28,22.47
+Lunch,57.4,81,Saturday,7.9,7.74,13.48
+Buffet / Event,184.4,169,Thursday,52.4,57.71,31.3
+Lunch,26.4,42,Thursday,4.8,5.3,20.08
+Dinner,41.0,61,Monday,3.1,2.41,5.88
+Lunch,36.7,64,Saturday,6.6,3.53,9.62
+Dinner,44.2,56,Thursday,1.5,3.68,8.33
+Breakfast,21.4,55,Thursday,0.7,0.73,3.41
+Breakfast,24.7,66,Saturday,0.0,1.84,7.45
+Lunch,37.0,63,Saturday,1.8,1.96,5.3
+Lunch,44.2,88,Tuesday,3.0,1.7,3.85
+Dinner,22.9,33,Thursday,1.5,0.8,3.49
+Lunch,29.7,39,Tuesday,3.6,6.4,21.55
+Lunch,77.6,104,Friday,12.1,14.5,18.69
+Breakfast,28.3,61,Sunday,4.9,3.51,12.4
+Dinner,26.0,40,Thursday,2.0,1.05,4.04
+Dinner,54.9,65,Saturday,2.6,3.74,6.81
+Lunch,57.1,55,Monday,15.5,25.18,44.1
+Lunch,49.3,62,Tuesday,13.2,18.77,38.07
+Dinner,65.2,60,Saturday,21.6,19.28,29.57
+Dinner,40.7,44,Saturday,2.9,8.0,19.66
+Lunch,78.2,89,Sunday,20.2,34.32,43.89
+Dinner,45.6,59,Wednesday,4.4,9.18,20.13
+Lunch,51.0,75,Tuesday,4.4,6.92,13.57
+Buffet / Event,204.6,157,Wednesday,22.6,48.22,23.57
+Dinner,27.3,28,Friday,3.5,6.04,22.12
+Dinner,56.1,76,Wednesday,3.1,3.26,5.81
+Breakfast,16.5,33,Thursday,1.4,3.28,19.88
+Dinner,59.9,67,Wednesday,6.0,14.97,24.99
+Lunch,48.1,58,Tuesday,10.1,18.72,38.92
+Buffet / Event,111.2,94,Friday,14.3,25.01,22.49
+Breakfast,23.3,44,Thursday,2.6,5.21,22.36
+Breakfast,18.1,34,Thursday,3.6,2.8,15.47
+Dinner,28.9,37,Tuesday,0.0,0.98,3.39
+Dinner,32.2,43,Monday,3.8,4.5,13.98
+Lunch,49.7,91,Friday,3.2,1.78,3.58
+Dinner,37.0,46,Wednesday,3.0,2.77,7.49
+Lunch,49.9,67,Thursday,5.6,8.01,16.05
+Lunch,76.4,81,Saturday,19.7,29.55,38.68
+Dinner,32.4,49,Friday,1.7,1.82,5.62
+Breakfast,23.6,48,Wednesday,4.5,5.51,23.35
+Lunch,50.7,77,Sunday,7.4,6.16,12.15
+Dinner,54.4,60,Tuesday,4.6,10.58,19.45
+Lunch,33.5,50,Thursday,4.1,6.21,18.54
+Breakfast,32.4,64,Friday,0.0,2.95,9.1
+Lunch,37.9,79,Monday,1.1,1.65,4.35
+Buffet / Event,133.5,169,Sunday,9.7,6.41,4.8
+Breakfast,16.3,30,Monday,4.2,5.82,35.71
+Breakfast,15.2,35,Saturday,2.0,1.01,6.64
+Dinner,43.2,38,Sunday,8.6,18.25,42.25
+Breakfast,26.7,61,Saturday,3.3,4.37,16.37
+Dinner,72.7,83,Thursday,2.6,5.74,7.9
+Lunch,45.6,78,Sunday,0.9,3.1,6.8
+Dinner,34.0,39,Wednesday,4.5,7.4,21.76
+Dinner,31.1,37,Friday,3.2,6.47,20.8
+Breakfast,19.0,53,Saturday,0.3,0.72,3.79
+Dinner,69.1,60,Monday,21.3,24.57,35.56
+Lunch,57.2,77,Thursday,8.0,10.46,18.29
+Breakfast,17.9,50,Sunday,1.8,1.1,6.15
+Breakfast,26.7,52,Wednesday,4.3,5.4,20.22
+Dinner,46.2,66,Friday,1.4,5.08,11.0
+Lunch,41.3,55,Thursday,11.1,11.78,28.52
+Dinner,51.4,52,Friday,8.6,11.57,22.51
+Dinner,44.3,50,Sunday,3.7,7.39,16.68
+Lunch,42.7,46,Thursday,12.4,14.15,33.14
+Lunch,27.0,39,Wednesday,4.3,6.94,25.7
+Dinner,30.5,40,Monday,3.0,5.0,16.39
+Breakfast,24.8,42,Wednesday,3.6,5.58,22.5
+Dinner,50.8,58,Sunday,8.7,8.06,15.87
+Lunch,60.1,86,Friday,10.2,10.88,18.1
+Dinner,46.8,62,Sunday,6.1,6.09,13.01
+Lunch,23.1,37,Tuesday,1.4,1.34,5.8
+Breakfast,19.0,52,Saturday,0.5,1.0,5.26
+Breakfast,15.4,28,Monday,3.8,5.53,35.91
+Lunch,38.3,75,Friday,3.5,1.55,4.05
+Dinner,61.7,69,Friday,6.0,5.87,9.51
+Buffet / Event,93.2,113,Saturday,6.6,8.4,9.01
+Lunch,40.6,56,Wednesday,5.9,6.46,15.91
+Dinner,97.1,73,Tuesday,30.2,42.27,43.53
+Breakfast,33.3,49,Sunday,7.4,14.2,42.64
+Breakfast,34.6,65,Friday,6.4,10.0,28.9
+Lunch,23.6,37,Monday,4.4,3.98,16.86
+Breakfast,37.6,66,Sunday,6.3,7.19,19.12
+Lunch,46.8,66,Tuesday,2.3,4.53,9.68
+Dinner,100.6,72,Tuesday,33.0,42.67,42.42
+Lunch,34.1,45,Thursday,4.4,7.06,20.7
+Dinner,24.6,32,Monday,0.9,1.16,4.72
+Lunch,41.8,54,Monday,6.6,9.44,22.58
+Dinner,62.4,44,Wednesday,17.2,27.35,43.83
+Lunch,34.3,44,Sunday,3.5,7.19,20.96
+Lunch,72.3,91,Thursday,18.5,22.57,31.22
+Dinner,47.9,63,Sunday,6.9,6.21,12.96
+Breakfast,16.9,36,Monday,0.7,0.63,3.73
+Buffet / Event,133.3,110,Tuesday,18.1,30.07,22.56
+Buffet / Event,98.6,124,Tuesday,5.1,5.16,5.23
+Lunch,43.3,63,Thursday,5.2,10.7,24.71
+Lunch,38.6,60,Tuesday,6.1,7.35,19.04
+Dinner,64.9,68,Saturday,10.6,14.44,22.25
+Dinner,32.9,33,Tuesday,3.5,8.5,25.84
+Breakfast,20.1,34,Thursday,5.6,7.98,39.7
+Lunch,71.6,98,Friday,6.1,13.27,18.53
+Lunch,64.9,59,Thursday,17.3,29.15,44.92
+Lunch,33.6,51,Thursday,1.5,1.49,4.43
+Dinner,79.6,87,Saturday,19.6,22.75,28.58
+Dinner,61.0,92,Friday,3.0,3.17,5.2
+Lunch,47.6,76,Saturday,4.3,7.35,15.44
+Dinner,74.9,96,Sunday,4.3,4.5,6.01
+Breakfast,18.1,46,Wednesday,0.6,0.99,5.47
+Dinner,42.8,49,Thursday,6.1,6.71,15.68
+Lunch,56.5,53,Monday,13.0,24.15,42.74
+Lunch,73.0,115,Friday,6.0,13.42,18.38
+Dinner,29.2,40,Tuesday,0.4,1.69,5.79
+Lunch,64.7,83,Monday,7.9,12.35,19.09
+Lunch,67.5,60,Monday,19.5,29.04,43.02
+Lunch,24.9,48,Wednesday,0.8,0.89,3.57
+Breakfast,17.7,29,Wednesday,4.9,6.81,38.47
+Breakfast,26.2,64,Friday,1.9,1.83,6.98
+Dinner,22.6,29,Monday,4.4,3.75,16.59
+Breakfast,25.0,33,Friday,6.2,11.27,45.08
+Breakfast,12.0,25,Wednesday,1.5,3.12,26.0
+Breakfast,30.1,67,Thursday,0.6,2.81,9.34
+Breakfast,6.2,12,Saturday,1.4,1.72,27.74
+Lunch,25.5,41,Wednesday,4.4,4.34,17.02
+Lunch,71.2,107,Saturday,10.0,12.26,17.22
+Lunch,41.5,62,Wednesday,3.3,2.36,5.69
+Lunch,31.7,46,Tuesday,2.1,2.36,7.44
+Dinner,68.3,55,Monday,18.0,26.04,38.13
+Breakfast,22.2,41,Monday,2.0,3.26,14.68
+Breakfast,13.7,23,Thursday,2.7,4.75,34.67
+Lunch,25.5,51,Sunday,1.7,1.02,4.0
+Breakfast,29.6,65,Tuesday,1.4,0.97,3.28
+Breakfast,13.4,42,Friday,0.8,0.69,5.15
+Breakfast,28.5,58,Monday,2.1,2.38,8.35
+Breakfast,35.6,75,Saturday,5.7,5.59,15.7
+Lunch,26.3,42,Monday,2.5,5.0,19.01
+Buffet / Event,105.8,122,Sunday,7.2,5.34,5.05
+Lunch,30.3,59,Tuesday,2.0,2.01,6.63
+Lunch,14.6,30,Friday,1.0,0.51,3.49
+Lunch,48.9,81,Tuesday,6.0,8.23,16.83
+Lunch,54.1,87,Wednesday,8.2,7.04,13.01
+Breakfast,35.2,61,Saturday,9.9,10.65,30.26
+Lunch,41.6,77,Tuesday,2.1,3.15,7.57
+Lunch,20.4,31,Saturday,2.3,2.69,13.19
+Lunch,27.8,42,Friday,2.2,2.72,9.78
+Dinner,60.0,74,Sunday,2.2,4.99,8.32
+Dinner,64.4,70,Saturday,11.4,9.32,14.47
+Lunch,37.6,70,Monday,2.1,2.35,6.25
+Lunch,62.7,56,Saturday,13.6,26.3,41.95
+Lunch,44.6,69,Friday,3.0,7.61,17.06
+Dinner,45.0,39,Sunday,16.9,19.74,43.87
+Lunch,25.6,36,Saturday,5.3,5.49,21.45
+Breakfast,24.6,57,Wednesday,0.8,2.33,9.47
+Lunch,57.1,54,Sunday,11.9,24.19,42.36
+Dinner,58.3,68,Saturday,2.0,5.27,9.04
+Lunch,40.0,77,Wednesday,1.7,1.35,3.38
+Dinner,72.5,90,Friday,8.4,14.31,19.74
+Dinner,72.4,58,Wednesday,14.0,29.82,41.19
+Lunch,55.0,79,Thursday,7.3,10.77,19.58
+Breakfast,24.2,52,Thursday,1.8,2.33,9.63
+Lunch,47.7,73,Tuesday,7.8,12.54,26.29
+Lunch,37.3,47,Thursday,4.9,7.2,19.3
+Lunch,50.9,92,Friday,6.0,4.38,8.61
+Dinner,107.7,109,Saturday,27.0,36.64,34.02
+Dinner,65.1,76,Friday,2.0,6.14,9.43
+Dinner,58.0,66,Friday,7.0,14.11,24.33
+Breakfast,17.9,36,Friday,2.8,4.51,25.2
+Dinner,35.8,36,Sunday,5.1,8.55,23.88
+Lunch,40.8,54,Saturday,6.4,9.43,23.11
+Dinner,35.3,40,Monday,2.6,2.73,7.73
+Lunch,36.6,40,Sunday,8.3,11.48,31.37
+Lunch,54.6,84,Tuesday,9.2,9.82,17.99
+Lunch,24.4,41,Wednesday,1.0,1.63,6.68
+Dinner,11.1,10,Thursday,4.3,4.68,42.16
+Lunch,105.0,108,Wednesday,20.2,39.04,37.18
+Lunch,47.2,79,Tuesday,2.3,2.66,5.64
+Buffet / Event,138.8,171,Friday,8.3,8.93,6.43
+Lunch,38.5,58,Monday,5.3,7.42,19.27
+Buffet / Event,92.6,87,Monday,4.8,5.19,5.6
+Breakfast,21.4,52,Monday,1.8,3.92,18.32
+Lunch,48.2,86,Saturday,3.2,4.2,8.71
+Breakfast,25.8,39,Tuesday,5.8,8.21,31.82
+Lunch,37.1,61,Saturday,5.0,6.66,17.95
+Breakfast,26.2,46,Tuesday,3.8,5.31,20.27
+Lunch,51.5,85,Friday,1.8,4.15,8.06
+Lunch,54.2,78,Thursday,6.2,11.76,21.7
+Lunch,42.1,46,Tuesday,13.5,18.59,44.16
+Breakfast,23.8,56,Tuesday,2.1,4.0,16.81
+Lunch,45.6,72,Thursday,6.6,6.29,13.79
+Lunch,24.3,31,Monday,4.5,6.39,26.3
+Dinner,39.5,49,Saturday,5.3,9.04,22.89
+Lunch,44.3,74,Thursday,7.0,6.99,15.78
+Breakfast,31.4,40,Tuesday,6.3,13.99,44.55
+Lunch,46.6,47,Monday,10.9,21.29,45.69
+Lunch,36.6,61,Thursday,6.2,6.82,18.63
+Breakfast,22.2,40,Wednesday,3.9,7.7,34.68
+Buffet / Event,167.2,173,Sunday,11.3,8.4,5.02
+Lunch,28.6,40,Monday,8.3,8.6,30.07
+Breakfast,30.6,64,Sunday,2.2,2.53,8.27
+Breakfast,35.2,74,Sunday,7.2,10.65,30.26
+Dinner,62.9,51,Friday,19.5,27.5,43.72
+Dinner,25.7,31,Tuesday,1.1,2.71,10.54
+Lunch,44.1,66,Sunday,4.6,11.25,25.51
+Dinner,39.3,36,Tuesday,12.1,16.67,42.42
+Breakfast,17.1,34,Tuesday,2.1,3.2,18.71
+Dinner,17.1,28,Monday,1.0,0.88,5.15
+Breakfast,29.6,48,Friday,3.8,7.97,26.93
+Lunch,43.2,57,Sunday,6.9,10.61,24.56
+Buffet / Event,199.1,228,Friday,24.3,30.87,15.5
+Lunch,40.3,55,Saturday,5.0,4.58,11.36
+Dinner,39.6,51,Friday,7.2,5.97,15.08
+Dinner,72.9,76,Sunday,14.9,20.59,28.24
+Buffet / Event,150.8,143,Saturday,14.4,18.08,11.99
+Breakfast,19.0,48,Saturday,1.3,2.17,11.42
+Breakfast,32.9,69,Sunday,0.3,4.25,12.92
+Dinner,65.9,80,Saturday,10.8,9.14,13.87
+Lunch,47.9,68,Wednesday,2.4,4.07,8.5
+Breakfast,16.7,36,Tuesday,0.0,0.92,5.51
+Lunch,31.6,47,Wednesday,3.3,4.29,13.58
+Dinner,30.8,37,Saturday,2.8,6.16,20.0
+Breakfast,23.9,63,Friday,0.7,2.34,9.79
+Breakfast,29.8,47,Wednesday,5.3,11.49,38.56
+Lunch,22.2,33,Friday,0.0,2.55,11.49
+Breakfast,25.1,59,Friday,3.3,4.04,16.1
+Buffet / Event,189.7,166,Wednesday,17.3,46.48,24.5
+Dinner,53.0,56,Sunday,5.5,9.76,18.42
+Lunch,50.5,83,Sunday,6.5,6.8,13.47
+Breakfast,21.8,44,Tuesday,1.6,1.46,6.7
+Lunch,44.7,55,Tuesday,6.9,9.68,21.66
+Lunch,36.5,40,Monday,12.0,13.41,36.74
+Buffet / Event,152.0,128,Friday,23.1,21.98,14.46
+Dinner,67.1,80,Sunday,8.5,11.36,16.93
+Lunch,44.2,63,Thursday,4.7,5.73,12.96
+Dinner,67.4,95,Wednesday,4.8,2.17,3.22
+Breakfast,6.3,16,Wednesday,0.0,0.34,5.4
+Buffet / Event,210.0,150,Thursday,41.2,72.49,34.52
+Lunch,76.9,73,Wednesday,20.9,35.13,45.68
+Breakfast,19.5,44,Thursday,2.5,2.39,12.26
+Lunch,41.1,72,Saturday,4.1,3.58,8.71
+Breakfast,26.7,50,Sunday,1.9,3.93,14.72
+Breakfast,25.1,56,Thursday,3.5,4.7,18.73
+Breakfast,20.0,47,Thursday,0.4,1.07,5.35
+Breakfast,25.3,58,Sunday,5.1,4.8,18.97
+Lunch,44.2,76,Wednesday,6.3,6.84,15.48
+Lunch,37.5,55,Monday,5.2,5.9,15.73
+Dinner,42.3,43,Wednesday,4.3,6.95,16.43
+Breakfast,24.5,51,Sunday,0.9,1.54,6.29
+Dinner,53.6,46,Monday,11.9,19.2,35.82
+Lunch,26.7,36,Sunday,3.0,3.78,14.16
+Dinner,38.1,49,Wednesday,0.4,1.67,4.38
+Lunch,42.0,76,Thursday,2.8,1.4,3.33
+Dinner,25.4,25,Thursday,8.5,8.35,32.87
+Breakfast,18.8,53,Monday,1.8,1.08,5.74
+Lunch,57.8,64,Saturday,15.4,24.94,43.15
+Buffet / Event,108.8,103,Monday,4.2,5.34,4.91
+Lunch,26.3,53,Monday,1.3,1.4,5.32
+Dinner,31.1,43,Tuesday,2.5,1.4,4.5
+Lunch,38.9,38,Thursday,7.7,16.6,42.67
+Dinner,37.6,46,Tuesday,1.7,2.21,5.88
+Dinner,38.8,43,Saturday,3.7,5.18,13.35
+Lunch,36.7,53,Monday,1.5,3.21,8.75
+Dinner,40.8,60,Sunday,2.3,1.89,4.63
+Dinner,33.4,38,Saturday,5.2,7.02,21.02
+Lunch,93.9,91,Sunday,19.1,41.46,44.15
+Lunch,31.8,43,Tuesday,4.6,6.0,18.87
+Dinner,42.4,52,Sunday,5.5,7.78,18.35
+Breakfast,38.5,84,Friday,4.6,7.59,19.71
+Lunch,68.0,99,Saturday,5.9,16.15,23.75
+Lunch,70.9,98,Saturday,7.7,15.09,21.28
+Breakfast,28.5,63,Sunday,3.0,5.8,20.35
+Dinner,33.5,33,Monday,10.0,10.63,31.73
+Lunch,25.0,45,Monday,0.5,1.35,5.4
+Breakfast,19.7,49,Saturday,2.8,2.83,14.37
+Breakfast,26.7,54,Saturday,1.6,3.02,11.31
+Dinner,35.7,51,Friday,0.6,4.36,12.21
+Lunch,55.5,53,Monday,12.4,23.05,41.53
+Buffet / Event,176.2,138,Wednesday,18.9,42.88,24.34
+Lunch,64.5,94,Monday,7.7,10.46,16.22
+Dinner,41.3,50,Wednesday,7.1,7.5,18.16
+Lunch,51.7,49,Thursday,13.4,21.39,41.37
+Breakfast,16.4,37,Friday,0.2,1.68,10.24
+Breakfast,37.4,50,Tuesday,11.3,15.52,41.5
+Breakfast,23.9,48,Wednesday,3.4,3.13,13.1
+Buffet / Event,93.1,109,Saturday,16.8,12.88,13.83
+Lunch,32.0,50,Tuesday,0.7,1.59,4.97
+Breakfast,8.7,20,Tuesday,0.4,0.32,3.68
+Dinner,59.5,78,Sunday,6.5,10.64,17.88
+Lunch,28.7,49,Friday,1.8,2.15,7.49
+Breakfast,20.4,42,Tuesday,2.9,4.51,22.11
+Lunch,8.8,10,Friday,0.9,2.6,29.55
+Lunch,34.7,62,Friday,1.4,2.95,8.5
+Lunch,32.9,42,Friday,3.1,7.13,21.67
+Dinner,43.4,55,Thursday,3.3,2.56,5.9
+Breakfast,19.8,38,Thursday,2.7,4.17,21.06
+Breakfast,27.8,68,Monday,1.4,0.92,3.31
+Dinner,115.9,95,Saturday,28.8,43.72,37.72
+Breakfast,41.8,60,Saturday,7.9,15.14,36.22
+Dinner,66.2,75,Thursday,6.9,8.4,12.69
+Dinner,49.0,56,Sunday,2.3,4.64,9.47
+Dinner,71.3,62,Saturday,20.6,24.7,34.64
+Lunch,49.2,71,Wednesday,2.1,4.43,9.0
+Breakfast,25.6,47,Friday,4.7,5.52,21.56
+Breakfast,30.1,72,Saturday,1.4,1.35,4.49
+Dinner,48.3,53,Saturday,5.3,10.48,21.7
+Lunch,48.6,69,Thursday,6.5,6.3,12.96
+Lunch,70.5,76,Saturday,25.0,31.33,44.44
+Breakfast,22.9,52,Sunday,4.0,3.04,13.28
+Buffet / Event,89.0,81,Friday,14.3,17.51,19.67
+Lunch,30.1,48,Thursday,3.2,6.87,22.82
+Breakfast,21.9,57,Tuesday,0.0,2.28,10.41
+Breakfast,35.6,52,Tuesday,7.4,14.59,40.98
+Dinner,53.1,61,Thursday,3.6,4.01,7.55
+Lunch,12.0,16,Saturday,1.7,3.76,31.33
+Buffet / Event,206.6,192,Friday,64.5,63.13,30.56
+Dinner,42.5,58,Saturday,2.0,2.38,5.6
+Lunch,7.9,10,Wednesday,1.7,2.62,33.16
+Breakfast,22.3,56,Wednesday,1.5,1.2,5.38
+Breakfast,21.3,45,Tuesday,3.6,3.7,17.37
+Lunch,31.7,45,Wednesday,5.9,5.63,17.76
+Breakfast,19.8,45,Sunday,3.5,3.29,16.62
+Buffet / Event,105.6,131,Wednesday,5.3,3.84,3.64
+Lunch,59.4,79,Saturday,10.0,14.56,24.51
+Buffet / Event,92.9,88,Monday,12.5,15.78,16.99
+Breakfast,41.6,59,Saturday,7.4,18.37,44.16
+Dinner,43.2,59,Sunday,2.8,1.68,3.89
+Buffet / Event,88.8,102,Tuesday,1.6,8.21,9.25
+Lunch,21.4,42,Friday,0.2,0.94,4.39
+Dinner,45.8,65,Monday,3.0,4.51,9.85
+Buffet / Event,161.7,122,Monday,31.8,63.63,39.35
+Dinner,52.6,70,Wednesday,8.6,7.83,14.89
+Breakfast,29.7,66,Saturday,2.5,3.87,13.03
+Dinner,23.1,27,Thursday,0.4,2.76,11.95
+Breakfast,17.6,49,Monday,0.8,1.01,5.74
+Lunch,18.6,26,Monday,3.1,4.15,22.31
+Lunch,31.3,56,Tuesday,5.1,3.63,11.6
+Dinner,42.5,48,Wednesday,4.3,9.42,22.16
+Breakfast,20.3,52,Tuesday,0.3,1.1,5.42
+Lunch,49.6,72,Saturday,8.5,6.91,13.93
+Breakfast,14.3,29,Saturday,2.8,2.53,17.69
+Breakfast,13.0,29,Saturday,0.5,2.51,19.31
+Lunch,72.1,104,Friday,7.8,17.19,23.84
+Lunch,21.7,36,Thursday,3.0,1.47,6.77
+Lunch,88.1,91,Friday,24.4,38.3,43.47
+Buffet / Event,151.6,136,Wednesday,51.3,47.63,31.42
+Breakfast,18.9,43,Sunday,1.8,1.51,7.99
+Lunch,52.8,75,Monday,7.3,8.59,16.27
+Dinner,38.4,53,Tuesday,1.0,2.07,5.39
+Breakfast,28.8,50,Tuesday,7.5,8.6,29.86
+Breakfast,17.6,24,Sunday,4.4,8.01,45.51
+Dinner,43.1,47,Tuesday,7.2,11.31,26.24
+Lunch,33.0,45,Thursday,5.1,6.09,18.45
+Dinner,51.9,67,Tuesday,1.4,2.88,5.55
+Dinner,33.7,29,Sunday,8.0,14.56,43.2
+Dinner,78.2,67,Friday,24.0,27.52,35.19
+Breakfast,18.7,42,Friday,2.2,3.35,17.91
+Lunch,39.3,72,Wednesday,4.6,3.56,9.06
+Dinner,40.9,59,Wednesday,3.0,2.23,5.45
+Lunch,59.5,67,Monday,19.4,26.68,44.84
+Dinner,60.4,74,Sunday,3.9,4.48,7.42
+Dinner,80.7,67,Saturday,21.1,34.68,42.97
+Buffet / Event,145.4,106,Wednesday,31.0,56.6,38.93
+Dinner,25.5,33,Monday,1.9,1.68,6.59
+Buffet / Event,65.6,78,Monday,4.1,2.72,4.15
+Lunch,53.8,69,Tuesday,6.7,12.08,22.45
+Dinner,37.0,48,Monday,6.2,4.57,12.35
+Breakfast,26.5,50,Sunday,4.7,6.65,25.09
+Lunch,46.9,81,Friday,3.5,2.49,5.31
+Breakfast,27.9,52,Wednesday,3.6,6.04,21.65
+Breakfast,24.5,62,Thursday,0.2,1.11,4.53
+Lunch,49.2,63,Tuesday,15.0,13.61,27.66
+Lunch,30.0,53,Saturday,0.9,3.16,10.53
+Dinner,79.6,68,Saturday,19.1,34.98,43.94
+Buffet / Event,106.5,120,Thursday,12.6,14.43,13.55
+Dinner,45.6,54,Saturday,7.6,11.56,25.35
+Dinner,59.2,62,Friday,5.6,11.5,19.43
+Lunch,45.3,58,Sunday,6.0,8.19,18.08
+Dinner,31.1,38,Friday,2.7,7.5,24.12
+Breakfast,24.3,60,Saturday,0.5,2.78,11.44
+Buffet / Event,156.1,164,Thursday,5.0,7.51,4.81
+Lunch,43.7,46,Monday,13.7,17.11,39.15
+Breakfast,20.1,48,Thursday,0.8,0.71,3.53
+Lunch,9.6,17,Friday,1.2,0.89,9.27
+Breakfast,24.9,58,Friday,3.0,5.37,21.57
+Lunch,45.6,83,Friday,1.6,1.69,3.71
+Lunch,24.0,37,Thursday,1.5,4.15,17.29
+Lunch,21.8,36,Thursday,2.1,0.95,4.36
+Buffet / Event,116.3,132,Friday,6.5,7.82,6.72
+Dinner,22.1,26,Monday,3.1,3.83,17.33
+Lunch,46.1,65,Sunday,5.6,10.1,21.91
+Breakfast,11.9,32,Friday,0.9,0.55,4.62
+Dinner,43.5,47,Tuesday,7.8,6.38,14.67
+Lunch,52.4,59,Sunday,13.9,13.68,26.11
+Buffet / Event,185.9,157,Friday,20.1,47.08,25.33
+Lunch,46.4,72,Tuesday,3.9,5.33,11.49
+Breakfast,36.2,77,Saturday,2.3,4.58,12.65
+Breakfast,21.4,45,Friday,4.0,4.44,20.75
+Dinner,26.3,34,Friday,2.1,3.71,14.11
+Breakfast,17.7,39,Saturday,0.2,0.94,5.31
+Dinner,44.8,53,Thursday,6.8,10.1,22.54
+Lunch,48.9,77,Wednesday,4.3,5.53,11.31
+Dinner,42.5,57,Wednesday,0.9,4.26,10.02
+Buffet / Event,143.6,135,Monday,9.7,13.43,9.35
+Lunch,22.7,28,Wednesday,6.7,8.37,36.87
+Lunch,14.2,24,Thursday,0.2,0.6,4.23
+Breakfast,27.8,48,Monday,3.8,7.31,26.29
+Lunch,85.0,90,Sunday,23.5,30.13,35.45
+Breakfast,23.7,46,Friday,2.5,5.84,24.64
+Dinner,59.4,40,Tuesday,15.3,27.46,46.23
+Breakfast,19.2,36,Saturday,2.5,2.65,13.8
+Lunch,32.1,45,Tuesday,9.5,8.57,26.7
+Dinner,78.8,94,Saturday,10.4,19.69,24.99
+Dinner,76.9,92,Saturday,9.3,17.22,22.39
+Dinner,25.2,32,Wednesday,2.5,4.22,16.75
+Lunch,54.2,96,Sunday,3.8,4.31,7.95
+Breakfast,18.0,52,Tuesday,1.5,1.13,6.28
+Lunch,40.1,60,Friday,6.9,7.33,18.28
+Buffet / Event,156.1,160,Friday,14.3,22.79,14.6
+Breakfast,22.7,54,Friday,1.9,2.39,10.53
+Breakfast,29.1,52,Friday,2.9,5.94,20.41
+Breakfast,9.7,23,Friday,2.3,1.68,17.32
+Dinner,56.0,63,Wednesday,8.8,13.97,24.95
+Buffet / Event,86.8,77,Monday,7.7,20.89,24.07
+Lunch,19.8,28,Monday,3.0,3.21,16.21
+Lunch,35.7,72,Sunday,2.5,1.3,3.64
+Buffet / Event,134.3,136,Tuesday,20.3,34.36,25.58
+Dinner,52.8,77,Tuesday,3.7,3.2,6.06
+Dinner,59.4,67,Tuesday,10.1,10.06,16.94
+Breakfast,26.8,62,Saturday,2.1,0.91,3.4
+Breakfast,29.2,52,Friday,4.0,6.61,22.64
+Dinner,50.6,59,Wednesday,9.1,13.27,26.23
+Lunch,31.5,55,Monday,1.9,1.43,4.54
+Lunch,45.2,63,Tuesday,6.2,5.82,12.88
+Lunch,45.7,86,Tuesday,2.1,2.33,5.1
+Dinner,75.7,94,Saturday,5.5,3.76,4.97
+Lunch,55.7,69,Wednesday,13.1,19.32,34.69
+Dinner,18.5,17,Saturday,4.9,6.59,35.62
+Breakfast,35.3,69,Friday,4.7,8.35,23.65
+Breakfast,5.0,11,Monday,0.8,1.01,20.2
+Lunch,35.1,55,Tuesday,5.6,7.29,20.77
+Breakfast,28.5,54,Sunday,5.0,4.48,15.72
+Dinner,50.1,45,Saturday,12.8,14.73,29.4
+Breakfast,25.8,47,Tuesday,2.4,5.9,22.87
+Lunch,10.5,16,Thursday,1.1,0.97,9.24
+Breakfast,14.9,33,Friday,2.0,2.49,16.71
+Breakfast,24.5,46,Tuesday,3.7,6.41,26.16
+Lunch,12.7,22,Friday,1.8,1.66,13.07
+Dinner,38.6,50,Sunday,5.1,6.44,16.68
+Buffet / Event,190.8,125,Tuesday,48.0,76.67,40.18
+Lunch,59.5,62,Thursday,11.8,19.3,32.44
+Lunch,52.2,70,Monday,8.0,12.8,24.52
+Lunch,32.2,54,Thursday,0.5,4.39,13.63
+Breakfast,21.6,48,Tuesday,3.7,4.33,20.05
+Dinner,70.5,74,Wednesday,4.9,13.27,18.82
+Lunch,41.1,58,Tuesday,4.8,8.82,21.46
+Buffet / Event,167.5,123,Monday,58.9,59.75,35.67
+Breakfast,20.7,46,Thursday,0.5,1.07,5.17
+Dinner,76.6,72,Saturday,12.4,19.61,25.6
+Dinner,32.6,44,Tuesday,1.1,3.18,9.75
+Breakfast,28.7,43,Wednesday,4.4,10.46,36.45
+Lunch,32.8,55,Tuesday,2.6,2.34,7.13
+Lunch,44.7,82,Saturday,2.4,4.21,9.42
+Lunch,45.8,73,Sunday,3.7,6.63,14.48
+Dinner,25.2,42,Thursday,0.0,1.11,4.4
+Dinner,39.2,45,Saturday,3.8,6.72,17.14
+Dinner,70.4,66,Friday,12.9,20.58,29.23
+Dinner,38.1,41,Tuesday,3.2,5.54,14.54
+Dinner,39.9,37,Thursday,7.3,14.29,35.81
+Lunch,54.1,88,Saturday,7.0,11.95,22.09
+Breakfast,28.0,46,Monday,5.8,11.63,41.54
+Breakfast,18.2,42,Friday,1.6,3.06,16.81
+Dinner,22.6,24,Wednesday,2.7,4.96,21.95
+Dinner,31.2,45,Tuesday,0.8,1.96,6.28
+Lunch,31.3,44,Tuesday,2.9,4.85,15.5
+Dinner,74.9,64,Saturday,23.0,27.3,36.45
+Lunch,18.5,34,Monday,0.6,0.92,4.97
+Lunch,42.0,58,Sunday,4.0,8.06,19.19
+Lunch,21.4,31,Sunday,4.0,2.93,13.69
+Lunch,47.9,71,Friday,8.0,6.23,13.01
+Lunch,56.7,71,Saturday,5.0,11.14,19.65
+Dinner,72.3,75,Thursday,6.6,16.22,22.43
+Breakfast,27.3,34,Monday,7.1,11.95,43.77
+Breakfast,21.6,49,Saturday,1.8,4.59,21.25
+Dinner,52.4,59,Thursday,7.6,11.07,21.13
+Dinner,95.2,100,Saturday,12.7,18.09,19.0
+Breakfast,16.1,37,Monday,1.4,3.79,23.54
+Breakfast,42.0,77,Saturday,8.7,15.73,37.45
+Buffet / Event,130.3,103,Friday,13.9,32.04,24.59
+Breakfast,22.1,55,Sunday,2.2,3.62,16.38
+Dinner,58.7,65,Friday,9.1,10.87,18.52
+Lunch,19.3,31,Monday,2.2,3.73,19.33
+Dinner,28.9,38,Tuesday,1.5,1.04,3.6
+Lunch,39.0,50,Sunday,5.7,7.3,18.72
+Lunch,20.4,37,Monday,1.7,1.05,5.15
+Buffet / Event,105.7,91,Saturday,14.5,16.73,15.83
+Buffet / Event,41.2,55,Friday,2.0,1.75,4.25
+Lunch,36.1,53,Saturday,3.6,9.38,25.98
+Lunch,57.8,60,Thursday,10.8,19.46,33.67
+Dinner,57.7,67,Saturday,5.8,10.54,18.27
+Dinner,39.1,50,Wednesday,3.6,2.64,6.75
+Buffet / Event,114.1,119,Friday,10.8,16.76,14.69
+Dinner,40.2,50,Thursday,5.6,8.07,20.07
+Buffet / Event,100.7,128,Thursday,4.0,3.88,3.85
+Dinner,8.8,10,Thursday,1.1,1.66,18.86
+Dinner,39.2,29,Tuesday,12.7,16.64,42.45
+Breakfast,29.5,55,Thursday,5.0,5.89,19.97
+Lunch,35.4,59,Tuesday,2.2,1.14,3.22
+Dinner,8.4,10,Sunday,1.1,1.25,14.88
+Dinner,48.4,51,Monday,9.6,15.72,32.48
+Lunch,38.5,66,Friday,0.7,3.42,8.88
+Breakfast,22.0,40,Wednesday,2.2,5.32,24.18
+Dinner,55.3,64,Monday,5.2,6.04,10.92
+Lunch,43.8,72,Saturday,2.6,4.48,10.23
+Dinner,36.1,40,Wednesday,4.2,6.57,18.2
+Lunch,28.6,29,Thursday,10.2,10.25,35.84
+Breakfast,13.6,37,Thursday,1.0,0.47,3.46
+Lunch,62.6,78,Tuesday,7.4,15.63,24.97
+Breakfast,26.1,43,Thursday,8.9,8.18,31.34
+Lunch,51.8,70,Thursday,3.9,9.64,18.61
+Lunch,27.6,41,Tuesday,2.9,3.63,13.15
+Dinner,56.7,52,Thursday,15.9,23.26,41.02
+Lunch,66.9,98,Saturday,9.8,12.3,18.39
+Breakfast,21.8,41,Monday,2.5,3.6,16.51
+Lunch,32.3,48,Friday,3.7,6.68,20.68
+Breakfast,25.6,58,Saturday,1.2,3.17,12.38
+Lunch,18.1,30,Monday,3.2,1.97,10.88
+Dinner,43.2,52,Monday,3.4,1.98,4.58
+Dinner,37.7,53,Monday,2.6,2.61,6.92
+Dinner,36.6,41,Thursday,7.7,11.06,30.22
+Lunch,72.9,84,Monday,21.3,30.0,41.15
+Breakfast,16.0,42,Saturday,1.0,1.83,11.44
+Breakfast,9.9,28,Saturday,0.3,0.32,3.23
+Breakfast,16.9,39,Sunday,0.9,1.01,5.98
+Lunch,71.0,89,Saturday,19.4,28.61,40.3
+Lunch,23.5,39,Monday,1.5,2.63,11.19
+Breakfast,27.6,56,Sunday,1.6,1.95,7.07
+Lunch,53.5,65,Thursday,4.4,13.17,24.62
+Lunch,101.8,89,Monday,26.1,45.04,44.24
+Dinner,57.6,69,Sunday,7.3,5.71,9.91
+Breakfast,22.2,59,Wednesday,1.0,1.57,7.07
+Dinner,54.6,64,Friday,9.6,9.53,17.45
+Lunch,28.2,34,Thursday,4.9,8.51,30.18
+Buffet / Event,139.5,166,Sunday,4.7,10.16,7.28
+Buffet / Event,88.8,91,Wednesday,15.3,16.72,18.83
+Buffet / Event,168.7,160,Thursday,26.6,33.6,19.92
+Lunch,33.9,57,Sunday,0.4,2.0,5.9
+Breakfast,27.5,57,Monday,2.3,2.26,8.22
+Dinner,51.6,61,Friday,7.0,5.76,11.16
+Dinner,24.2,29,Sunday,2.7,1.98,8.18
+Breakfast,10.0,23,Tuesday,1.1,1.09,10.9
+Breakfast,11.4,26,Tuesday,1.1,1.58,13.86
+Breakfast,21.7,43,Tuesday,1.6,4.9,22.58
+Lunch,47.7,75,Friday,1.9,2.41,5.05
+Lunch,35.9,57,Saturday,3.2,4.29,11.95
+Buffet / Event,103.3,116,Tuesday,11.4,19.95,19.31
+Dinner,33.2,33,Monday,4.7,6.66,20.06
+Buffet / Event,157.6,174,Sunday,4.1,5.02,3.19
+Breakfast,15.8,35,Thursday,3.3,2.36,14.94
+Breakfast,19.0,46,Thursday,2.2,1.72,9.05
+Lunch,52.8,100,Saturday,2.0,2.9,5.49
+Breakfast,36.7,54,Wednesday,8.4,14.98,40.82
+Breakfast,45.9,63,Saturday,8.8,17.41,37.93
+Breakfast,10.4,26,Tuesday,1.6,0.9,8.65
+Breakfast,17.5,40,Tuesday,1.5,2.62,14.97
+Lunch,50.0,79,Friday,3.1,2.61,5.22
+Dinner,73.4,75,Saturday,12.7,17.73,24.16
+Lunch,35.5,52,Saturday,3.0,2.08,5.86
+Buffet / Event,96.8,76,Wednesday,21.5,32.01,33.07
+Lunch,62.3,92,Thursday,11.6,11.95,19.18
+Breakfast,16.2,45,Monday,0.0,1.08,6.67
+Buffet / Event,88.6,85,Monday,10.9,21.54,24.31
+Lunch,23.8,31,Friday,3.5,4.03,16.93
+Dinner,43.7,51,Thursday,7.4,9.88,22.61
+Dinner,44.7,48,Tuesday,5.0,10.32,23.09
+Dinner,64.2,66,Tuesday,6.5,15.18,23.64
+Buffet / Event,126.0,142,Friday,12.6,22.53,17.88
+Dinner,54.2,75,Saturday,3.9,2.97,5.48
+Breakfast,11.0,35,Thursday,1.4,0.59,5.36
+Lunch,43.9,81,Friday,2.0,2.74,6.24
+Dinner,33.2,40,Tuesday,1.9,2.46,7.41
+Lunch,48.4,61,Monday,5.6,9.3,19.21
+Lunch,49.5,91,Thursday,2.3,2.9,5.86
+Lunch,67.0,93,Wednesday,9.1,12.11,18.07
+Dinner,57.4,63,Sunday,4.6,7.82,13.62
+Buffet / Event,145.1,137,Tuesday,14.7,21.57,14.87
+Dinner,41.2,39,Thursday,7.6,9.39,22.79
+Lunch,35.3,35,Tuesday,10.7,15.55,44.05
+Buffet / Event,58.1,62,Wednesday,3.4,3.03,5.22
+Buffet / Event,215.7,124,Sunday,53.1,95.79,44.41
+Breakfast,22.2,35,Saturday,7.5,7.36,33.15
+Dinner,31.8,44,Monday,1.0,1.17,3.68
+Breakfast,15.8,40,Thursday,3.1,2.46,15.57
+Breakfast,28.5,43,Monday,6.9,9.14,32.07
+Buffet / Event,124.8,124,Monday,18.4,29.22,23.41
+Lunch,7.1,11,Thursday,0.8,0.32,4.51
+Breakfast,26.1,43,Friday,8.5,10.44,40.0
+Dinner,67.0,77,Sunday,9.1,10.02,14.96
+Breakfast,34.0,71,Sunday,4.7,9.02,26.53
+Breakfast,32.1,68,Monday,4.4,5.39,16.79
+Dinner,17.0,23,Saturday,0.4,1.37,8.06
+Dinner,26.6,36,Wednesday,1.9,3.12,11.73
+Dinner,39.8,50,Sunday,2.3,3.8,9.55
+Dinner,39.4,52,Wednesday,3.5,2.07,5.25
+Lunch,44.3,45,Wednesday,12.3,16.21,36.59
+Breakfast,13.9,31,Thursday,0.1,0.8,5.76
+Lunch,32.8,49,Sunday,4.5,5.7,17.38
+Dinner,34.8,50,Thursday,2.1,2.22,6.38
+Buffet / Event,73.4,90,Wednesday,1.6,3.0,4.09
+Breakfast,31.6,60,Wednesday,4.0,8.14,25.76
+Lunch,53.3,58,Tuesday,10.0,18.69,35.07
+Breakfast,12.8,28,Thursday,2.1,1.36,10.62
+Breakfast,17.4,40,Sunday,0.4,1.56,8.97
+Breakfast,36.1,50,Tuesday,7.6,14.33,39.7
+Lunch,42.0,49,Friday,10.5,10.62,25.29
+Lunch,43.7,71,Tuesday,1.6,3.84,8.79
+Buffet / Event,204.5,148,Sunday,40.5,59.79,29.24
+Breakfast,28.8,54,Wednesday,4.0,6.71,23.3
+Dinner,46.1,52,Wednesday,1.8,5.33,11.56
+Buffet / Event,59.9,59,Tuesday,5.4,1.96,3.27
+Dinner,15.8,20,Friday,0.0,1.23,7.78
+Breakfast,12.7,25,Sunday,0.7,2.52,19.84
+Buffet / Event,86.3,60,Monday,23.1,31.19,36.14
+Lunch,58.5,84,Sunday,8.2,11.95,20.43
+Lunch,59.1,68,Wednesday,15.0,15.57,26.35
+Dinner,37.0,52,Thursday,2.3,2.83,7.65
+Lunch,50.1,84,Sunday,3.9,7.25,14.47
+Breakfast,13.4,32,Tuesday,1.6,1.08,8.06
+Lunch,57.9,87,Tuesday,5.8,11.95,20.64
+Lunch,44.3,71,Thursday,5.5,9.2,20.77
+Dinner,36.5,40,Saturday,4.1,9.46,25.92
+Dinner,42.8,51,Friday,5.4,8.73,20.4
+Buffet / Event,206.3,177,Saturday,26.2,42.55,20.63
+Breakfast,8.2,28,Monday,1.5,0.55,6.71
+Dinner,35.2,41,Saturday,2.9,3.92,11.14
+Dinner,34.2,42,Friday,1.8,2.8,8.19
+Dinner,55.2,57,Friday,8.1,12.47,22.59
+Breakfast,22.7,41,Saturday,2.5,4.73,20.84
+Lunch,61.1,84,Sunday,6.9,10.47,17.14
+Buffet / Event,176.0,162,Sunday,24.4,39.6,22.5
+Lunch,40.1,49,Wednesday,5.9,8.78,21.9
+Dinner,30.4,35,Monday,4.2,5.46,17.96
+Dinner,63.7,77,Thursday,6.7,8.4,13.19
+Lunch,60.5,80,Sunday,7.0,14.77,24.41
+Buffet / Event,130.2,133,Saturday,6.6,4.66,3.58
+Lunch,39.7,53,Wednesday,4.4,7.36,18.54
+Dinner,43.5,60,Tuesday,7.0,6.11,14.05
+Lunch,59.4,73,Sunday,5.0,13.66,23.0
+Buffet / Event,101.5,65,Thursday,17.9,37.02,36.47
+Lunch,37.5,57,Monday,5.5,8.12,21.65
+Buffet / Event,89.7,71,Monday,7.4,19.35,21.57
+Lunch,81.9,81,Saturday,20.0,31.77,38.79
+Lunch,56.1,71,Tuesday,8.2,12.25,21.84
+Lunch,38.5,59,Saturday,1.3,1.4,3.64
+Lunch,39.9,72,Monday,6.5,5.04,12.63
+Dinner,42.2,47,Thursday,2.9,4.72,11.18
+Lunch,34.1,67,Tuesday,0.6,1.67,4.9
+Dinner,24.9,23,Tuesday,1.6,6.21,24.94
+Breakfast,18.9,45,Saturday,0.8,2.14,11.32
+Lunch,26.2,32,Monday,3.4,6.22,23.74
+Breakfast,18.1,41,Friday,2.5,2.15,11.88
+Dinner,21.5,22,Monday,2.3,4.57,21.26
+Breakfast,12.3,25,Friday,2.9,2.63,21.38
+Lunch,40.2,59,Wednesday,2.0,3.82,9.5
+Lunch,71.0,84,Saturday,10.8,16.57,23.34
+Breakfast,25.7,50,Friday,4.1,6.15,23.93
+Breakfast,16.1,36,Friday,1.1,3.58,22.24
+Dinner,27.8,38,Tuesday,1.6,1.81,6.51
+Dinner,43.5,54,Tuesday,2.2,4.31,9.91
+Buffet / Event,115.9,114,Monday,5.7,8.3,7.16
+Lunch,51.0,62,Saturday,8.5,12.13,23.78
+Dinner,51.3,63,Friday,2.8,3.08,6.0
+Lunch,43.5,69,Thursday,3.2,2.31,5.31
+Buffet / Event,149.8,150,Sunday,13.4,27.71,18.5
+Lunch,46.8,73,Thursday,5.6,5.64,12.05
+Breakfast,22.0,29,Monday,6.0,8.78,39.91
+Breakfast,37.6,68,Sunday,7.1,11.69,31.09
+Dinner,31.3,40,Thursday,4.3,5.53,17.67
+Buffet / Event,145.5,93,Monday,35.0,63.34,43.53
+Breakfast,26.1,64,Friday,1.4,1.57,6.02
+Lunch,40.3,66,Saturday,3.4,2.15,5.33
+Lunch,45.9,41,Thursday,11.3,20.8,45.32
+Lunch,34.1,51,Wednesday,4.3,7.55,22.14
+Lunch,54.5,79,Saturday,9.4,12.38,22.72
+Dinner,40.3,34,Wednesday,13.1,15.36,38.11
+Lunch,59.3,88,Saturday,7.9,9.61,16.21
+Lunch,62.6,59,Sunday,21.1,25.79,41.2
+Breakfast,25.4,48,Thursday,4.9,9.0,35.43
+Breakfast,37.4,66,Tuesday,5.2,9.61,25.7
+Lunch,38.7,51,Thursday,4.7,6.36,16.43
+Dinner,43.6,53,Monday,1.8,1.8,4.13
+Breakfast,21.2,51,Sunday,0.9,0.98,4.62
+Lunch,32.4,53,Monday,0.0,1.39,4.29
+Lunch,51.6,69,Friday,8.2,13.27,25.72
+Lunch,32.7,56,Thursday,2.6,1.34,4.1
+Lunch,18.3,26,Wednesday,2.4,3.14,17.16
+Buffet / Event,63.9,64,Friday,7.7,9.83,15.38
+Lunch,102.4,94,Saturday,24.3,45.81,44.74
+Lunch,50.0,58,Sunday,15.3,15.06,30.12
+Dinner,48.0,64,Friday,1.9,2.28,4.75
+Lunch,43.8,75,Saturday,2.2,2.27,5.18
+Buffet / Event,58.8,72,Thursday,2.4,2.49,4.23
+Lunch,54.9,95,Wednesday,8.1,7.63,13.9
+Dinner,45.4,51,Monday,6.5,6.86,15.11
+Buffet / Event,173.4,151,Friday,14.1,26.62,15.35
+Dinner,31.9,47,Friday,2.1,1.84,5.77
+Lunch,20.7,30,Thursday,2.8,4.4,21.26
+Dinner,45.6,58,Sunday,7.4,9.07,19.89
+Dinner,52.9,57,Friday,6.7,9.4,17.77
+Dinner,49.4,60,Sunday,4.8,12.0,24.29
+Lunch,26.6,44,Sunday,2.1,1.41,5.3
+Dinner,46.1,37,Sunday,10.0,19.04,41.3
+Lunch,17.5,27,Friday,0.4,2.31,13.2
+Lunch,19.2,34,Tuesday,0.3,0.68,3.54
+Lunch,52.5,61,Tuesday,14.9,22.14,42.17
+Dinner,40.9,52,Sunday,0.8,4.67,11.42
+Dinner,41.1,49,Monday,5.8,6.36,15.47
+Lunch,40.8,61,Thursday,5.3,10.9,26.72
+Lunch,43.9,70,Wednesday,4.1,2.39,5.44
+Lunch,52.7,78,Sunday,1.7,3.01,5.71
+Breakfast,25.6,44,Friday,7.8,8.37,32.7
+Lunch,38.1,53,Monday,5.5,6.05,15.88
+Dinner,47.0,48,Tuesday,5.5,11.02,23.45
+Lunch,38.3,55,Monday,2.7,4.52,11.8
+Lunch,32.5,58,Tuesday,1.4,1.38,4.25
+Dinner,59.2,70,Friday,6.0,12.59,21.27
+Lunch,73.7,108,Saturday,10.0,18.54,25.16
+Buffet / Event,135.4,110,Thursday,21.1,26.0,19.2
+Dinner,31.7,41,Tuesday,2.1,1.25,3.94
+Buffet / Event,131.7,138,Sunday,22.2,20.74,15.75
+Dinner,44.3,63,Wednesday,2.3,4.63,10.45
+Dinner,29.7,42,Saturday,1.7,1.16,3.91
+Lunch,63.2,75,Thursday,16.6,21.23,33.59
+Breakfast,25.3,41,Monday,6.6,7.84,30.99
+Buffet / Event,135.1,146,Tuesday,19.4,17.22,12.75
+Dinner,65.9,64,Sunday,8.9,14.52,22.03
+Lunch,60.0,76,Wednesday,10.1,13.28,22.13
+Buffet / Event,163.3,174,Tuesday,13.3,22.27,13.64
+Breakfast,24.3,41,Thursday,7.9,7.86,32.35
+Lunch,34.1,56,Tuesday,3.0,4.4,12.9
+Breakfast,18.4,39,Sunday,0.1,1.53,8.32
+Dinner,19.2,23,Tuesday,2.3,2.61,13.59
+Lunch,75.1,101,Friday,12.3,13.98,18.62
+Dinner,51.8,55,Tuesday,12.2,15.4,29.73
+Dinner,30.9,46,Wednesday,2.0,1.86,6.02
+Breakfast,22.5,47,Sunday,0.8,1.33,5.91
+Lunch,47.2,87,Tuesday,3.3,2.64,5.59
+Breakfast,31.6,68,Saturday,1.0,1.19,3.77
+Lunch,45.9,86,Friday,2.1,4.22,9.19
+Buffet / Event,149.6,117,Wednesday,27.8,44.13,29.5
+Lunch,43.1,67,Tuesday,5.5,8.29,19.23
+Lunch,43.7,77,Thursday,5.1,5.11,11.69
+Dinner,48.6,59,Thursday,7.8,8.54,17.57
+Lunch,25.0,44,Sunday,0.8,1.25,5.0
+Lunch,35.2,60,Friday,1.1,2.77,7.87
+Lunch,38.6,67,Tuesday,2.7,2.3,5.96
+Dinner,40.2,43,Friday,3.5,8.2,20.4
+Buffet / Event,115.7,123,Monday,15.7,27.56,23.82
+Lunch,34.8,61,Sunday,4.7,4.07,11.7
+Breakfast,26.3,58,Monday,1.7,1.01,3.84
+Lunch,28.4,37,Monday,5.3,6.14,21.62
+Dinner,59.4,63,Friday,9.4,12.22,20.57
+Dinner,40.0,43,Thursday,6.9,9.9,24.75
+Breakfast,25.5,41,Thursday,6.3,8.74,34.27
+Lunch,62.3,86,Wednesday,6.7,14.28,22.92
+Breakfast,33.3,41,Tuesday,11.4,14.37,43.15
+Breakfast,32.4,48,Tuesday,11.7,13.11,40.46
+Lunch,44.5,72,Sunday,2.2,3.68,8.27
+Breakfast,34.3,64,Saturday,5.2,9.26,27.0
+Dinner,6.7,13,Wednesday,0.2,0.29,4.33
+Dinner,30.8,44,Thursday,0.3,2.12,6.88
+Lunch,28.4,52,Friday,4.9,3.25,11.44
+Dinner,36.0,36,Wednesday,5.8,6.93,19.25
+Lunch,94.2,95,Saturday,18.3,37.47,39.78
+Dinner,58.2,62,Friday,19.0,18.78,32.27
+Lunch,18.7,25,Sunday,3.0,3.3,17.65
+Lunch,79.7,81,Saturday,18.2,28.95,36.32
+Breakfast,39.0,66,Saturday,4.9,9.73,24.95
+Lunch,49.6,77,Thursday,2.9,2.11,4.25
+Dinner,15.2,20,Wednesday,1.3,2.65,17.43
+Buffet / Event,172.5,169,Wednesday,15.4,42.22,24.48
+Dinner,48.5,74,Sunday,4.3,1.65,3.4
+Buffet / Event,212.3,149,Saturday,59.8,69.37,32.68
+Buffet / Event,177.5,192,Wednesday,18.6,39.79,22.42
+Dinner,42.8,52,Sunday,6.9,8.03,18.76
+Lunch,34.9,52,Wednesday,5.5,7.85,22.49
+Lunch,49.5,88,Tuesday,4.9,6.6,13.33
+Dinner,32.3,43,Wednesday,1.3,2.24,6.93
+Breakfast,26.3,57,Saturday,2.5,3.23,12.28
+Lunch,50.6,73,Tuesday,7.6,7.57,14.96
+Dinner,54.4,62,Tuesday,10.2,8.61,15.83
+Dinner,56.4,53,Monday,8.4,13.63,24.17
+Dinner,50.4,54,Tuesday,6.4,8.52,16.9
+Buffet / Event,213.0,216,Saturday,24.0,47.25,22.18
+Breakfast,19.2,42,Thursday,1.2,1.82,9.48
+Lunch,64.6,81,Friday,5.3,16.05,24.85
+Lunch,43.2,78,Sunday,2.6,1.79,4.14
+Dinner,61.2,66,Saturday,5.1,15.81,25.83
+Lunch,57.2,67,Sunday,14.1,22.23,38.86
+Dinner,46.1,42,Thursday,15.4,19.95,43.28
+Buffet / Event,155.8,152,Monday,26.2,40.08,25.73
+Lunch,29.5,43,Tuesday,3.3,5.55,18.81
+Lunch,20.3,35,Thursday,2.1,3.35,16.5
+Dinner,77.9,88,Saturday,22.5,22.82,29.29
+Breakfast,26.8,49,Sunday,4.2,6.24,23.28
+Lunch,27.6,40,Sunday,2.6,5.6,20.29
+Lunch,41.9,49,Tuesday,9.6,17.92,42.77
+Dinner,36.1,35,Sunday,4.3,9.37,25.96
+Lunch,47.6,64,Monday,5.9,12.33,25.9
+Lunch,26.6,39,Wednesday,4.1,6.15,23.12
+Breakfast,13.7,28,Saturday,1.3,1.86,13.58
+Breakfast,19.4,41,Sunday,3.1,4.47,23.04
+Lunch,29.0,42,Tuesday,0.5,3.19,11.0
+Dinner,46.4,58,Wednesday,2.7,2.53,5.45
+Breakfast,19.3,37,Tuesday,1.8,3.54,18.34
+Lunch,47.6,42,Friday,14.0,20.59,43.26
+Lunch,51.6,60,Monday,15.3,22.44,43.49
+Dinner,32.3,40,Monday,1.2,2.8,8.67
+Lunch,49.0,92,Thursday,3.2,2.05,4.18
+Lunch,68.0,80,Monday,15.0,25.21,37.07
+Lunch,47.2,50,Monday,9.7,18.45,39.09
+Lunch,13.4,24,Sunday,0.7,1.05,7.84
+Breakfast,20.1,44,Monday,1.7,0.95,4.73
+Dinner,36.0,43,Wednesday,3.1,5.21,14.47
+Breakfast,26.1,56,Wednesday,2.5,5.23,20.04
+Lunch,26.3,47,Monday,1.5,1.58,6.01
+Breakfast,25.4,50,Monday,3.4,5.34,21.02
+Lunch,70.0,82,Monday,14.2,19.78,28.26
+Dinner,56.1,81,Friday,1.9,2.31,4.12
+Buffet / Event,137.8,144,Sunday,22.1,15.28,11.09
+Lunch,75.4,99,Sunday,8.7,11.57,15.34
+Lunch,58.3,95,Thursday,1.8,2.19,3.76
+Lunch,48.7,65,Friday,4.8,8.76,17.99
+Breakfast,31.6,54,Thursday,4.0,9.1,28.8
+Buffet / Event,206.6,152,Thursday,68.4,68.9,33.35
+Lunch,21.5,37,Wednesday,1.1,1.74,8.09
+Breakfast,21.8,45,Friday,3.7,5.54,25.41
+Lunch,19.6,27,Tuesday,4.1,4.45,22.7
+Breakfast,15.2,30,Monday,2.8,3.32,21.84
+Lunch,76.6,78,Monday,23.0,31.51,41.14
+Breakfast,33.6,55,Sunday,10.3,12.48,37.14
+Lunch,37.1,55,Thursday,2.4,2.42,6.52
+Breakfast,11.5,31,Tuesday,0.2,0.65,5.65
+Breakfast,23.4,37,Tuesday,6.3,7.72,32.99
+Breakfast,17.1,45,Tuesday,2.5,1.66,9.71
+Dinner,43.6,42,Tuesday,10.8,14.23,32.64
+Breakfast,30.4,59,Thursday,5.6,6.08,20.0
+Dinner,45.4,63,Tuesday,4.9,4.95,10.9
+Breakfast,20.5,56,Thursday,1.3,0.73,3.56
+Breakfast,16.4,32,Monday,1.4,2.48,15.12
+Breakfast,16.3,36,Monday,2.1,1.61,9.88
+Lunch,44.3,59,Tuesday,5.7,7.85,17.72
+Breakfast,12.0,35,Monday,1.2,0.72,6.0
+Breakfast,22.1,46,Monday,3.3,4.21,19.05
+Lunch,51.5,69,Sunday,5.6,11.89,23.09
+Dinner,71.6,88,Sunday,3.7,2.98,4.16
+Lunch,38.0,62,Monday,4.2,6.55,17.24
+Lunch,30.5,46,Tuesday,1.7,3.01,9.87
+Lunch,25.7,44,Friday,0.4,1.57,6.11
+Lunch,51.5,92,Wednesday,3.7,4.63,8.99
+Dinner,31.0,42,Tuesday,0.7,2.48,8.0
+Lunch,79.0,86,Wednesday,25.1,33.9,42.91
+Lunch,35.2,62,Thursday,2.7,1.33,3.78
+Dinner,76.3,54,Wednesday,24.6,34.04,44.61
+Dinner,46.4,40,Wednesday,9.2,16.24,35.0
+Dinner,45.2,37,Sunday,15.5,18.34,40.58
+Dinner,51.5,54,Saturday,5.1,9.38,18.21
+Lunch,17.6,31,Thursday,0.4,1.2,6.82
+Dinner,70.0,56,Tuesday,24.7,26.68,38.11
+Dinner,61.4,62,Saturday,5.7,14.56,23.71
+Breakfast,38.3,66,Thursday,4.5,9.87,25.77
+Lunch,59.3,73,Saturday,8.7,13.61,22.95
+Dinner,42.1,52,Friday,3.4,1.83,4.35
+Dinner,34.6,42,Monday,2.2,1.85,5.35
+Dinner,27.9,30,Sunday,1.2,3.6,12.9
+Dinner,43.9,59,Thursday,7.9,5.75,13.1
+Breakfast,23.5,46,Sunday,3.5,6.41,27.28
+Dinner,46.7,55,Thursday,8.7,5.92,12.68
+Lunch,78.3,75,Friday,23.1,34.36,43.88
+Breakfast,20.4,48,Tuesday,2.7,2.73,13.38
+Dinner,40.2,41,Sunday,7.6,8.41,20.92
+Breakfast,27.4,49,Tuesday,6.3,10.22,37.3
+Lunch,29.6,42,Wednesday,0.3,3.71,12.53
+Lunch,29.8,29,Thursday,6.3,13.18,44.23
+Lunch,24.2,39,Tuesday,2.3,4.35,17.98
+Breakfast,20.5,42,Thursday,0.0,2.71,13.22
+Dinner,18.5,20,Monday,2.4,3.17,17.14
+Lunch,18.5,22,Tuesday,4.9,5.76,31.14
+Breakfast,30.0,45,Tuesday,7.4,12.63,42.1
+Dinner,33.1,39,Thursday,5.1,7.87,23.78
+Breakfast,22.5,61,Friday,1.2,1.22,5.42
+Dinner,59.5,79,Saturday,7.2,9.27,15.58
+Lunch,30.2,36,Wednesday,2.6,7.89,26.13
+Buffet / Event,178.6,141,Saturday,60.3,55.61,31.14
+Lunch,61.0,94,Saturday,6.5,14.92,24.46
+Breakfast,29.7,49,Sunday,3.0,7.52,25.32
+Breakfast,22.2,57,Thursday,2.6,2.36,10.63
+Dinner,19.9,25,Monday,2.1,2.59,13.02
+Breakfast,17.2,37,Tuesday,2.1,2.86,16.63
+Breakfast,34.4,69,Saturday,5.6,5.51,16.02
+Lunch,69.3,63,Sunday,12.8,29.42,42.45
+Breakfast,23.4,52,Thursday,3.6,5.7,24.36
+Dinner,42.8,34,Tuesday,8.0,16.13,37.69
+Dinner,21.7,29,Friday,2.5,2.15,9.91
+Lunch,94.7,100,Saturday,27.3,38.5,40.65
+Lunch,45.8,90,Friday,2.0,2.44,5.33
+Dinner,27.7,33,Tuesday,3.7,4.93,17.8
+Lunch,68.2,114,Saturday,4.9,2.63,3.86
+Lunch,68.3,64,Monday,18.4,28.66,41.96
+Dinner,46.0,57,Tuesday,0.5,3.45,7.5
+Lunch,35.5,43,Tuesday,12.0,14.92,42.03
+Lunch,98.5,95,Monday,30.3,38.35,38.93
+Lunch,72.3,92,Thursday,10.2,14.6,20.19
+Buffet / Event,109.5,130,Thursday,8.1,5.13,4.68
+Lunch,63.1,80,Monday,7.5,15.79,25.02
+Dinner,61.6,54,Friday,19.2,27.68,44.94
+Dinner,49.4,70,Friday,2.6,3.72,7.53
+Lunch,66.3,69,Saturday,16.4,24.46,36.89
+Breakfast,26.3,52,Sunday,3.3,6.66,25.32
+Breakfast,24.1,51,Sunday,2.9,3.51,14.56
+Breakfast,26.6,60,Thursday,1.1,1.1,4.14
+Lunch,45.6,72,Friday,0.5,3.77,8.27
+Lunch,42.5,63,Wednesday,3.3,10.07,23.69
+Lunch,54.6,72,Thursday,7.2,8.82,16.15
+Dinner,52.1,55,Saturday,8.0,10.16,19.5
+Lunch,27.2,34,Thursday,8.6,10.24,37.65
+Breakfast,26.8,61,Friday,2.0,3.13,11.68
+Lunch,40.5,60,Sunday,1.7,2.9,7.16
+Dinner,57.2,76,Wednesday,3.1,5.17,9.04
+Breakfast,19.9,41,Tuesday,2.3,3.37,16.93
+Dinner,24.3,26,Tuesday,4.4,4.35,17.9
+Buffet / Event,87.4,105,Saturday,2.9,7.99,9.14
+Buffet / Event,84.0,102,Sunday,4.7,6.72,8.0
+Lunch,39.2,65,Monday,3.4,2.35,5.99
+Buffet / Event,98.9,101,Friday,1.8,4.36,4.41
+Dinner,55.9,65,Saturday,10.1,6.46,11.56
+Buffet / Event,83.6,53,Sunday,21.9,35.61,42.6
+Lunch,78.1,105,Sunday,10.0,16.4,21.0
+Breakfast,36.9,75,Friday,5.1,6.66,18.05
+Breakfast,47.6,76,Saturday,10.7,18.19,38.21
+Lunch,32.4,50,Tuesday,1.6,3.21,9.91
+Lunch,43.9,63,Tuesday,2.4,2.63,5.99
+Buffet / Event,80.6,77,Monday,7.6,18.09,22.44
+Dinner,24.9,25,Tuesday,2.2,4.52,18.15
+Breakfast,23.2,48,Wednesday,3.3,2.28,9.83
+Buffet / Event,90.0,85,Saturday,14.7,10.84,12.04
+Breakfast,37.6,59,Saturday,12.2,11.35,30.19
+Dinner,51.3,74,Sunday,1.4,2.47,4.81
+Lunch,28.4,46,Monday,4.1,5.94,20.92
+Lunch,56.0,56,Saturday,18.4,24.08,43.0
+Dinner,14.7,20,Wednesday,0.8,1.58,10.75
+Buffet / Event,94.3,92,Friday,16.2,22.44,23.8
+Dinner,32.6,49,Monday,1.7,2.04,6.26
+Lunch,25.8,44,Thursday,0.9,0.94,3.64
+Breakfast,24.2,54,Friday,1.1,1.45,5.99
+Breakfast,30.5,54,Sunday,5.3,5.98,19.61
+Breakfast,31.3,60,Wednesday,4.7,4.3,13.74
+Dinner,60.9,60,Wednesday,14.6,22.59,37.09
+Dinner,28.6,37,Sunday,4.7,3.35,11.71
+Lunch,39.6,66,Saturday,5.8,7.29,18.41
+Dinner,56.9,65,Sunday,7.0,7.08,12.44
+Dinner,65.7,79,Thursday,2.2,7.87,11.98
+Dinner,36.8,42,Thursday,5.4,7.19,19.54
+Breakfast,23.6,47,Thursday,4.0,3.37,14.28
+Dinner,38.8,53,Friday,1.4,1.64,4.23
+Dinner,37.6,37,Sunday,4.8,8.68,23.09
+Breakfast,16.0,32,Sunday,3.0,3.57,22.31
+Dinner,19.0,15,Tuesday,5.2,7.51,39.53
+Dinner,25.9,31,Tuesday,4.7,5.51,21.27
+Lunch,32.3,53,Wednesday,2.3,3.69,11.42
+Breakfast,21.3,55,Monday,0.5,2.17,10.19
+Buffet / Event,108.3,94,Tuesday,15.6,17.84,16.47
+Buffet / Event,129.7,139,Tuesday,13.5,19.5,15.03
+Breakfast,38.0,88,Thursday,4.5,6.49,17.08
+Lunch,36.2,56,Monday,1.3,1.61,4.45
+Breakfast,30.5,68,Sunday,0.9,2.17,7.11
+Breakfast,56.2,81,Sunday,14.8,21.89,38.95
+Lunch,39.3,60,Monday,4.3,8.43,21.45
+Lunch,59.7,94,Thursday,11.0,8.04,13.47
+Lunch,52.1,67,Friday,9.8,9.17,17.6
+Buffet / Event,146.0,144,Monday,23.3,25.77,17.65
+Breakfast,29.3,52,Tuesday,5.3,11.11,37.92
+Lunch,42.6,74,Friday,0.0,1.47,3.45
+Buffet / Event,95.1,105,Sunday,3.7,5.09,5.35
+Lunch,11.2,18,Saturday,2.2,2.41,21.52
+Lunch,49.7,58,Saturday,3.8,12.62,25.39
+Lunch,41.8,51,Monday,3.5,9.72,23.25
+Lunch,39.6,51,Wednesday,14.0,10.56,26.67
+Lunch,48.4,67,Sunday,6.2,10.91,22.54
+Lunch,34.9,50,Wednesday,4.4,5.55,15.9
+Buffet / Event,135.6,116,Sunday,22.4,25.1,18.51
+Breakfast,44.8,82,Saturday,7.5,8.87,19.8
+Dinner,53.8,77,Saturday,0.9,4.06,7.55
+Dinner,40.2,49,Sunday,5.7,5.58,13.88
+Lunch,54.8,58,Thursday,18.6,18.93,34.54
+Dinner,35.0,50,Wednesday,0.8,1.64,4.69
+Dinner,36.9,39,Monday,7.8,11.0,29.81
+Lunch,33.1,52,Friday,1.1,1.81,5.47
+Breakfast,21.7,51,Monday,0.0,1.03,4.75
+Dinner,28.9,42,Wednesday,2.4,1.51,5.22
+Breakfast,18.5,42,Thursday,1.5,1.03,5.57
+Dinner,14.1,22,Monday,0.2,0.61,4.33
+Buffet / Event,103.1,114,Sunday,8.1,7.02,6.81
+Lunch,20.3,36,Tuesday,0.4,0.87,4.29
+Buffet / Event,96.6,114,Thursday,7.9,5.87,6.08
+Breakfast,28.4,49,Wednesday,4.8,7.27,25.6
+Breakfast,26.0,52,Monday,3.0,4.64,17.85
+Lunch,49.5,61,Wednesday,15.1,15.16,30.63
+Lunch,36.8,64,Friday,1.9,1.23,3.34
+Dinner,84.3,82,Friday,8.4,22.24,26.38
+Breakfast,21.5,58,Friday,0.4,0.87,4.05
+Lunch,60.5,92,Sunday,6.2,10.11,16.71
+Lunch,73.4,62,Friday,14.7,33.47,45.6
+Breakfast,10.6,30,Sunday,1.0,0.54,5.09
+Breakfast,17.0,39,Monday,1.0,0.92,5.41
+Breakfast,17.0,42,Thursday,0.2,0.73,4.29
+Dinner,49.7,69,Saturday,2.9,3.76,7.57
+Lunch,69.0,64,Sunday,12.6,30.33,43.96
+Lunch,43.5,68,Thursday,7.5,9.52,21.89
+Dinner,12.4,15,Saturday,1.6,1.49,12.02
+Dinner,62.6,71,Monday,8.9,10.13,16.18
+Lunch,37.9,58,Saturday,4.5,6.31,16.65
+Dinner,71.0,72,Sunday,9.1,12.7,17.89
+Dinner,60.6,76,Sunday,4.2,6.34,10.46
+Buffet / Event,194.6,174,Thursday,18.2,33.26,17.09
+Breakfast,24.2,53,Saturday,4.5,3.46,14.3
+Dinner,46.7,35,Friday,13.5,18.67,39.98
+Breakfast,18.8,54,Wednesday,1.3,0.58,3.09
+Lunch,86.8,109,Thursday,8.9,21.66,24.95
+Dinner,31.0,38,Thursday,5.1,4.03,13.0
+Breakfast,19.3,44,Sunday,1.1,3.65,18.91
+Dinner,61.0,68,Friday,10.8,10.84,17.77
+Breakfast,22.9,54,Sunday,4.8,4.04,17.64
+Lunch,37.4,67,Wednesday,4.5,3.83,10.24
+Dinner,63.9,76,Thursday,1.6,6.95,10.88
+Lunch,40.9,63,Wednesday,7.7,8.69,21.25
+Dinner,39.8,43,Wednesday,3.7,6.57,16.51
+Lunch,49.5,72,Saturday,3.9,8.46,17.09
+Lunch,41.1,56,Tuesday,7.9,5.4,13.14
+Lunch,49.4,64,Tuesday,8.8,8.86,17.94
+Breakfast,28.7,75,Sunday,1.3,1.67,5.82
+Dinner,83.7,90,Sunday,19.1,25.91,30.96
+Dinner,88.3,92,Saturday,9.5,16.81,19.04
+Lunch,30.1,49,Wednesday,2.1,1.51,5.02
+Dinner,78.0,79,Saturday,14.3,15.73,20.17
+Lunch,52.6,66,Thursday,13.4,19.8,37.64
+Dinner,70.7,66,Wednesday,6.7,17.92,25.35
+Lunch,43.6,69,Friday,3.8,9.37,21.49
+Breakfast,19.9,53,Thursday,0.6,0.94,4.72
+Dinner,49.5,43,Monday,13.8,18.8,37.98
+Breakfast,11.6,26,Wednesday,1.9,2.15,18.53
+Buffet / Event,106.7,96,Wednesday,19.2,17.48,16.38
+Lunch,42.3,62,Thursday,1.6,3.16,7.47
+Dinner,52.6,72,Sunday,4.7,8.06,15.32
+Lunch,40.7,63,Tuesday,2.5,3.09,7.59
+Dinner,32.3,45,Thursday,1.3,2.33,7.21
+Lunch,31.4,58,Tuesday,0.4,2.39,7.61
+Lunch,50.0,69,Thursday,17.4,15.42,30.84
+Dinner,40.2,41,Thursday,7.3,9.0,22.39
+Lunch,34.6,54,Saturday,6.3,6.63,19.16
+Buffet / Event,144.2,117,Thursday,18.4,31.73,22.0
+Breakfast,19.5,41,Monday,1.5,3.54,18.15
+Dinner,78.4,74,Friday,17.8,31.25,39.86
+Dinner,43.3,49,Friday,7.1,9.42,21.76
+Breakfast,26.8,43,Tuesday,4.5,9.04,33.73
+Lunch,44.9,56,Thursday,7.5,10.24,22.81
+Lunch,62.8,86,Saturday,9.9,7.63,12.15
+Breakfast,16.9,37,Thursday,2.0,2.1,12.43
+Lunch,57.6,58,Wednesday,13.5,23.37,40.57
+Lunch,15.3,19,Thursday,5.8,4.08,26.67
+Lunch,59.2,63,Monday,17.7,19.57,33.06
+Dinner,56.6,66,Wednesday,2.4,6.12,10.81
+Breakfast,16.9,47,Monday,0.7,1.24,7.34
+Dinner,38.3,42,Monday,4.3,4.93,12.87
+Lunch,24.3,48,Thursday,1.1,1.01,4.16
+Breakfast,20.3,47,Wednesday,1.6,1.51,7.44
+Buffet / Event,140.3,139,Friday,23.3,33.6,23.95
+Breakfast,22.7,53,Saturday,0.5,1.84,8.11
+Breakfast,16.6,37,Tuesday,0.9,1.36,8.19
+Lunch,31.5,63,Saturday,1.9,1.62,5.14
+Buffet / Event,152.5,199,Friday,4.3,7.39,4.85
+Dinner,24.4,31,Monday,0.0,1.6,6.56
+Lunch,77.6,96,Friday,9.2,19.92,25.67
+Buffet / Event,65.8,76,Tuesday,2.0,2.09,3.18
+Dinner,66.9,80,Sunday,5.0,14.57,21.78
+Dinner,53.2,63,Monday,1.8,2.62,4.92
+Lunch,72.2,85,Friday,19.5,22.28,30.86
+Dinner,56.4,45,Tuesday,20.2,25.36,44.96
+Breakfast,23.2,43,Sunday,2.0,3.89,16.77
+Breakfast,37.3,69,Friday,2.7,6.26,16.78
+Lunch,47.9,59,Friday,7.3,12.2,25.47
+Dinner,72.0,77,Saturday,6.7,10.25,14.24
+Lunch,57.5,86,Saturday,6.9,10.87,18.9
+Buffet / Event,63.1,65,Tuesday,9.5,10.01,15.86
+Lunch,13.6,17,Friday,1.6,2.95,21.69
+Dinner,61.3,46,Sunday,11.7,27.12,44.24
+Lunch,49.6,80,Friday,1.4,3.26,6.57
+Lunch,57.1,84,Wednesday,2.9,5.69,9.96
+Buffet / Event,151.5,161,Sunday,25.8,21.79,14.38
+Breakfast,10.9,31,Sunday,0.0,0.4,3.67
+Dinner,82.1,80,Tuesday,11.8,18.05,21.99
+Dinner,36.5,49,Thursday,5.1,5.61,15.37
+Dinner,80.5,78,Tuesday,24.1,26.14,32.47
+Lunch,32.1,46,Saturday,2.8,8.38,26.11
+Buffet / Event,169.1,167,Friday,21.6,38.33,22.67
+Dinner,42.7,54,Sunday,1.8,2.43,5.69
+Lunch,50.5,88,Wednesday,1.1,3.41,6.75
+Lunch,44.6,68,Sunday,1.8,5.1,11.43
+Dinner,40.6,47,Monday,7.6,8.11,19.98
+Lunch,33.9,50,Saturday,4.7,6.88,20.29
+Buffet / Event,68.5,61,Saturday,14.5,22.2,32.41
+Dinner,74.1,76,Sunday,6.7,13.12,17.71
+Dinner,103.3,98,Saturday,28.6,32.73,31.68
+Dinner,47.1,41,Tuesday,14.8,17.55,37.26
+Lunch,28.0,51,Sunday,2.1,1.2,4.29
+Buffet / Event,166.3,165,Tuesday,27.6,37.75,22.7
+Breakfast,12.0,33,Monday,1.2,0.48,4.0
+Dinner,35.3,51,Sunday,2.4,1.74,4.93
+Lunch,32.2,44,Sunday,3.3,5.21,16.18
+Breakfast,20.5,40,Monday,2.0,5.52,26.93
+Buffet / Event,50.6,53,Thursday,4.8,9.19,18.16
+Dinner,39.5,54,Wednesday,5.3,4.84,12.25
+Dinner,35.0,52,Friday,2.3,1.84,5.26
+Dinner,28.2,33,Tuesday,3.5,5.56,19.72
+Breakfast,22.3,45,Tuesday,4.2,6.21,27.85
+Lunch,14.0,18,Monday,1.5,4.08,29.14
+Lunch,84.9,83,Friday,15.6,37.31,43.95
+Dinner,41.0,52,Saturday,3.3,2.07,5.05
+Lunch,44.2,39,Monday,9.1,19.08,43.17
+Dinner,33.1,42,Wednesday,2.6,3.18,9.61
+Breakfast,18.2,40,Monday,0.9,1.97,10.82
+Dinner,25.7,33,Wednesday,2.6,0.95,3.7
+Lunch,30.4,44,Wednesday,3.6,5.32,17.5
+Breakfast,22.2,52,Saturday,0.3,2.84,12.79
+Breakfast,16.5,28,Wednesday,3.7,5.54,33.58
+Breakfast,17.6,34,Monday,2.7,3.22,18.3
+Lunch,37.6,49,Thursday,4.5,7.58,20.16
+Dinner,43.9,52,Sunday,6.0,10.2,23.23
+Lunch,46.1,72,Sunday,5.0,11.62,25.21
+Dinner,65.3,66,Thursday,9.9,15.5,23.74
+Dinner,46.5,61,Friday,1.1,2.88,6.19
+Dinner,48.7,54,Tuesday,6.6,5.76,11.83
+Lunch,60.2,86,Wednesday,9.5,14.64,24.32
+Breakfast,25.8,56,Wednesday,1.3,2.39,9.26
+Breakfast,35.6,55,Sunday,8.2,16.18,45.45
+Dinner,42.0,60,Tuesday,2.7,2.02,4.81
+Dinner,51.7,68,Saturday,6.3,8.63,16.69
+Buffet / Event,154.0,198,Friday,8.0,6.26,4.06
+Breakfast,11.8,30,Monday,1.2,1.33,11.27
+Lunch,49.4,70,Thursday,4.1,10.71,21.68
+Buffet / Event,128.4,144,Saturday,16.2,22.76,17.73
+Dinner,6.6,10,Monday,0.2,0.35,5.3
+Dinner,88.2,86,Tuesday,16.6,23.16,26.26
+Breakfast,16.7,28,Tuesday,3.6,6.44,38.56
+Breakfast,17.3,25,Sunday,5.7,7.28,42.08
+Breakfast,17.2,43,Tuesday,0.6,0.84,4.88
+Dinner,42.6,56,Thursday,0.4,2.85,6.69
+Dinner,35.4,47,Thursday,0.6,3.39,9.58
+Breakfast,31.8,67,Thursday,3.9,6.0,18.87
+Buffet / Event,149.2,163,Friday,20.9,17.7,11.86
+Buffet / Event,199.4,172,Friday,23.2,50.82,25.49
+Lunch,61.5,63,Tuesday,21.3,24.94,40.55
+Breakfast,28.9,72,Sunday,1.6,4.67,16.16
+Breakfast,28.9,64,Monday,4.3,6.46,22.35
+Dinner,64.0,75,Saturday,4.9,4.59,7.17
+Lunch,30.0,43,Tuesday,1.6,2.55,8.5
+Lunch,50.3,65,Thursday,9.1,8.59,17.08
+Buffet / Event,90.4,122,Tuesday,2.4,5.55,6.14
+Dinner,22.4,26,Thursday,3.1,4.3,19.2
+Breakfast,32.1,53,Friday,4.3,8.57,26.7
+Dinner,45.5,62,Wednesday,3.3,1.53,3.36
+Lunch,28.9,44,Monday,2.1,4.19,14.5
+Buffet / Event,107.2,95,Monday,11.2,27.16,25.34
+Breakfast,26.4,46,Wednesday,9.6,8.26,31.29
+Buffet / Event,109.3,119,Friday,3.6,10.14,9.28
+Lunch,34.7,47,Friday,5.9,5.97,17.2
+Lunch,39.9,69,Thursday,5.7,5.31,13.31
+Lunch,29.2,37,Thursday,3.4,6.34,21.71
+Dinner,50.6,51,Tuesday,7.7,10.34,20.43
+Dinner,65.5,58,Thursday,18.7,26.57,40.56
+Dinner,52.1,52,Thursday,4.0,11.35,21.79
+Lunch,26.5,44,Saturday,1.7,1.0,3.77
+Dinner,62.6,86,Thursday,8.3,8.77,14.01
+Lunch,32.2,45,Monday,0.6,2.98,9.25
+Dinner,48.2,60,Sunday,3.2,2.88,5.98
+Dinner,28.5,33,Monday,4.1,4.47,15.68
+Lunch,45.2,60,Tuesday,3.1,9.28,20.53
+Lunch,41.3,41,Sunday,11.7,16.39,39.69
+Buffet / Event,66.7,73,Friday,9.3,8.94,13.4
+Buffet / Event,118.3,114,Wednesday,16.3,31.6,26.71
+Dinner,35.8,45,Friday,2.7,1.91,5.34
+Lunch,51.2,89,Sunday,3.1,3.1,6.05
+Breakfast,13.1,28,Monday,1.1,2.14,16.34
+Dinner,34.0,47,Wednesday,2.8,3.29,9.68
+Buffet / Event,86.9,75,Monday,13.4,19.24,22.14
+Dinner,52.1,76,Thursday,3.6,2.24,4.3
+Lunch,41.2,72,Saturday,6.4,6.5,15.78
+Lunch,50.3,68,Saturday,3.5,8.23,16.36
+Breakfast,11.6,29,Friday,1.8,1.19,10.26
+Dinner,21.9,25,Tuesday,2.0,4.51,20.59
+Breakfast,34.0,61,Thursday,7.8,11.74,34.53
+Lunch,51.7,66,Friday,8.0,9.84,19.03
+Buffet / Event,203.9,171,Wednesday,35.7,41.83,20.51
+Dinner,58.5,71,Saturday,8.6,8.09,13.83
+Dinner,66.7,60,Tuesday,15.1,21.68,32.5
+Lunch,45.4,82,Thursday,0.7,4.24,9.34
+Breakfast,26.6,54,Wednesday,4.9,4.62,17.37
+Dinner,63.5,74,Saturday,6.1,13.42,21.13
+Lunch,32.0,48,Tuesday,2.2,5.88,18.38
+Lunch,29.9,55,Thursday,1.0,1.73,5.79
+Lunch,33.7,47,Wednesday,5.8,4.85,14.39
+Breakfast,24.6,44,Thursday,3.7,6.6,26.83
+Breakfast,19.8,49,Sunday,2.7,3.22,16.26
+Buffet / Event,173.9,160,Wednesday,29.7,20.49,11.78
+Lunch,35.5,47,Tuesday,4.7,6.62,18.65
+Lunch,41.3,65,Monday,0.1,2.61,6.32
+Breakfast,30.5,44,Tuesday,7.6,12.83,42.07
+Dinner,39.2,50,Saturday,5.6,4.75,12.12
+Breakfast,19.6,36,Monday,4.2,5.84,29.8
+Dinner,61.8,61,Friday,9.2,16.21,26.23
+Breakfast,23.5,52,Saturday,1.5,1.13,4.81
+Breakfast,15.6,36,Thursday,2.7,2.51,16.09
+Breakfast,16.2,36,Wednesday,2.7,1.85,11.42
+Dinner,87.8,77,Sunday,27.6,38.06,43.35
+Dinner,31.5,44,Thursday,0.6,1.85,5.87
+Dinner,44.3,56,Tuesday,7.1,5.01,11.31
+Lunch,76.3,78,Tuesday,18.6,31.36,41.1
+Dinner,47.0,49,Wednesday,7.8,7.9,16.81
+Breakfast,21.0,50,Friday,1.1,2.67,12.71
+Dinner,57.2,59,Wednesday,5.2,13.21,23.09
+Breakfast,18.1,37,Saturday,2.1,4.08,22.54
+Lunch,29.1,53,Monday,1.8,1.9,6.53
+Dinner,32.3,31,Friday,3.8,8.6,26.63
+Lunch,106.2,138,Saturday,18.2,21.46,20.21
+Breakfast,16.3,25,Monday,4.8,5.1,31.29
+Breakfast,20.3,44,Tuesday,1.3,2.67,13.15
+Lunch,43.4,61,Tuesday,4.5,7.68,17.7
+Buffet / Event,146.1,144,Wednesday,18.0,25.75,17.62
+Lunch,32.7,50,Sunday,4.4,7.39,22.6
+Breakfast,40.9,55,Saturday,13.5,18.06,44.16
+Dinner,60.3,56,Tuesday,9.5,15.3,25.37
+Lunch,51.9,86,Thursday,4.4,7.9,15.22
+Breakfast,23.9,46,Thursday,8.1,8.0,33.47
+Lunch,62.8,57,Thursday,20.5,27.4,43.63
+Dinner,91.6,84,Saturday,23.8,30.8,33.62
+Dinner,29.4,43,Wednesday,1.8,1.19,4.05
+Breakfast,18.9,50,Wednesday,1.3,1.92,10.16
+Breakfast,25.8,39,Sunday,6.1,10.55,40.89
+Lunch,66.5,81,Tuesday,11.6,14.51,21.82
+Lunch,43.1,68,Tuesday,2.7,2.63,6.1
+Lunch,34.7,44,Sunday,6.4,12.79,36.86
+Dinner,36.6,39,Friday,6.1,6.51,17.79
+Dinner,26.0,38,Tuesday,0.6,0.98,3.77
+Lunch,53.1,89,Tuesday,5.4,9.49,17.87
+Dinner,47.2,49,Thursday,5.0,7.93,16.8
+Dinner,59.9,73,Sunday,12.3,10.76,17.96
+Dinner,58.0,67,Sunday,3.8,5.43,9.36
+Lunch,25.7,43,Thursday,4.5,3.51,13.66
+Breakfast,24.7,51,Sunday,1.9,4.26,17.25
+Dinner,48.4,54,Tuesday,5.4,6.97,14.4
+Lunch,30.7,47,Monday,1.0,2.24,7.3
+Breakfast,19.6,38,Tuesday,2.9,3.17,16.17
+Dinner,49.4,61,Friday,2.1,6.01,12.17
+Lunch,34.2,43,Thursday,4.0,7.21,21.08
+Lunch,46.5,68,Friday,4.5,11.46,24.65
+Buffet / Event,193.0,160,Saturday,25.6,43.07,22.32
+Buffet / Event,69.6,55,Tuesday,10.3,16.73,24.04
+Breakfast,15.2,35,Wednesday,0.4,1.88,12.37
+Dinner,43.6,69,Wednesday,1.7,1.85,4.24
+Lunch,28.7,46,Wednesday,2.3,4.67,16.27
+Lunch,42.8,60,Tuesday,6.4,6.38,14.91
+Lunch,33.9,69,Sunday,2.7,1.21,3.57
+Lunch,35.0,58,Wednesday,4.6,5.08,14.51
+Dinner,50.9,62,Friday,3.3,4.74,9.31
+Buffet / Event,140.3,123,Tuesday,18.8,31.75,22.63
+Lunch,56.9,76,Friday,5.1,10.77,18.93
+Buffet / Event,163.9,144,Wednesday,34.6,43.32,26.43
+Lunch,30.9,54,Tuesday,2.0,2.52,8.16
+Dinner,45.6,51,Saturday,7.4,8.43,18.49
+Dinner,40.6,41,Sunday,8.5,14.89,36.67
+Dinner,36.7,45,Saturday,2.5,4.26,11.61
+Dinner,45.3,57,Monday,2.1,2.33,5.14
+Lunch,41.6,65,Tuesday,6.2,7.29,17.52
+Lunch,86.7,103,Saturday,26.4,37.5,43.25
+Lunch,66.4,93,Sunday,7.7,9.3,14.01
+Lunch,43.9,74,Sunday,1.3,2.53,5.76
+Lunch,26.1,37,Saturday,3.9,5.33,20.42
+Lunch,103.2,99,Thursday,32.6,40.18,38.93
+Breakfast,7.1,18,Tuesday,0.7,0.47,6.62
+Buffet / Event,283.1,242,Thursday,47.2,55.99,19.78
+Dinner,41.3,31,Sunday,12.0,17.49,42.35
+Breakfast,28.7,61,Sunday,2.6,2.42,8.43
+Breakfast,20.9,46,Saturday,2.6,4.66,22.3
+Dinner,62.3,63,Wednesday,19.3,20.24,32.49
+Breakfast,21.4,41,Sunday,1.6,3.24,15.14
+Lunch,32.4,48,Saturday,0.6,3.31,10.22
+Breakfast,34.4,61,Thursday,4.3,8.47,24.62
+Dinner,70.0,85,Sunday,6.5,8.7,12.43
+Lunch,37.2,77,Wednesday,3.1,1.88,5.05
+Dinner,45.5,57,Thursday,6.0,7.1,15.6
+Buffet / Event,146.2,136,Thursday,18.5,30.73,21.02
+Dinner,16.8,18,Monday,0.8,3.07,18.27
+Lunch,51.7,71,Monday,5.9,6.41,12.4
+Breakfast,22.4,35,Thursday,2.1,6.72,30.0
+Lunch,30.6,48,Wednesday,4.0,7.78,25.42
+Dinner,26.9,35,Tuesday,0.9,1.39,5.17
+Lunch,55.3,93,Friday,1.8,7.06,12.77
+Dinner,22.7,27,Monday,3.6,4.24,18.68
+Lunch,32.0,49,Sunday,6.0,7.15,22.34
+Lunch,56.9,80,Monday,9.5,13.25,23.29
+Breakfast,25.5,42,Saturday,4.1,6.31,24.75
+Lunch,11.4,18,Tuesday,0.3,1.42,12.46
+Dinner,53.8,67,Tuesday,3.2,5.56,10.33
+Dinner,25.8,35,Wednesday,4.0,3.36,13.02
+Dinner,62.6,63,Friday,6.3,15.21,24.3
+Lunch,46.5,81,Friday,3.7,4.79,10.3
+Lunch,24.4,36,Tuesday,4.9,5.62,23.03
+Dinner,56.3,66,Monday,10.1,11.37,20.2
+Lunch,43.1,58,Monday,8.1,8.93,20.72
+Dinner,36.0,52,Sunday,0.6,2.57,7.14
+Lunch,43.3,63,Tuesday,1.0,4.38,10.12
+Breakfast,19.1,38,Tuesday,6.4,5.47,28.64
+Dinner,37.0,46,Wednesday,5.8,4.0,10.81
+Lunch,58.1,65,Saturday,13.4,22.16,38.14
+Buffet / Event,139.5,112,Thursday,15.0,31.44,22.54
+Breakfast,17.3,38,Tuesday,2.0,3.73,21.56
+Lunch,48.5,76,Friday,3.7,1.94,4.0
+Lunch,35.7,67,Wednesday,1.9,1.47,4.12
+Lunch,41.4,67,Saturday,5.5,7.72,18.65
+Dinner,102.9,85,Sunday,31.8,40.02,38.89
+Buffet / Event,170.1,169,Saturday,7.7,8.35,4.91
+Lunch,8.9,15,Sunday,1.8,0.87,9.78
+Lunch,55.9,69,Wednesday,18.6,17.04,30.48
+Dinner,54.5,71,Thursday,4.1,8.82,16.18
+Dinner,31.0,36,Thursday,2.9,7.19,23.19
+Buffet / Event,65.2,69,Wednesday,5.1,2.24,3.44
+Lunch,30.3,34,Thursday,9.1,10.12,33.4
+Dinner,32.9,41,Wednesday,3.2,4.58,13.92
+Breakfast,19.6,45,Sunday,0.1,1.74,8.88
+Dinner,19.7,17,Wednesday,6.5,7.84,39.8
+Buffet / Event,210.1,239,Saturday,36.8,30.88,14.7
+Breakfast,18.4,46,Wednesday,1.9,0.88,4.78
+Breakfast,12.0,31,Monday,0.7,1.65,13.75
+Lunch,57.9,79,Monday,7.4,6.69,11.55
+Lunch,51.6,79,Saturday,2.4,1.94,3.76
+Breakfast,17.9,39,Thursday,0.5,1.03,5.75
+Lunch,48.1,79,Sunday,6.1,6.01,12.49
+Lunch,64.2,81,Saturday,10.1,16.56,25.79
+Lunch,78.0,94,Sunday,14.2,19.02,24.38
+Lunch,31.8,43,Monday,1.1,4.21,13.24
+Lunch,37.3,67,Saturday,0.6,4.27,11.45
+Lunch,26.6,39,Sunday,2.1,5.2,19.55
+Lunch,37.1,70,Wednesday,5.1,3.84,10.35
+Dinner,77.7,78,Friday,10.9,18.87,24.29
+Dinner,15.0,13,Tuesday,3.5,6.0,40.0
+Dinner,29.5,44,Tuesday,2.6,1.68,5.69
+Lunch,48.3,63,Wednesday,6.9,11.05,22.88
+Lunch,71.3,116,Thursday,12.4,12.71,17.83
+Dinner,50.2,44,Sunday,14.7,21.99,43.8
+Lunch,27.0,50,Friday,2.5,1.46,5.41
+Lunch,89.2,78,Thursday,29.8,39.69,44.5
+Breakfast,14.1,26,Monday,3.4,3.89,27.59
+Lunch,61.0,80,Friday,8.2,8.69,14.25
+Buffet / Event,104.2,110,Monday,17.4,19.11,18.34
+Dinner,51.8,71,Sunday,4.4,4.98,9.61
+Lunch,48.0,77,Saturday,3.8,10.21,21.27
+Breakfast,26.3,54,Friday,1.9,5.03,19.13
+Dinner,36.1,37,Tuesday,4.3,6.91,19.14
+Breakfast,34.9,66,Friday,6.4,5.33,15.27
+Dinner,65.8,65,Friday,8.7,17.28,26.26
+Buffet / Event,100.9,90,Thursday,16.7,17.56,17.4
+Dinner,28.2,41,Thursday,0.7,2.01,7.13
+Breakfast,29.9,58,Sunday,5.6,6.66,22.27
+Dinner,31.3,30,Tuesday,6.1,11.59,37.03
+Dinner,34.3,40,Tuesday,5.6,5.25,15.31
+Dinner,28.4,33,Friday,3.6,4.0,14.08
+Breakfast,14.2,35,Monday,0.9,2.08,14.65
+Lunch,42.7,77,Sunday,1.7,2.18,5.11
+Dinner,48.3,60,Tuesday,5.7,8.11,16.79
+Lunch,37.8,41,Wednesday,8.7,11.3,29.89
+Breakfast,18.1,45,Wednesday,2.3,2.4,13.26
+Lunch,41.3,73,Friday,1.2,4.13,10.0
+Breakfast,8.6,18,Monday,0.3,0.54,6.28
+Lunch,49.4,73,Monday,5.8,7.98,16.15
+Dinner,45.4,42,Monday,8.9,19.11,42.09
+Breakfast,18.3,48,Monday,1.5,1.02,5.57
+Lunch,16.9,20,Monday,2.4,4.04,23.91
+Dinner,42.5,59,Wednesday,2.7,2.15,5.06
+Buffet / Event,88.8,118,Friday,5.0,3.73,4.2
+Breakfast,25.4,65,Saturday,1.4,2.29,9.02
+Buffet / Event,98.0,89,Sunday,8.7,19.88,20.29
+Lunch,56.0,67,Friday,16.3,20.62,36.82
+Lunch,30.0,48,Saturday,2.6,1.51,5.03
+Lunch,67.7,56,Wednesday,22.1,32.02,47.3
+Dinner,60.2,62,Saturday,10.0,13.28,22.06
+Lunch,31.6,44,Thursday,5.6,3.43,10.85
+Dinner,25.5,30,Saturday,1.8,2.5,9.8
+Lunch,25.5,39,Thursday,4.0,3.24,12.71
+Lunch,42.5,47,Tuesday,14.1,14.82,34.87
+Buffet / Event,91.6,68,Monday,23.3,32.94,35.96
+Lunch,65.1,90,Saturday,12.0,14.13,21.71
+Dinner,73.3,73,Friday,19.7,22.29,30.41
+Buffet / Event,334.8,236,Saturday,72.0,123.14,36.78
+Breakfast,28.4,62,Monday,3.4,7.14,25.14
+Lunch,59.5,82,Thursday,7.7,15.12,25.41
+Dinner,42.7,57,Friday,2.6,2.03,4.75
+Breakfast,17.8,33,Wednesday,3.1,5.51,30.96
+Dinner,32.7,49,Sunday,2.0,1.9,5.81
+Lunch,43.1,57,Saturday,7.0,9.97,23.13
+Breakfast,24.9,39,Wednesday,8.8,9.71,39.0
+Lunch,59.7,85,Monday,6.1,8.38,14.04
+Dinner,22.1,28,Saturday,3.0,2.58,11.67
+Breakfast,28.0,72,Friday,3.2,3.94,14.07
+Lunch,42.3,62,Friday,6.0,8.22,19.43
+Lunch,74.9,85,Friday,17.0,27.0,36.05
+Lunch,38.9,61,Monday,0.8,1.69,4.34
+Lunch,53.1,75,Wednesday,8.8,10.6,19.96
+Lunch,36.5,64,Tuesday,5.7,5.82,15.95
+Dinner,57.8,57,Wednesday,9.1,13.42,23.22
+Buffet / Event,63.8,65,Thursday,4.4,6.87,10.77
+Lunch,72.0,71,Wednesday,21.6,32.2,44.72
+Dinner,54.8,70,Sunday,2.1,2.35,4.29
+Breakfast,25.7,56,Sunday,3.7,4.89,19.03
+Lunch,52.0,76,Sunday,10.1,15.34,29.5
+Breakfast,17.6,47,Sunday,1.2,1.8,10.23
+Dinner,39.1,37,Thursday,4.0,10.98,28.08
+Dinner,63.0,61,Thursday,20.6,16.77,26.62
+Lunch,35.7,44,Wednesday,3.4,8.41,23.56
+Breakfast,35.5,53,Tuesday,9.7,15.82,44.56
+Lunch,47.5,67,Saturday,1.4,5.04,10.61
+Lunch,55.3,59,Wednesday,14.3,25.89,46.82
+Buffet / Event,60.8,80,Tuesday,2.0,2.01,3.31
+Breakfast,33.3,51,Sunday,6.9,11.39,34.2
+Lunch,33.7,58,Thursday,1.0,1.46,4.33
+Dinner,88.6,66,Saturday,26.1,38.39,43.33
+Dinner,26.1,33,Thursday,0.7,0.79,3.03
+Dinner,44.4,37,Friday,14.9,17.22,38.78
+Breakfast,24.9,38,Wednesday,6.7,10.08,40.48
+Breakfast,30.6,74,Saturday,1.3,2.26,7.39
+Dinner,104.8,91,Saturday,25.1,41.74,39.83
+Lunch,51.3,66,Sunday,6.9,10.23,19.94
+Dinner,49.7,57,Saturday,6.4,4.3,8.65
+Breakfast,25.0,51,Tuesday,2.3,3.54,14.16
+Lunch,39.8,71,Saturday,4.8,5.06,12.71
+Breakfast,15.0,33,Monday,0.3,1.86,12.4
+Dinner,38.2,49,Wednesday,3.1,1.22,3.19
+Dinner,40.3,59,Saturday,2.6,1.89,4.69
+Breakfast,22.9,43,Sunday,3.1,3.79,16.55
+Breakfast,17.6,29,Wednesday,2.4,4.51,25.62
+Breakfast,30.7,73,Saturday,2.0,3.92,12.77
+Dinner,38.3,40,Friday,10.2,12.03,31.41
+Dinner,53.9,65,Wednesday,1.4,3.64,6.75
+Breakfast,27.2,54,Wednesday,2.3,3.8,13.97
+Dinner,38.7,45,Monday,2.4,2.8,7.24
+Lunch,26.0,39,Thursday,4.0,4.83,18.58
+Dinner,92.1,62,Friday,31.9,42.75,46.42
+Breakfast,13.5,30,Monday,1.2,1.12,8.3
+Lunch,45.0,73,Saturday,2.4,3.15,7.0
+Buffet / Event,203.6,160,Wednesday,40.7,60.66,29.79
+Breakfast,27.1,52,Tuesday,2.8,6.18,22.8
+Lunch,41.6,63,Thursday,6.6,4.31,10.36
+Lunch,27.6,32,Tuesday,7.0,11.25,40.76
+Dinner,57.9,67,Tuesday,5.6,13.93,24.06
+Buffet / Event,197.9,153,Tuesday,27.3,47.23,23.87
+Lunch,52.2,68,Tuesday,4.4,9.32,17.85
+Lunch,39.1,62,Thursday,2.6,1.51,3.86
+Breakfast,13.3,31,Tuesday,0.2,0.51,3.83
+Dinner,48.9,56,Monday,5.9,11.15,22.8
+Lunch,89.8,93,Wednesday,30.5,41.16,45.84
+Breakfast,14.8,24,Wednesday,2.9,4.59,31.01
+Lunch,51.1,64,Thursday,4.2,11.2,21.92
+Dinner,57.5,73,Saturday,10.3,8.18,14.23
+Breakfast,15.9,26,Tuesday,3.3,6.17,38.81
+Lunch,50.9,70,Tuesday,4.2,6.39,12.55
+Dinner,33.3,41,Monday,6.2,7.64,22.94
+Lunch,36.6,49,Tuesday,5.6,5.89,16.09
+Lunch,91.0,103,Sunday,28.4,25.6,28.13
+Buffet / Event,158.3,155,Sunday,18.7,30.22,19.09
+Breakfast,16.9,31,Monday,2.3,4.19,24.79
+Dinner,58.3,68,Saturday,3.7,4.18,7.17
+Dinner,39.6,47,Sunday,6.2,8.38,21.16
+Dinner,44.9,49,Wednesday,4.2,5.2,11.58
+Breakfast,20.9,43,Monday,3.3,2.71,12.97
+Lunch,58.4,80,Saturday,8.7,9.45,16.18
+Buffet / Event,102.8,73,Wednesday,31.4,32.3,31.42
+Buffet / Event,169.2,152,Friday,29.7,30.97,18.3
+Lunch,46.5,59,Wednesday,6.0,11.25,24.19
+Breakfast,24.3,35,Sunday,8.3,11.24,46.26
+Breakfast,29.2,52,Thursday,4.4,7.0,23.97
+Dinner,66.3,62,Saturday,15.5,21.07,31.78
+Breakfast,16.8,35,Thursday,1.5,3.15,18.75
+Breakfast,17.1,35,Sunday,1.3,4.45,26.02
+Lunch,19.0,37,Tuesday,1.5,0.76,4.0
+Lunch,40.4,60,Sunday,6.7,8.32,20.59
+Dinner,73.2,70,Thursday,7.2,19.15,26.16
+Lunch,17.7,38,Thursday,0.5,0.66,3.73
+Dinner,46.7,64,Thursday,1.5,4.71,10.09
+Buffet / Event,117.0,84,Monday,28.9,50.87,43.48
+Dinner,77.6,62,Sunday,19.2,27.49,35.43
+Lunch,48.8,75,Monday,3.1,2.07,4.24
+Lunch,47.8,80,Friday,7.6,8.33,17.43
+Breakfast,19.9,38,Friday,6.1,6.4,32.16
+Lunch,69.1,67,Saturday,12.6,29.22,42.29
+Buffet / Event,69.9,89,Tuesday,5.8,2.3,3.29
+Lunch,29.6,50,Friday,4.8,3.76,12.7
+Breakfast,23.7,50,Monday,2.5,4.2,17.72
+Lunch,54.7,83,Saturday,3.1,5.05,9.23
+Lunch,48.0,86,Friday,2.9,4.17,8.69
+Lunch,38.8,75,Wednesday,1.9,1.73,4.46
+Dinner,35.3,44,Monday,1.3,2.06,5.84
+Lunch,36.3,57,Thursday,1.0,4.71,12.98
+Breakfast,16.0,37,Monday,1.1,2.19,13.69
+Dinner,35.3,51,Tuesday,1.4,2.41,6.83
+Lunch,33.3,43,Wednesday,5.8,6.77,20.33
+Breakfast,34.1,53,Saturday,10.9,15.09,44.25
+Lunch,35.9,69,Saturday,2.4,2.13,5.93
+Breakfast,42.8,70,Thursday,7.8,15.59,36.43
+Dinner,27.7,35,Friday,2.9,4.88,17.62
+Dinner,51.7,68,Sunday,4.8,8.37,16.19
+Breakfast,23.5,49,Sunday,3.2,3.0,12.77
+Buffet / Event,102.9,111,Wednesday,11.7,21.55,20.94
+Lunch,27.9,51,Wednesday,1.3,1.71,6.13
+Breakfast,20.3,34,Tuesday,2.6,5.37,26.45
+Lunch,26.4,43,Thursday,3.4,3.45,13.07
+Breakfast,11.1,31,Sunday,2.1,0.51,4.59
+Lunch,27.5,41,Tuesday,1.9,4.18,15.2
+Lunch,50.7,81,Sunday,4.6,10.73,21.16
+Breakfast,15.6,38,Wednesday,0.6,2.72,17.44
+Lunch,52.4,82,Friday,3.0,6.05,11.55
+Dinner,35.1,46,Saturday,2.1,1.78,5.07
+Buffet / Event,269.6,210,Saturday,28.9,61.93,22.97
+Breakfast,16.1,35,Wednesday,1.7,1.56,9.69
+Lunch,33.1,68,Monday,1.6,1.88,5.68
+Breakfast,27.3,61,Tuesday,4.7,6.16,22.56
+Breakfast,24.3,47,Wednesday,1.2,4.63,19.05
+Breakfast,23.4,42,Tuesday,2.7,4.26,18.21
+Dinner,48.3,49,Tuesday,5.1,11.04,22.86
+Buffet / Event,134.9,135,Thursday,23.0,31.61,23.43
+Breakfast,15.7,38,Saturday,0.3,0.89,5.67
+Buffet / Event,84.2,73,Thursday,23.5,31.28,37.15
+Buffet / Event,174.2,170,Friday,11.3,17.26,9.91
+Lunch,22.5,29,Tuesday,2.8,3.55,15.78
+Dinner,41.8,35,Tuesday,12.0,16.52,39.52
+Lunch,30.8,56,Friday,1.3,4.01,13.02
+Lunch,43.5,54,Thursday,6.7,10.09,23.2
+Dinner,38.2,38,Thursday,5.8,9.28,24.29
+Dinner,28.5,34,Monday,4.7,6.77,23.75
+Breakfast,24.6,63,Saturday,2.3,2.06,8.37
+Breakfast,21.3,60,Tuesday,1.1,1.3,6.1
+Lunch,60.8,62,Wednesday,11.9,20.56,33.82
+Breakfast,25.0,49,Sunday,2.8,5.35,21.4
+Dinner,56.4,74,Saturday,2.2,7.02,12.45
+Breakfast,21.5,28,Thursday,5.8,9.24,42.98
+Lunch,38.6,59,Thursday,4.8,7.42,19.22
+Dinner,38.3,51,Friday,1.8,1.93,5.04
+Buffet / Event,68.3,75,Sunday,10.7,12.98,19.0
+Dinner,58.5,70,Sunday,5.3,6.55,11.2
+Dinner,52.7,40,Tuesday,16.8,20.57,39.03
+Lunch,63.8,86,Wednesday,6.4,15.45,24.22
+Lunch,41.4,72,Monday,1.2,3.51,8.48
+Lunch,55.5,51,Thursday,17.6,22.09,39.8
+Breakfast,13.2,28,Wednesday,1.8,3.32,25.15
+Dinner,24.0,29,Sunday,2.8,3.89,16.21
+Dinner,31.6,39,Friday,1.1,1.84,5.82
+Buffet / Event,161.8,135,Tuesday,15.6,32.0,19.78
+Breakfast,18.2,34,Sunday,2.8,3.27,17.97
+Dinner,10.4,13,Wednesday,0.6,0.41,3.94
+Lunch,41.0,51,Tuesday,7.6,10.15,24.76
+Dinner,32.5,45,Thursday,1.4,1.75,5.38
+Lunch,59.7,66,Tuesday,12.6,20.99,35.16
+Breakfast,15.6,36,Sunday,1.2,1.36,8.72
+Lunch,27.8,36,Thursday,4.3,5.58,20.07
+Dinner,67.1,73,Tuesday,5.6,13.87,20.67
+Breakfast,21.8,44,Saturday,1.9,5.72,26.24
+Breakfast,23.4,47,Friday,2.2,3.49,14.91
+Dinner,36.9,45,Tuesday,6.6,7.2,19.51
+Dinner,37.5,34,Friday,13.2,13.27,35.39
+Lunch,60.1,72,Wednesday,16.3,23.84,39.67
+Lunch,44.6,57,Thursday,4.9,9.79,21.95
+Dinner,49.3,61,Monday,8.3,7.04,14.28
+Breakfast,30.7,56,Saturday,2.8,5.74,18.7
+Dinner,43.5,60,Friday,3.1,2.43,5.59
+Buffet / Event,117.5,129,Tuesday,2.9,5.97,5.08
+Lunch,77.1,89,Friday,17.3,30.07,39.0
+Breakfast,20.7,34,Saturday,6.5,6.4,30.92
+Breakfast,21.6,34,Thursday,6.8,8.56,39.63
+Lunch,33.9,55,Tuesday,1.4,2.1,6.19
+Dinner,51.3,37,Saturday,12.7,22.81,44.46
+Lunch,33.7,53,Wednesday,1.7,3.84,11.39
+Dinner,11.4,14,Tuesday,1.6,1.97,17.28
+Breakfast,13.6,34,Monday,1.6,1.9,13.97
+Dinner,17.5,19,Monday,2.8,2.29,13.09
+Dinner,52.2,70,Friday,4.9,7.37,14.12
+Lunch,49.0,76,Wednesday,3.8,8.09,16.51
+Breakfast,22.0,45,Saturday,0.2,2.71,12.32
+Buffet / Event,145.4,111,Friday,13.1,37.78,25.98
+Dinner,29.9,40,Thursday,3.2,3.08,10.3
+Lunch,34.2,40,Thursday,3.6,8.28,24.21
+Lunch,50.2,77,Saturday,4.6,9.64,19.2
+Lunch,44.2,69,Tuesday,4.2,7.3,16.52
+Breakfast,27.6,53,Sunday,3.0,4.04,14.64
+Lunch,28.1,45,Thursday,3.9,5.52,19.64
+Breakfast,17.0,40,Thursday,1.2,0.95,5.59
+Dinner,40.9,52,Monday,5.1,7.52,18.39
+Breakfast,25.6,50,Wednesday,3.4,5.49,21.45
+Lunch,25.3,38,Friday,1.4,1.23,4.86
+Lunch,63.1,84,Saturday,8.6,10.84,17.18
+Breakfast,18.9,34,Friday,4.6,5.16,27.3
+Breakfast,32.5,39,Thursday,10.6,14.92,45.91
+Breakfast,21.8,32,Monday,4.9,8.73,40.05
+Breakfast,17.2,43,Sunday,2.2,2.87,16.69
+Dinner,76.0,69,Saturday,15.1,23.29,30.64
+Buffet / Event,105.9,102,Monday,8.5,18.82,17.77
+Dinner,34.9,49,Thursday,2.9,2.09,5.99
+Dinner,41.5,44,Wednesday,5.5,10.25,24.7
+Buffet / Event,122.5,147,Wednesday,8.4,4.19,3.42
+Lunch,36.3,50,Sunday,4.1,8.58,23.64
+Breakfast,27.7,50,Saturday,2.8,6.32,22.82
+Lunch,52.1,82,Friday,1.8,5.15,9.88
+Lunch,50.7,66,Tuesday,7.1,12.36,24.38
+Dinner,31.6,31,Wednesday,6.9,8.82,27.91
+Lunch,28.8,43,Monday,2.5,4.53,15.73
+Breakfast,31.5,59,Saturday,8.9,9.11,28.92
+Lunch,47.5,72,Tuesday,5.1,11.26,23.71
+Dinner,55.0,71,Thursday,3.7,3.7,6.73
+Dinner,35.3,36,Saturday,6.8,6.26,17.73
+Lunch,22.8,33,Saturday,4.0,1.81,7.94
+Breakfast,49.1,88,Saturday,13.9,16.59,33.79
+Breakfast,22.8,45,Wednesday,3.3,3.27,14.34
+Dinner,30.3,40,Tuesday,1.6,1.41,4.65
+Lunch,57.0,68,Monday,10.5,13.14,23.05
+Lunch,66.9,108,Sunday,1.6,4.49,6.71
+Buffet / Event,120.5,116,Thursday,16.1,27.94,23.19
+Dinner,46.3,49,Thursday,10.7,13.24,28.6
+Lunch,70.7,66,Sunday,20.5,29.69,41.99
+Buffet / Event,152.6,140,Sunday,18.0,39.53,25.9
+Breakfast,17.9,34,Thursday,0.8,2.83,15.81
+Dinner,42.3,54,Tuesday,3.4,2.63,6.22
+Dinner,58.8,69,Saturday,1.4,7.06,12.01
+Buffet / Event,120.6,132,Thursday,14.3,14.91,12.36
+Buffet / Event,145.9,110,Sunday,43.9,51.13,35.04
+Buffet / Event,81.8,85,Monday,12.0,17.1,20.9
+Lunch,37.9,54,Monday,3.0,3.85,10.16
+Breakfast,7.4,17,Tuesday,0.9,1.5,20.27
+Dinner,45.2,66,Thursday,3.0,3.17,7.01
+Dinner,52.5,58,Saturday,8.9,11.6,22.1
+Breakfast,20.6,39,Friday,3.5,6.07,29.47
+Breakfast,42.7,86,Saturday,1.3,5.03,11.78
+Dinner,32.1,41,Monday,3.8,6.51,20.28
+Buffet / Event,144.3,128,Saturday,21.9,15.96,11.06
+Dinner,35.5,54,Friday,0.3,1.16,3.27
+Lunch,21.0,33,Wednesday,1.2,1.02,4.86
+Breakfast,29.5,55,Saturday,8.9,8.0,27.12
+Dinner,62.5,53,Sunday,16.5,23.55,37.68
+Dinner,59.8,58,Thursday,11.9,23.24,38.86
+Breakfast,40.7,55,Saturday,9.4,17.05,41.89
+Buffet / Event,161.4,170,Saturday,21.2,27.97,17.33
+Breakfast,22.0,46,Tuesday,3.7,3.29,14.95
+Dinner,42.8,49,Monday,3.5,4.89,11.43
+Breakfast,23.0,54,Friday,4.1,2.82,12.26
+Breakfast,28.0,47,Thursday,9.2,10.0,35.71
+Dinner,33.0,46,Tuesday,0.9,1.57,4.76
+Lunch,42.6,53,Monday,3.6,10.08,23.66
+Dinner,54.1,73,Friday,3.0,1.73,3.2
+Lunch,56.6,83,Saturday,6.2,13.84,24.45
+Lunch,56.2,77,Tuesday,9.3,7.58,13.49
+Dinner,33.8,46,Tuesday,3.1,2.94,8.7
+Breakfast,23.7,60,Thursday,1.0,0.84,3.54
+Dinner,46.8,51,Saturday,4.8,9.11,19.47
+Buffet / Event,172.5,175,Wednesday,22.4,43.3,25.1
+Lunch,43.7,67,Friday,3.2,10.62,24.3
+Breakfast,26.2,47,Saturday,1.8,4.96,18.93
+Dinner,31.4,37,Saturday,2.9,5.88,18.73
+Dinner,54.1,44,Wednesday,17.6,20.46,37.82
+Breakfast,25.0,63,Saturday,1.1,1.55,6.2
+Lunch,39.7,69,Friday,0.2,4.28,10.78
+Lunch,47.1,63,Wednesday,5.4,10.75,22.82
+Dinner,41.7,49,Sunday,5.5,8.74,20.96
+Breakfast,17.8,40,Tuesday,1.7,1.68,9.44
+Dinner,32.1,38,Monday,0.9,1.93,6.01
+Dinner,61.5,74,Saturday,3.1,4.06,6.6
+Lunch,53.6,68,Saturday,18.0,19.64,36.64
+Lunch,41.6,63,Sunday,5.9,6.25,15.02
+Lunch,51.7,67,Wednesday,5.9,10.77,20.83
+Breakfast,18.9,43,Sunday,2.3,3.31,17.51
+Lunch,73.5,71,Sunday,25.5,29.11,39.61
+Buffet / Event,128.6,140,Tuesday,6.6,10.77,8.37
+Breakfast,16.2,42,Sunday,0.0,0.65,4.01
+Lunch,59.5,79,Monday,9.6,12.26,20.61
+Breakfast,25.8,53,Wednesday,3.9,6.12,23.72
+Dinner,18.7,28,Tuesday,0.4,1.42,7.59
+Buffet / Event,174.1,139,Thursday,27.7,35.41,20.34
+Lunch,34.3,48,Friday,1.2,3.27,9.53
+Dinner,31.9,32,Tuesday,2.9,6.87,21.54
+Dinner,33.2,50,Sunday,2.3,1.63,4.91
+Breakfast,26.1,50,Tuesday,4.6,5.71,21.88
+Lunch,40.6,63,Friday,6.2,9.73,23.97
+Buffet / Event,124.3,121,Friday,14.8,21.58,17.36
+Buffet / Event,142.1,145,Thursday,17.1,32.88,23.14
+Breakfast,25.9,58,Wednesday,2.7,4.66,17.99
+Lunch,39.7,64,Sunday,7.1,4.48,11.28
+Breakfast,23.8,49,Saturday,2.3,2.46,10.34
+Dinner,51.9,59,Monday,7.0,10.61,20.44
+Buffet / Event,108.4,98,Tuesday,9.8,26.57,24.51
+Lunch,50.6,74,Sunday,2.1,3.36,6.64
+Breakfast,31.0,44,Monday,9.2,13.31,42.94
+Breakfast,20.1,47,Tuesday,2.2,3.17,15.77
+Buffet / Event,125.2,117,Friday,19.5,17.28,13.8
+Buffet / Event,87.1,98,Sunday,13.9,11.77,13.51
+Lunch,38.0,42,Wednesday,8.2,12.83,33.76
+Dinner,44.4,50,Saturday,5.3,6.98,15.72
+Dinner,26.1,34,Monday,3.6,3.38,12.95
+Breakfast,27.3,42,Thursday,7.3,9.28,33.99
+Dinner,54.3,63,Friday,5.1,4.75,8.75
+Buffet / Event,150.0,98,Monday,28.1,61.84,41.23
+Lunch,32.5,45,Friday,3.9,5.78,17.78
+Dinner,37.7,53,Sunday,1.9,1.62,4.3
+Dinner,51.8,42,Sunday,9.7,21.34,41.2
+Dinner,67.8,81,Thursday,13.0,10.4,15.34
+Lunch,53.5,82,Friday,6.9,10.45,19.53
+Buffet / Event,107.9,102,Saturday,15.6,20.03,18.56
+Buffet / Event,164.5,187,Thursday,11.4,18.42,11.2
+Dinner,18.0,28,Wednesday,0.6,0.92,5.11
+Lunch,36.8,68,Saturday,2.3,4.14,11.25
+Breakfast,30.2,63,Sunday,2.7,4.38,14.5
+Dinner,55.6,53,Wednesday,12.2,17.71,31.85
+Dinner,54.9,70,Sunday,7.7,6.2,11.29
+Dinner,20.2,29,Wednesday,1.0,1.15,5.69
+Lunch,43.4,67,Monday,5.0,8.86,20.41
+Dinner,41.6,48,Monday,5.1,4.8,11.54
+Buffet / Event,132.1,121,Wednesday,3.5,13.95,10.56
+Breakfast,5.2,10,Sunday,0.2,1.57,30.19
+Buffet / Event,116.2,105,Sunday,34.5,34.48,29.67
+Dinner,50.8,53,Friday,11.0,16.06,31.61
+Buffet / Event,116.8,125,Friday,8.9,10.37,8.88
+Breakfast,20.8,42,Thursday,3.0,1.81,8.7
+Dinner,89.2,90,Saturday,7.6,21.89,24.54
+Dinner,40.7,54,Wednesday,1.9,1.59,3.91
+Lunch,59.9,93,Wednesday,8.3,13.06,21.8
+Lunch,57.2,86,Sunday,6.9,10.84,18.95
+Dinner,51.6,52,Saturday,14.6,15.34,29.73
+Lunch,36.6,52,Thursday,4.3,8.41,22.98
+Dinner,60.4,80,Sunday,2.3,4.31,7.14
+Dinner,43.9,52,Wednesday,7.4,9.94,22.64
+Dinner,64.4,65,Thursday,7.9,13.71,21.29
+Lunch,32.4,39,Sunday,8.0,11.69,36.08
+Dinner,39.3,38,Tuesday,3.6,8.84,22.49
+Lunch,34.8,43,Tuesday,11.8,10.84,31.15
+Breakfast,38.4,72,Wednesday,9.2,11.72,30.52
+Dinner,32.1,35,Wednesday,9.6,9.85,30.69
+Lunch,31.0,44,Monday,4.9,6.55,21.13
+Buffet / Event,158.4,122,Tuesday,54.6,41.1,25.95
+Breakfast,24.3,55,Thursday,1.8,3.18,13.09
+Lunch,40.9,71,Wednesday,2.8,1.63,3.99
+Dinner,54.5,63,Saturday,8.1,11.76,21.58
+Lunch,41.6,57,Friday,4.6,8.01,19.25
+Breakfast,29.8,51,Friday,4.8,6.96,23.36
+Breakfast,25.6,47,Sunday,3.8,4.4,17.19
+Lunch,51.8,74,Tuesday,3.8,5.98,11.54
+Breakfast,24.6,69,Sunday,0.9,0.85,3.46
+Lunch,69.7,85,Sunday,8.2,15.05,21.59
+Lunch,40.4,70,Monday,6.2,6.35,15.72
+Breakfast,27.4,61,Sunday,1.6,1.78,6.5
+Dinner,60.2,53,Monday,19.0,24.86,41.3
+Dinner,29.8,35,Monday,2.5,1.45,4.87
+Dinner,47.0,56,Sunday,2.8,4.08,8.68
+Dinner,87.1,66,Tuesday,19.1,34.22,39.29
+Dinner,52.9,52,Tuesday,8.8,12.23,23.12
+Buffet / Event,98.2,119,Wednesday,6.0,8.42,8.57
+Dinner,30.9,38,Wednesday,2.4,3.01,9.74
+Breakfast,26.2,42,Friday,7.5,9.33,35.61
+Lunch,49.6,85,Sunday,2.5,1.59,3.21
+Lunch,55.3,77,Friday,8.9,13.01,23.53
+Dinner,43.8,50,Monday,1.3,4.31,9.84
+Lunch,42.8,61,Tuesday,7.9,10.15,23.71
+Dinner,18.0,22,Sunday,0.4,0.93,5.17
+Dinner,43.0,35,Wednesday,10.7,15.56,36.19
+Breakfast,17.3,37,Wednesday,0.9,1.05,6.07
+Breakfast,15.9,40,Friday,0.3,0.64,4.03
+Dinner,43.2,56,Friday,6.6,8.46,19.58
+Dinner,74.0,90,Sunday,13.0,7.39,9.99
+Breakfast,19.6,40,Tuesday,2.6,4.51,23.01
+Buffet / Event,199.7,168,Monday,20.5,35.73,17.89
+Breakfast,15.8,32,Friday,0.5,2.12,13.42
+Breakfast,18.6,28,Sunday,6.5,7.14,38.39
+Breakfast,14.1,33,Friday,2.5,2.94,20.85
+Dinner,59.0,74,Sunday,9.3,10.65,18.05
+Buffet / Event,113.2,92,Thursday,12.3,22.37,19.76
+Dinner,54.2,55,Wednesday,4.8,9.86,18.19
+Dinner,29.2,37,Monday,3.5,5.5,18.84
+Breakfast,18.0,34,Thursday,1.6,3.18,17.67
+Dinner,59.9,53,Thursday,16.2,21.08,35.19
+Buffet / Event,140.4,128,Wednesday,4.6,16.39,11.67
+Dinner,46.3,59,Monday,2.8,5.46,11.79
+Dinner,54.4,59,Friday,8.9,10.97,20.17
+Lunch,43.4,66,Friday,2.0,4.8,11.06
+Breakfast,29.8,62,Wednesday,4.2,6.19,20.77
+Dinner,32.8,45,Sunday,2.1,1.25,3.81
+Lunch,88.1,81,Monday,24.6,36.96,41.95
+Buffet / Event,79.2,100,Monday,5.6,4.98,6.29
+Dinner,66.6,84,Sunday,7.7,11.71,17.58
+Dinner,48.3,54,Sunday,4.2,6.28,13.0
+Lunch,29.9,45,Sunday,1.9,2.47,8.26
+Lunch,32.3,45,Wednesday,7.5,8.84,27.37
+Dinner,44.1,40,Wednesday,13.6,14.32,32.47
+Lunch,48.5,74,Saturday,1.0,3.15,6.49
+Dinner,56.4,64,Monday,10.0,13.08,23.19
+Dinner,48.4,54,Tuesday,2.6,6.31,13.04
+Dinner,53.4,63,Wednesday,6.2,7.53,14.1
+Lunch,32.8,54,Saturday,3.5,6.31,19.24
+Dinner,54.9,69,Saturday,8.4,8.39,15.28
+Breakfast,19.8,51,Friday,1.3,1.74,8.79
+Lunch,30.0,53,Friday,1.6,1.5,5.0
+Lunch,82.0,72,Sunday,21.1,36.61,44.65
+Lunch,61.3,98,Friday,6.9,14.05,22.92
+Breakfast,14.1,40,Tuesday,0.9,0.85,6.03
+Dinner,56.5,50,Monday,12.8,18.75,33.19
+Breakfast,24.0,41,Wednesday,4.2,5.68,23.67
+Lunch,20.0,38,Thursday,2.0,0.69,3.45
+Lunch,35.0,54,Wednesday,2.5,1.44,4.11
+Dinner,76.1,96,Sunday,11.8,10.46,13.75
+Dinner,23.8,31,Tuesday,1.5,1.54,6.47
+Breakfast,16.1,42,Friday,0.3,0.74,4.6
+Breakfast,41.3,63,Thursday,11.7,15.65,37.89
+Breakfast,23.1,31,Friday,6.9,10.15,43.94
+Dinner,52.5,49,Wednesday,11.8,21.51,40.97
+Buffet / Event,129.4,149,Wednesday,3.6,11.84,9.15
+Breakfast,30.0,55,Monday,3.6,8.72,29.07
+Lunch,37.2,37,Monday,11.1,13.19,35.46
+Lunch,51.1,81,Sunday,7.6,9.92,19.41
+Lunch,20.0,33,Tuesday,1.2,1.04,5.2
+Lunch,40.1,65,Monday,6.7,6.09,15.19
+Buffet / Event,85.7,89,Tuesday,6.4,2.94,3.43
+Breakfast,22.7,49,Tuesday,3.8,5.28,23.26
+Buffet / Event,123.0,109,Friday,17.2,17.47,14.2
+Lunch,31.1,48,Wednesday,2.7,7.39,23.76
+Dinner,33.1,42,Friday,0.5,1.97,5.95
+Lunch,69.4,69,Thursday,19.2,30.96,44.61
+Lunch,27.6,47,Wednesday,1.9,3.26,11.81
+Lunch,44.0,72,Tuesday,1.1,1.89,4.3
+Breakfast,20.7,44,Friday,2.5,3.92,18.94
+Breakfast,45.6,73,Friday,10.9,17.25,37.83
+Lunch,40.9,73,Wednesday,2.4,2.15,5.26
+Breakfast,18.2,46,Friday,1.6,2.24,12.31
+Breakfast,27.7,52,Sunday,3.3,6.25,22.56
+Lunch,39.3,62,Saturday,0.9,1.61,4.1
+Breakfast,36.6,84,Wednesday,4.6,6.15,16.8
+Dinner,38.1,46,Thursday,6.0,9.07,23.81
+Lunch,38.3,54,Friday,3.5,5.5,14.36
+Dinner,60.6,53,Thursday,14.0,21.07,34.77
+Breakfast,30.7,63,Sunday,5.3,6.49,21.14
+Buffet / Event,189.9,175,Friday,15.9,48.5,25.54
+Lunch,85.2,106,Saturday,14.9,19.31,22.66
+Dinner,42.6,49,Sunday,6.2,10.37,24.34
+Lunch,43.4,76,Thursday,1.2,1.34,3.09
+Breakfast,21.7,35,Tuesday,7.4,6.62,30.51
+Breakfast,15.0,26,Wednesday,2.1,4.16,27.73
+Buffet / Event,88.7,110,Friday,6.3,3.21,3.62
+Breakfast,21.2,39,Monday,5.8,7.96,37.55
+Dinner,35.4,40,Tuesday,5.2,7.07,19.97
+Buffet / Event,183.7,186,Thursday,14.2,9.08,4.94
+Lunch,27.6,52,Tuesday,2.1,2.32,8.41
+Dinner,30.6,35,Wednesday,4.5,7.19,23.5
+Breakfast,25.0,53,Thursday,2.9,3.14,12.56
+Lunch,58.2,83,Sunday,10.0,8.3,14.26
+Lunch,49.6,76,Tuesday,6.4,10.12,20.4
+Lunch,45.6,89,Saturday,4.1,2.15,4.71
+Lunch,71.2,117,Thursday,11.2,8.94,12.56
+Lunch,48.6,66,Thursday,8.9,9.65,19.86
+Lunch,8.9,11,Friday,1.1,2.49,27.98
+Lunch,25.3,38,Thursday,3.4,4.6,18.18
+Breakfast,15.8,34,Wednesday,1.2,1.11,7.03
+Breakfast,25.1,45,Wednesday,8.6,9.45,37.65
+Dinner,54.6,67,Sunday,1.8,2.9,5.31
+Lunch,44.8,58,Tuesday,13.8,12.29,27.43
+Dinner,67.8,67,Friday,11.2,14.65,21.61
+Lunch,37.1,66,Monday,6.4,4.85,13.07
+Dinner,48.3,59,Saturday,2.7,2.51,5.2
+Dinner,34.4,35,Monday,4.7,6.14,17.85
+Lunch,50.8,76,Monday,3.2,3.18,6.26
+Dinner,27.3,38,Monday,1.3,3.16,11.58
+Dinner,32.7,41,Tuesday,4.9,3.57,10.92
+Lunch,42.2,62,Wednesday,2.6,3.11,7.37
+Breakfast,36.7,59,Friday,11.6,13.27,36.16
+Breakfast,31.1,57,Saturday,4.4,6.98,22.44
+Dinner,36.4,31,Friday,11.8,13.74,37.75
+Lunch,56.0,52,Saturday,12.2,24.86,44.39
+Lunch,65.8,83,Sunday,12.1,17.3,26.29
+Buffet / Event,55.8,56,Monday,5.1,14.22,25.48
+Lunch,26.9,28,Tuesday,9.7,9.04,33.61
+Lunch,28.5,38,Wednesday,2.8,8.5,29.82
+Lunch,62.7,94,Saturday,3.2,3.86,6.16
+Lunch,65.6,93,Saturday,5.7,11.88,18.11
+Breakfast,27.3,45,Saturday,7.4,7.57,27.73
+Lunch,23.8,40,Monday,0.9,2.02,8.49
+Breakfast,30.9,55,Friday,9.9,11.15,36.08
+Lunch,46.0,64,Saturday,3.4,10.95,23.8
+Lunch,55.7,66,Wednesday,9.7,12.96,23.27
+Dinner,40.5,53,Monday,6.2,6.49,16.02
+Lunch,33.2,46,Monday,3.3,4.99,15.03
+Breakfast,27.5,49,Wednesday,7.1,8.59,31.24
+Dinner,63.0,67,Saturday,6.6,14.42,22.89
+Lunch,56.8,83,Friday,6.7,10.91,19.21
+Buffet / Event,156.3,134,Tuesday,53.3,53.98,34.54
+Breakfast,16.0,42,Wednesday,0.8,0.58,3.62
+Lunch,32.8,41,Thursday,8.7,11.32,34.51
+Lunch,46.9,62,Sunday,6.2,8.39,17.89
+Buffet / Event,107.0,113,Monday,10.7,16.18,15.12
+Buffet / Event,117.4,130,Wednesday,14.7,21.52,18.33
+Buffet / Event,202.8,161,Sunday,22.8,48.38,23.86
+Lunch,33.1,46,Friday,4.6,7.0,21.15
+Lunch,33.8,42,Tuesday,2.6,6.65,19.67
+Lunch,53.8,69,Friday,14.4,18.36,34.13
+Lunch,56.6,82,Thursday,13.9,15.82,27.95
+Dinner,40.4,46,Saturday,1.1,5.55,13.74
+Lunch,46.5,62,Friday,6.4,8.58,18.45
+Lunch,29.1,49,Sunday,1.0,2.1,7.22
+Lunch,44.9,71,Wednesday,4.8,8.27,18.42
+Breakfast,30.3,36,Tuesday,7.0,13.87,45.78
+Dinner,50.2,53,Thursday,7.4,8.57,17.07
+Breakfast,19.0,37,Wednesday,3.2,5.02,26.42
+Dinner,54.9,64,Thursday,7.6,11.01,20.05
+Buffet / Event,124.8,119,Monday,17.0,25.21,20.2
+Lunch,30.5,54,Saturday,5.1,4.27,14.0
+Lunch,40.5,60,Saturday,3.2,9.53,23.53
+Lunch,47.3,75,Tuesday,2.9,2.16,4.57
+Lunch,56.3,80,Friday,7.2,14.69,26.09
+Dinner,67.4,70,Thursday,9.4,11.52,17.09
+Dinner,31.1,40,Saturday,1.5,1.28,4.12
+Breakfast,10.8,23,Thursday,0.4,1.34,12.41
+Breakfast,17.7,45,Wednesday,0.6,0.89,5.03
+Dinner,41.4,45,Thursday,12.9,11.54,27.87
+Dinner,27.3,32,Tuesday,0.5,3.38,12.38
+Dinner,48.0,60,Saturday,2.8,2.05,4.27
+Lunch,35.1,48,Tuesday,3.8,6.14,17.49
+Breakfast,17.0,41,Wednesday,0.4,1.38,8.12
+Lunch,35.8,46,Tuesday,7.7,12.7,35.47
+Dinner,49.0,66,Thursday,1.7,1.92,3.92
+Dinner,59.3,61,Monday,5.5,12.46,21.01
+Buffet / Event,95.9,105,Friday,3.1,5.46,5.69
+Breakfast,28.6,52,Thursday,1.9,5.43,18.99
+Breakfast,14.4,29,Saturday,1.8,2.99,20.76
+Dinner,45.9,60,Friday,7.8,7.53,16.41
+Dinner,34.6,45,Wednesday,1.3,1.89,5.46
+Breakfast,27.2,54,Wednesday,3.6,4.53,16.65
+Lunch,33.2,55,Tuesday,1.4,1.5,4.52
+Buffet / Event,157.0,184,Saturday,7.2,5.7,3.63
+Lunch,51.2,70,Monday,17.9,16.15,31.54
+Dinner,34.8,41,Monday,1.8,3.72,10.69
+Lunch,14.4,21,Wednesday,2.1,2.12,14.72
+Lunch,44.1,64,Monday,4.6,10.64,24.13
+Lunch,73.9,67,Wednesday,25.4,32.2,43.57
+Dinner,55.6,58,Thursday,10.0,9.43,16.96
+Dinner,33.7,36,Saturday,6.1,5.75,17.06
+Lunch,36.8,61,Tuesday,3.6,5.84,15.87
+Lunch,41.7,63,Thursday,6.4,5.78,13.86
+Lunch,36.3,44,Monday,4.9,9.52,26.23
+Buffet / Event,56.0,50,Monday,7.1,13.58,24.25
+Breakfast,21.2,52,Friday,2.4,2.75,12.97
+Lunch,31.6,48,Wednesday,2.9,3.91,12.37
+Lunch,30.7,48,Friday,5.4,4.47,14.56
+Lunch,45.8,68,Friday,1.5,3.44,7.51
+Lunch,32.5,45,Thursday,5.0,8.33,25.63
+Buffet / Event,149.8,168,Saturday,10.3,6.81,4.55
+Dinner,52.6,58,Tuesday,7.8,12.59,23.94
+Buffet / Event,181.5,174,Thursday,8.2,19.71,10.86
+Breakfast,54.8,82,Saturday,13.4,23.27,42.46
+Lunch,61.9,65,Monday,20.2,24.36,39.35
+Breakfast,13.2,30,Wednesday,1.4,2.55,19.32
+Lunch,19.0,33,Tuesday,4.2,3.28,17.26
+Dinner,12.3,15,Wednesday,0.4,0.97,7.89
+Breakfast,19.1,31,Wednesday,4.5,5.46,28.59
+Buffet / Event,126.5,138,Wednesday,5.5,12.5,9.88
+Lunch,44.5,77,Monday,4.3,5.47,12.29
+Buffet / Event,141.6,88,Wednesday,47.1,56.82,40.13
+Lunch,39.2,57,Thursday,5.2,4.11,10.48
+Dinner,44.3,57,Monday,4.1,8.74,19.73
+Lunch,63.6,89,Saturday,6.0,9.12,14.34
+Lunch,61.7,109,Friday,4.6,3.38,5.48
+Lunch,50.9,72,Monday,1.8,4.19,8.23
+Breakfast,21.0,48,Tuesday,1.3,1.26,6.0
+Lunch,53.4,82,Sunday,3.8,2.26,4.23
+Dinner,84.5,67,Thursday,24.0,38.04,45.02
+Dinner,45.4,57,Wednesday,6.4,7.57,16.67
+Dinner,58.0,70,Saturday,5.6,7.82,13.48
+Dinner,54.1,57,Monday,8.0,10.49,19.39
+Breakfast,17.4,39,Sunday,1.6,2.94,16.9
+Lunch,39.4,67,Thursday,6.7,6.99,17.74
+Dinner,51.0,46,Saturday,16.6,16.89,33.12
+Dinner,80.2,88,Wednesday,11.2,9.65,12.03
+Dinner,38.0,40,Thursday,4.5,7.83,20.61
+Dinner,36.3,53,Friday,1.6,1.7,4.68
+Dinner,39.7,50,Saturday,6.3,5.06,12.75
+Breakfast,28.2,51,Tuesday,2.8,4.51,15.99
+Lunch,63.9,65,Saturday,11.7,27.76,43.44
+Lunch,68.6,77,Friday,14.4,29.84,43.5
+Breakfast,13.4,25,Monday,1.3,2.0,14.93
+Buffet / Event,154.0,128,Monday,20.8,36.53,23.72
+Dinner,75.9,75,Sunday,12.2,18.44,24.3
+Lunch,69.1,103,Thursday,4.0,8.0,11.58
+Lunch,54.0,79,Friday,4.6,5.52,10.22
+Lunch,45.1,59,Monday,5.7,9.89,21.93
+Dinner,28.7,36,Monday,1.5,1.35,4.7
+Dinner,32.6,41,Wednesday,2.3,3.68,11.29
+Dinner,50.9,73,Monday,2.3,2.91,5.72
+Buffet / Event,101.8,105,Saturday,10.1,20.91,20.54
+Lunch,52.5,71,Friday,5.3,13.96,26.59
+Lunch,23.1,37,Tuesday,3.1,5.22,22.6
+Lunch,66.9,114,Saturday,3.3,2.58,3.86
+Dinner,51.2,60,Wednesday,8.7,9.15,17.87
+Dinner,69.8,80,Saturday,8.1,11.41,16.35
+Lunch,35.0,35,Wednesday,6.7,12.86,36.74
+Breakfast,16.9,37,Wednesday,0.0,0.88,5.21
+Lunch,56.0,79,Wednesday,8.4,8.38,14.96
+Lunch,61.6,95,Sunday,8.2,9.42,15.29
+Lunch,64.0,107,Tuesday,2.8,6.09,9.52
+Lunch,28.8,52,Monday,0.5,3.05,10.59
+Dinner,12.9,19,Friday,0.5,0.99,7.67
+Lunch,31.7,49,Monday,3.1,7.38,23.28
+Dinner,26.4,29,Thursday,2.4,6.08,23.03
+Dinner,24.7,31,Monday,3.3,3.95,15.99
+Dinner,52.7,55,Saturday,9.5,7.95,15.09
+Lunch,30.2,54,Thursday,5.1,3.75,12.42
+Dinner,37.5,58,Saturday,1.9,2.27,6.05
+Breakfast,22.7,53,Friday,4.8,3.77,16.61
+Dinner,62.8,58,Sunday,18.2,21.61,34.41
+Lunch,32.7,43,Tuesday,6.8,11.82,36.15
+Lunch,72.7,112,Thursday,8.5,13.5,18.57
+Dinner,52.9,60,Tuesday,6.8,9.59,18.13
+Breakfast,23.4,46,Wednesday,2.0,2.21,9.44
+Buffet / Event,85.1,85,Sunday,8.4,16.84,19.79
+Buffet / Event,145.0,98,Tuesday,26.3,54.82,37.81
+Dinner,63.4,62,Tuesday,6.2,14.29,22.54
+Buffet / Event,82.1,87,Sunday,4.7,2.68,3.26
+Buffet / Event,125.6,103,Wednesday,11.0,24.89,19.82
+Lunch,33.9,68,Saturday,1.7,1.38,4.07
+Breakfast,23.4,48,Thursday,0.9,1.48,6.32
+Lunch,47.9,84,Sunday,2.0,2.82,5.89
+Dinner,73.0,54,Sunday,21.8,33.38,45.73
+Lunch,13.2,21,Wednesday,0.3,0.86,6.52
+Lunch,16.1,27,Friday,1.5,0.81,5.03
+Breakfast,30.4,81,Saturday,2.8,1.85,6.09
+Dinner,43.3,54,Saturday,1.2,2.04,4.71
+Dinner,64.8,86,Sunday,7.5,7.08,10.93
+Buffet / Event,220.7,141,Monday,47.9,88.82,40.24
+Lunch,33.1,55,Tuesday,5.6,5.58,16.86
+Buffet / Event,113.0,101,Friday,13.1,26.75,23.67
+Breakfast,24.5,52,Saturday,1.5,1.29,5.27
+Lunch,49.0,80,Friday,2.7,3.4,6.94
+Breakfast,18.5,41,Sunday,2.4,4.45,24.05
+Lunch,38.2,61,Thursday,4.4,5.83,15.26
+Lunch,58.3,79,Friday,9.3,9.04,15.51
+Buffet / Event,152.1,155,Tuesday,15.3,32.09,21.1
+Lunch,41.8,45,Friday,11.1,17.31,41.41
+Lunch,23.4,36,Thursday,0.2,1.71,7.31
+Lunch,55.5,74,Thursday,5.5,9.09,16.38
+Buffet / Event,122.5,151,Friday,8.1,5.32,4.34
+Breakfast,21.8,52,Thursday,1.3,3.13,14.36
+Lunch,20.6,41,Sunday,0.2,0.8,3.88
+Breakfast,30.4,59,Saturday,2.6,3.95,12.99
+Breakfast,16.9,41,Wednesday,1.1,2.25,13.31
+Breakfast,5.9,12,Saturday,1.7,0.71,12.03
+Dinner,40.6,50,Friday,3.6,7.21,17.76
+Dinner,36.6,44,Monday,3.6,7.62,20.82
+Lunch,70.3,86,Monday,7.9,18.45,26.24
+Dinner,68.7,67,Sunday,10.9,16.54,24.08
+Lunch,56.4,86,Saturday,8.1,11.93,21.15
+Breakfast,23.8,49,Tuesday,2.9,6.99,29.37
+Dinner,51.6,62,Saturday,5.5,11.85,22.97
+Lunch,32.7,48,Tuesday,5.4,5.82,17.8
+Dinner,57.5,65,Friday,10.5,17.26,30.02
+Lunch,64.6,60,Tuesday,22.1,28.1,43.5
+Lunch,40.2,55,Tuesday,4.6,9.94,24.73
+Buffet / Event,109.0,130,Thursday,2.7,5.75,5.28
+Buffet / Event,130.4,138,Friday,20.5,25.46,19.52
+Breakfast,16.1,30,Tuesday,2.3,3.44,21.37
+Lunch,58.0,104,Sunday,10.7,6.58,11.34
+Dinner,30.8,36,Monday,5.5,4.75,15.42
+Buffet / Event,150.6,171,Thursday,22.8,18.23,12.1
+Buffet / Event,107.7,85,Tuesday,26.6,41.77,38.78
+Breakfast,25.7,60,Tuesday,3.2,5.27,20.51
+Dinner,41.8,45,Saturday,7.8,9.0,21.53
+Dinner,32.1,49,Tuesday,1.7,1.41,4.39
+Lunch,42.8,62,Friday,6.7,9.55,22.31
+Lunch,42.7,55,Sunday,7.6,8.04,18.83
+Dinner,53.8,52,Friday,17.4,15.71,29.2
+Buffet / Event,100.7,103,Friday,12.6,14.41,14.31
+Dinner,25.7,33,Thursday,1.5,1.02,3.97
+Dinner,74.6,73,Wednesday,11.0,16.41,22.0
+Breakfast,16.1,36,Sunday,1.9,3.46,21.49
+Breakfast,32.9,78,Thursday,5.0,6.62,20.12
+Lunch,55.2,65,Tuesday,11.1,15.01,27.19
+Dinner,35.8,44,Wednesday,1.5,3.02,8.44
+Buffet / Event,210.2,135,Thursday,40.9,78.03,37.12
+Dinner,44.5,39,Sunday,10.2,16.96,38.11
+Dinner,61.7,53,Friday,10.8,20.35,32.98
+Lunch,32.2,58,Sunday,1.9,2.62,8.14
+Lunch,16.5,26,Monday,2.7,3.03,18.36
+Dinner,52.1,71,Friday,4.9,3.12,5.99
+Dinner,54.3,69,Friday,8.1,8.43,15.52
+Breakfast,20.8,47,Wednesday,3.4,3.65,17.55
+Buffet / Event,140.8,132,Wednesday,4.1,14.26,10.13
+Breakfast,8.7,25,Wednesday,0.0,0.36,4.14
+Buffet / Event,117.9,129,Tuesday,6.2,12.91,10.95
+Lunch,21.3,28,Saturday,1.3,6.06,28.45
+Dinner,67.2,83,Sunday,5.3,9.58,14.26
+Dinner,70.4,57,Thursday,22.8,31.35,44.53
+Dinner,61.1,64,Sunday,7.8,12.3,20.13
+Breakfast,27.4,53,Sunday,4.2,5.4,19.71
+Dinner,62.8,81,Thursday,6.0,11.98,19.08
+Lunch,53.3,81,Thursday,5.7,6.0,11.26
+Dinner,68.0,82,Friday,2.5,7.78,11.44
+Dinner,19.4,23,Monday,0.8,1.64,8.45
+Buffet / Event,87.7,105,Tuesday,5.0,8.73,9.95
+Dinner,44.0,48,Tuesday,15.8,12.18,27.68
+Dinner,28.4,34,Wednesday,3.9,6.15,21.65
+Buffet / Event,125.3,140,Sunday,10.3,5.48,4.37
+Lunch,46.5,65,Thursday,6.5,6.92,14.88
+Buffet / Event,138.4,116,Sunday,18.6,34.75,25.11
+Breakfast,27.5,52,Saturday,2.5,4.4,16.0
+Buffet / Event,164.8,179,Friday,8.0,11.56,7.01
+Buffet / Event,167.4,130,Monday,43.4,45.66,27.28
+Lunch,81.0,90,Thursday,23.3,28.61,35.32
+Dinner,42.9,40,Thursday,5.0,11.32,26.39
+Lunch,21.9,31,Thursday,2.3,2.56,11.69
+Buffet / Event,182.9,160,Friday,18.9,42.36,23.16
+Lunch,37.7,49,Monday,2.5,8.29,21.99
+Lunch,49.6,78,Tuesday,5.5,10.43,21.03
+Breakfast,23.8,49,Sunday,2.0,4.16,17.48
+Dinner,47.8,52,Tuesday,5.8,6.29,13.16
+Lunch,47.7,68,Wednesday,3.5,12.06,25.28
+Dinner,47.2,62,Saturday,4.2,7.91,16.76
+Lunch,26.6,44,Monday,0.9,1.02,3.83
+Dinner,47.5,55,Thursday,4.4,2.44,5.14
+Dinner,29.4,38,Tuesday,1.1,1.34,4.56
+Buffet / Event,122.7,123,Sunday,22.6,24.01,19.57
+Buffet / Event,105.8,112,Wednesday,5.2,7.06,6.67
+Dinner,83.1,62,Thursday,20.6,35.53,42.76
+Breakfast,21.6,48,Thursday,3.5,4.46,20.65
+Lunch,59.0,84,Thursday,6.0,14.19,24.05
+Lunch,30.4,46,Friday,5.0,7.04,23.16
+Breakfast,27.4,45,Sunday,5.8,9.18,33.5
+Dinner,37.9,45,Thursday,0.8,3.78,9.97
+Breakfast,20.9,46,Sunday,2.4,2.98,14.26
+Dinner,32.8,42,Saturday,4.5,4.47,13.63
+Dinner,59.1,57,Wednesday,17.2,21.36,36.14
+Breakfast,23.6,52,Friday,3.7,5.17,21.91
+Lunch,50.7,70,Wednesday,3.8,7.61,15.01
+Lunch,71.5,87,Sunday,7.3,17.58,24.59
+Breakfast,31.7,55,Monday,10.0,12.98,40.95
+Breakfast,27.6,53,Wednesday,5.9,8.9,32.25
+Breakfast,21.9,45,Wednesday,1.2,5.74,26.21
+Dinner,62.3,69,Wednesday,10.3,12.19,19.57
+Dinner,41.8,46,Monday,6.2,9.65,23.09
+Lunch,11.8,17,Thursday,1.1,1.38,11.69
+Lunch,45.6,58,Sunday,10.6,13.15,28.84
+Dinner,32.2,32,Thursday,3.5,6.64,20.62
+Dinner,43.5,32,Monday,9.6,19.24,44.23
+Lunch,58.8,105,Friday,4.3,3.51,5.97
+Dinner,86.0,73,Thursday,17.6,32.36,37.63
+Dinner,56.1,61,Monday,9.6,11.43,20.37
+Lunch,49.1,71,Thursday,5.4,10.54,21.47
+Dinner,47.0,55,Wednesday,7.3,11.01,23.43
+Lunch,43.2,76,Thursday,2.6,1.82,4.21
+Lunch,71.7,102,Sunday,7.7,13.88,19.36
+Lunch,42.3,74,Monday,8.2,6.78,16.03
+Dinner,46.8,61,Sunday,7.1,7.5,16.03
+Dinner,25.6,30,Friday,4.5,4.24,16.56
+Buffet / Event,165.0,115,Wednesday,46.7,61.29,37.15
+Lunch,23.2,36,Wednesday,2.0,1.85,7.97
+Dinner,53.5,61,Thursday,5.6,7.1,13.27
+Breakfast,16.2,36,Sunday,0.1,0.69,4.26
+Lunch,32.8,44,Thursday,5.1,5.2,15.85
+Buffet / Event,74.3,76,Tuesday,6.7,14.38,19.35
+Lunch,7.2,10,Thursday,0.2,1.75,24.31
+Lunch,58.5,77,Monday,9.4,13.75,23.5
+Dinner,82.1,80,Sunday,14.9,20.29,24.71
+Breakfast,43.2,72,Saturday,11.9,14.65,33.91
+Lunch,72.5,95,Monday,11.6,16.51,22.77
+Breakfast,21.4,49,Monday,1.8,4.14,19.35
+Dinner,35.9,48,Sunday,4.5,5.86,16.32
+Dinner,45.0,56,Friday,3.5,2.69,5.98
+Dinner,40.5,43,Friday,6.2,7.73,19.09
+Dinner,42.4,49,Thursday,3.0,5.58,13.16
+Lunch,40.5,66,Saturday,2.2,4.64,11.46
+Breakfast,27.7,64,Thursday,3.4,5.69,20.54
+Dinner,59.8,55,Sunday,17.2,16.74,27.99
+Dinner,35.1,36,Monday,6.3,8.42,23.99
+Dinner,19.4,15,Monday,5.5,8.39,43.25
+Lunch,27.8,38,Friday,4.4,3.64,13.09
+Buffet / Event,159.3,144,Sunday,24.3,29.51,18.52
+Lunch,38.1,54,Tuesday,5.7,5.22,13.7
+Dinner,26.7,31,Thursday,1.1,1.59,5.96
+Breakfast,33.6,65,Saturday,3.4,7.16,21.31
+Dinner,53.8,63,Thursday,10.2,8.93,16.6
+Dinner,49.6,66,Saturday,2.2,5.96,12.02
+Breakfast,22.7,37,Monday,2.2,7.22,31.81
+Dinner,33.1,37,Tuesday,2.5,3.78,11.42
+Dinner,37.1,34,Friday,6.1,12.95,34.91
+Breakfast,22.5,44,Saturday,5.1,4.9,21.78
+Dinner,61.7,70,Friday,7.1,13.57,21.99
+Breakfast,15.7,34,Tuesday,0.5,1.62,10.32
+Dinner,50.7,63,Monday,6.3,7.25,14.3
+Lunch,27.1,47,Saturday,1.6,1.34,4.94
+Breakfast,31.7,64,Friday,1.7,2.43,7.67
+Dinner,73.9,73,Friday,18.0,22.57,30.54
+Lunch,44.9,70,Friday,0.5,2.41,5.37
+Lunch,74.2,65,Wednesday,25.2,32.67,44.03
+Dinner,30.6,34,Thursday,3.8,7.24,23.66
+Breakfast,19.3,42,Sunday,1.5,1.35,6.99
+Dinner,27.3,33,Tuesday,4.5,6.27,22.97
+Breakfast,26.3,48,Friday,3.8,7.52,28.59
+Lunch,47.1,66,Monday,6.9,6.67,14.16
+Lunch,19.7,31,Saturday,1.0,1.1,5.58
+Lunch,47.7,76,Wednesday,3.4,3.9,8.18
+Lunch,45.8,65,Thursday,4.9,6.4,13.97
+Breakfast,34.4,61,Thursday,3.1,8.09,23.52
+Breakfast,26.1,63,Sunday,1.9,1.38,5.29
+Dinner,51.9,59,Tuesday,5.6,9.13,17.59
+Lunch,57.0,81,Saturday,8.4,9.83,17.25
+Lunch,58.5,91,Saturday,1.5,3.32,5.68
+Dinner,53.8,58,Friday,6.7,8.36,15.54
+Lunch,60.8,88,Tuesday,2.3,6.4,10.53
+Dinner,60.0,63,Saturday,6.4,13.45,22.42
+Buffet / Event,85.6,88,Monday,2.0,2.99,3.49
+Lunch,39.9,71,Saturday,2.6,1.9,4.76
+Dinner,41.2,43,Sunday,4.5,7.07,17.16
+Dinner,25.8,31,Monday,2.1,4.05,15.7
+Dinner,67.0,68,Saturday,4.6,15.38,22.96
+Breakfast,47.1,71,Thursday,12.3,14.6,31.0
+Buffet / Event,146.6,157,Saturday,4.5,7.91,5.4
+Dinner,49.6,70,Sunday,4.0,2.34,4.72
+Lunch,71.8,87,Thursday,12.1,16.02,22.31
+Dinner,38.3,50,Tuesday,2.0,1.79,4.67
+Breakfast,27.6,47,Monday,2.5,6.23,22.57
+Lunch,51.4,94,Saturday,1.1,3.54,6.89
+Breakfast,22.3,44,Wednesday,3.2,5.33,23.9
+Lunch,40.9,71,Wednesday,7.0,6.2,15.16
+Breakfast,15.1,25,Tuesday,3.0,4.72,31.26
+Breakfast,14.3,35,Wednesday,1.0,0.54,3.78
+Breakfast,29.0,65,Saturday,1.7,1.5,5.17
+Lunch,39.4,55,Saturday,6.0,4.95,12.56
+Lunch,31.0,39,Friday,4.1,6.49,20.94
+Breakfast,23.4,39,Thursday,5.4,6.71,28.68
+Lunch,27.8,34,Sunday,3.5,6.48,23.31
+Lunch,35.8,55,Wednesday,0.6,2.59,7.23
+Breakfast,21.6,47,Saturday,1.6,3.14,14.54
+Breakfast,32.4,48,Monday,7.4,12.62,38.95
+Dinner,45.9,60,Sunday,7.4,8.27,18.02
+Breakfast,18.3,49,Saturday,1.0,1.75,9.56
+Lunch,67.9,59,Friday,23.0,29.76,43.83
+Dinner,50.2,46,Tuesday,13.9,19.89,39.62
+Buffet / Event,153.8,139,Friday,20.1,23.44,15.24
+Lunch,35.4,56,Tuesday,4.2,6.25,17.66
+Dinner,54.1,70,Saturday,5.1,10.03,18.54
+Dinner,71.1,74,Saturday,6.1,11.77,16.55
+Buffet / Event,120.4,114,Wednesday,6.7,8.39,6.97
+Dinner,49.1,50,Monday,8.7,9.49,19.33
+Dinner,50.0,57,Thursday,5.9,12.16,24.32
+Dinner,48.9,48,Monday,13.5,15.76,32.23
+Breakfast,8.8,20,Tuesday,1.2,0.59,6.7
+Breakfast,24.9,42,Friday,4.0,5.8,23.29
+Lunch,28.0,57,Friday,1.6,1.0,3.57
+Dinner,86.0,86,Saturday,9.0,19.24,22.37
+Lunch,59.8,87,Tuesday,2.0,3.09,5.17
+Dinner,31.1,43,Thursday,2.7,4.1,13.18
+Breakfast,37.1,63,Friday,8.2,11.94,32.18
+Lunch,29.1,52,Tuesday,1.7,1.42,4.88
+Lunch,47.1,65,Monday,5.2,7.4,15.71
+Breakfast,30.9,67,Friday,5.5,6.08,19.68
+Lunch,58.0,85,Friday,7.0,14.14,24.38
+Lunch,56.1,63,Wednesday,15.7,20.89,37.24
+Breakfast,13.8,41,Monday,2.7,0.73,5.29
+Breakfast,9.5,28,Sunday,0.3,0.57,6.0
+Lunch,21.4,33,Thursday,2.2,4.58,21.4
+Dinner,57.0,44,Monday,18.9,24.01,42.12
+Dinner,45.5,39,Sunday,10.8,21.06,46.29
+Breakfast,32.5,58,Saturday,4.9,8.06,24.8
+Dinner,60.3,70,Sunday,4.4,12.79,21.21
+Lunch,41.8,64,Friday,4.4,5.3,12.68
+Lunch,41.0,65,Thursday,4.0,7.64,18.63
+Breakfast,16.8,41,Monday,0.0,0.93,5.54
+Lunch,59.2,71,Wednesday,11.2,17.81,30.08
+Dinner,28.4,31,Monday,3.3,5.24,18.45
+Lunch,33.3,47,Saturday,4.6,3.19,9.58
+Dinner,27.8,35,Monday,0.5,1.81,6.51
+Dinner,34.4,40,Tuesday,1.2,3.36,9.77
+Breakfast,40.6,51,Sunday,13.9,17.28,42.56
+Buffet / Event,91.5,86,Wednesday,14.6,13.51,14.77
+Breakfast,8.5,21,Wednesday,0.7,0.56,6.59
+Dinner,57.6,55,Tuesday,9.2,14.43,25.05
+Lunch,32.9,64,Saturday,1.0,1.47,4.47
+Breakfast,15.4,33,Monday,1.5,3.46,22.47
+Lunch,35.4,42,Monday,6.9,8.82,24.92
+Lunch,51.1,77,Sunday,7.8,6.52,12.76
+Dinner,46.0,48,Friday,6.2,10.05,21.85
+Lunch,41.7,50,Thursday,4.3,9.44,22.64
+Dinner,59.8,82,Friday,3.8,3.79,6.34
+Dinner,86.2,75,Sunday,26.3,38.4,44.55
+Dinner,88.2,77,Friday,20.8,38.8,43.99
+Breakfast,27.1,49,Tuesday,3.8,6.71,24.76
+Dinner,10.1,13,Sunday,0.3,0.6,5.94
+Breakfast,23.9,52,Friday,1.0,1.14,4.77
+Breakfast,23.5,36,Thursday,4.4,8.09,34.43
+Dinner,32.0,44,Tuesday,2.4,4.3,13.44
+Dinner,42.3,40,Tuesday,8.4,11.74,27.75
+Lunch,38.2,66,Tuesday,2.5,2.04,5.34
+Dinner,19.3,24,Sunday,1.2,0.78,4.04
+Dinner,35.8,50,Tuesday,2.7,3.72,10.39
+Dinner,45.5,59,Sunday,6.2,5.45,11.98
+Dinner,82.3,108,Saturday,3.6,2.52,3.06
+Breakfast,29.3,58,Saturday,3.1,6.49,22.15
+Dinner,77.2,64,Thursday,18.3,27.17,35.19
+Dinner,31.9,41,Sunday,1.9,1.95,6.11
+Dinner,62.6,73,Saturday,2.8,5.61,8.96
+Dinner,12.6,14,Sunday,2.1,1.53,12.14
+Dinner,58.8,73,Friday,10.5,12.17,20.7
+Lunch,34.4,48,Wednesday,6.1,8.41,24.45
+Dinner,96.8,80,Sunday,20.4,33.73,34.85
+Lunch,46.6,77,Friday,6.0,6.79,14.57
+Dinner,49.8,68,Wednesday,2.3,2.55,5.12
+Lunch,72.7,108,Thursday,6.4,7.63,10.5
+Breakfast,25.3,49,Sunday,4.2,7.13,28.18
+Buffet / Event,115.2,140,Thursday,3.2,11.49,9.97
+Breakfast,14.7,28,Monday,0.5,3.17,21.56
+Lunch,27.4,38,Friday,8.2,9.0,32.85
+Lunch,65.2,78,Sunday,12.7,18.32,28.1
+Lunch,37.3,63,Saturday,1.8,3.11,8.34
+Lunch,52.6,82,Sunday,8.4,8.03,15.27
+Lunch,37.3,48,Tuesday,5.7,9.18,24.61
+Lunch,42.9,73,Tuesday,1.3,4.96,11.56
+Breakfast,19.6,30,Monday,3.7,6.33,32.3
+Dinner,51.1,55,Monday,4.6,10.01,19.59
+Lunch,34.9,45,Tuesday,5.9,5.74,16.45
+Lunch,59.2,78,Wednesday,11.4,19.31,32.62
+Lunch,43.8,64,Friday,7.6,6.41,14.63
+Breakfast,16.7,43,Thursday,1.6,0.74,4.43
+Dinner,72.4,102,Saturday,3.7,4.15,5.73
+Breakfast,21.4,50,Saturday,2.0,3.35,15.65
+Lunch,50.5,84,Saturday,6.0,8.72,17.27
+Dinner,41.3,46,Monday,3.9,9.89,23.95
+Dinner,50.9,65,Tuesday,4.3,5.94,11.67
+Lunch,51.8,81,Tuesday,2.4,4.21,8.13
+Dinner,75.5,80,Tuesday,11.5,16.04,21.25
+Dinner,54.3,59,Wednesday,9.0,7.46,13.74
+Dinner,68.2,67,Thursday,11.4,17.11,25.09
+Dinner,55.7,68,Friday,1.6,1.93,3.46
+Lunch,41.6,69,Tuesday,1.5,4.69,11.27
+Dinner,30.8,44,Sunday,1.4,1.81,5.88
+Dinner,38.1,36,Monday,9.3,14.34,37.64
+Lunch,47.1,80,Wednesday,3.8,1.82,3.86
+Lunch,39.9,55,Saturday,5.6,4.27,10.7
+Breakfast,17.1,38,Saturday,0.4,0.61,3.57
+Breakfast,26.6,58,Tuesday,0.5,3.79,14.25
+Dinner,49.1,64,Thursday,5.3,8.57,17.45
+Breakfast,25.4,60,Sunday,3.2,2.5,9.84
+Buffet / Event,103.6,113,Wednesday,12.1,15.11,14.58
+Lunch,43.5,61,Thursday,5.9,7.16,16.46
+Breakfast,14.5,31,Friday,1.5,0.65,4.48
+Lunch,41.5,63,Monday,3.2,2.41,5.81
+Breakfast,31.7,65,Saturday,2.4,4.67,14.73
+Breakfast,20.5,38,Monday,2.3,5.01,24.44
+Buffet / Event,104.2,129,Saturday,6.2,5.22,5.01
+Breakfast,14.5,29,Saturday,2.2,3.76,25.93
+Lunch,55.4,76,Sunday,8.3,12.43,22.44
+Breakfast,21.4,49,Saturday,2.3,4.49,20.98
+Lunch,41.4,61,Friday,4.6,6.58,15.89
+Breakfast,47.5,67,Sunday,10.1,18.26,38.44
+Lunch,26.5,40,Thursday,1.4,2.73,10.3
+Buffet / Event,123.4,131,Saturday,7.8,5.25,4.25
+Dinner,80.2,85,Wednesday,6.6,14.78,18.43
+Lunch,44.4,46,Thursday,11.3,19.36,43.6
+Breakfast,44.0,60,Friday,8.6,17.8,40.45
+Buffet / Event,153.0,161,Saturday,16.3,34.66,22.65
+Breakfast,26.3,50,Thursday,3.2,7.42,28.21
+Lunch,36.7,43,Tuesday,9.5,15.4,41.96
+Lunch,69.4,78,Saturday,21.1,26.49,38.17
+Dinner,50.4,60,Thursday,4.7,11.76,23.33
+Lunch,43.7,63,Monday,2.1,4.57,10.46
+Dinner,53.6,62,Saturday,7.8,10.82,20.19
+Lunch,23.7,35,Monday,3.2,4.74,20.0
+Breakfast,20.2,42,Sunday,3.7,6.19,30.64
+Dinner,54.1,52,Wednesday,7.6,11.95,22.09
+Dinner,53.8,51,Sunday,13.7,19.15,35.59
+Dinner,75.8,72,Thursday,11.1,18.26,24.09
+Lunch,17.9,23,Wednesday,1.9,4.87,27.21
+Breakfast,19.1,39,Sunday,3.1,3.05,15.97
+Lunch,6.0,10,Friday,0.0,0.25,4.17
+Lunch,34.1,50,Wednesday,0.4,5.47,16.04
+Dinner,58.4,58,Thursday,7.1,13.14,22.5
+Lunch,40.5,62,Thursday,1.8,3.07,7.58
+Lunch,46.6,66,Friday,7.1,10.34,22.19
+Dinner,62.9,74,Saturday,3.1,2.84,4.52
+Lunch,14.9,23,Friday,1.0,0.88,5.91
+Breakfast,37.2,75,Friday,4.9,4.78,12.85
+Dinner,30.1,31,Tuesday,4.5,6.08,20.2
+Lunch,44.7,59,Saturday,4.0,10.2,22.82
+Dinner,33.3,40,Monday,5.5,6.7,20.12
+Buffet / Event,125.9,126,Sunday,15.9,18.83,14.96
+Dinner,17.8,13,Thursday,5.9,7.86,44.16
+Lunch,45.5,64,Saturday,4.5,9.24,20.31
+Dinner,51.8,60,Saturday,7.4,9.82,18.96
+Breakfast,31.5,73,Sunday,1.7,2.71,8.6
+Dinner,66.3,71,Saturday,12.4,10.92,16.47
+Dinner,21.2,28,Monday,1.2,2.94,13.87
+Breakfast,38.4,84,Sunday,7.3,4.45,11.59
+Dinner,60.1,60,Tuesday,7.5,13.94,23.19
+Lunch,92.0,106,Sunday,9.1,24.22,26.33
+Breakfast,26.2,72,Saturday,1.1,1.56,5.95
+Breakfast,33.2,63,Saturday,3.7,3.98,11.99
+Breakfast,25.2,55,Saturday,1.3,2.35,9.33
+Buffet / Event,121.0,116,Wednesday,22.5,14.94,12.35
+Lunch,25.5,44,Tuesday,0.6,3.08,12.08
+Lunch,29.7,39,Monday,4.0,6.02,20.27
+Lunch,36.8,59,Monday,6.8,7.06,19.18
+Breakfast,25.0,41,Sunday,4.4,6.97,27.88
+Lunch,58.7,100,Saturday,3.9,2.6,4.43
+Breakfast,10.5,18,Tuesday,1.6,2.26,21.52
+Dinner,87.8,90,Sunday,14.5,20.64,23.51
+Breakfast,16.6,37,Monday,1.2,0.6,3.61
+Breakfast,23.5,52,Saturday,4.2,4.21,17.91
+Lunch,74.7,107,Thursday,8.0,8.93,11.95
+Lunch,52.0,76,Friday,6.3,8.81,16.94
+Lunch,39.2,49,Tuesday,3.8,8.28,21.12
+Breakfast,26.8,43,Saturday,6.8,8.99,33.54
+Dinner,79.1,82,Wednesday,10.5,14.03,17.74
+Buffet / Event,125.9,104,Tuesday,25.5,37.75,29.98
+Buffet / Event,107.9,96,Wednesday,14.3,20.5,19.0
+Breakfast,26.5,58,Friday,1.3,0.9,3.4
+Lunch,73.4,116,Saturday,4.0,4.86,6.62
+Breakfast,18.4,40,Monday,4.6,4.69,25.49
+Buffet / Event,56.2,61,Sunday,2.5,2.93,5.21
+Breakfast,32.3,50,Saturday,10.1,13.92,43.1
+Lunch,35.4,59,Monday,5.6,6.98,19.72
+Lunch,47.6,71,Sunday,4.6,10.97,23.05
+Dinner,29.0,35,Saturday,1.8,1.49,5.14
+Dinner,65.0,57,Monday,15.1,29.66,45.63
+Dinner,7.0,10,Thursday,1.5,0.8,11.43
+Dinner,24.3,30,Monday,0.4,1.46,6.01
+Breakfast,30.2,40,Sunday,5.1,13.49,44.67
+Dinner,69.0,75,Tuesday,7.8,10.83,15.7
+Breakfast,24.2,48,Saturday,2.7,5.05,20.87
+Lunch,43.7,68,Friday,4.7,7.37,16.86
+Dinner,52.3,60,Monday,6.7,8.9,17.02
+Breakfast,22.7,33,Thursday,7.9,10.19,44.89
+Breakfast,35.9,71,Sunday,5.4,5.85,16.3
+Breakfast,33.1,55,Saturday,8.0,10.96,33.11
+Dinner,46.3,41,Friday,13.2,14.81,31.99
+Breakfast,18.5,36,Monday,2.1,2.19,11.84
+Lunch,49.7,80,Sunday,7.9,8.12,16.34
+Breakfast,18.6,33,Wednesday,1.8,4.42,23.76
+Buffet / Event,98.4,110,Monday,4.4,9.49,9.64
+Breakfast,21.4,51,Wednesday,3.3,2.41,11.26
+Breakfast,17.0,34,Tuesday,3.0,3.3,19.41
+Lunch,27.4,45,Thursday,1.6,1.14,4.16
+Dinner,33.3,39,Friday,4.1,6.03,18.11
+Breakfast,21.1,48,Thursday,1.4,1.25,5.92
+Dinner,60.5,54,Sunday,11.3,27.43,45.34
+Breakfast,26.3,41,Monday,7.0,10.37,39.43
+Lunch,62.9,81,Saturday,7.8,13.63,21.67
+Breakfast,13.5,29,Monday,1.9,2.71,20.07
+Buffet / Event,183.1,163,Friday,29.9,38.33,20.93
+Buffet / Event,153.6,172,Saturday,15.4,28.59,18.61
+Buffet / Event,114.1,103,Friday,13.7,18.96,16.62
+Lunch,65.0,83,Friday,9.0,12.27,18.88
+Lunch,43.3,73,Tuesday,6.7,7.03,16.24
+Breakfast,21.8,38,Friday,3.9,4.9,22.48
+Buffet / Event,164.0,131,Sunday,14.3,32.45,19.79
+Buffet / Event,91.9,89,Sunday,11.9,11.82,12.86
+Lunch,58.5,76,Tuesday,7.1,12.96,22.15
+Lunch,50.4,71,Monday,4.8,8.61,17.08
+Lunch,77.3,90,Friday,8.8,19.59,25.34
+Dinner,55.7,57,Sunday,5.6,13.8,24.78
+Breakfast,47.2,75,Saturday,16.1,20.79,44.05
+Breakfast,18.5,39,Saturday,0.6,2.84,15.35
+Dinner,44.5,49,Saturday,8.3,12.05,27.08
+Lunch,36.0,47,Tuesday,4.5,7.94,22.06
+Dinner,64.6,79,Wednesday,5.7,7.61,11.78
+Dinner,54.4,61,Saturday,6.9,8.19,15.06
+Dinner,30.2,28,Monday,4.2,8.09,26.79
+Dinner,35.9,37,Monday,3.0,8.11,22.59
+Dinner,38.5,57,Tuesday,2.4,2.53,6.57
+Dinner,29.4,30,Tuesday,4.4,5.11,17.38
+Lunch,26.0,38,Tuesday,0.6,2.72,10.46
+Lunch,59.2,80,Sunday,10.0,14.49,24.48
+Lunch,44.2,85,Sunday,3.1,2.66,6.02
+Lunch,44.3,61,Thursday,6.0,9.21,20.79
+Breakfast,30.6,54,Monday,3.3,7.94,25.95
+Dinner,74.1,72,Tuesday,12.5,18.47,24.93
+Dinner,53.9,58,Sunday,13.7,17.03,31.6
+Lunch,40.7,55,Thursday,6.6,5.14,12.63
+Breakfast,13.3,26,Sunday,2.0,2.31,17.37
+Breakfast,12.8,30,Friday,0.6,0.51,3.98
+Buffet / Event,89.7,121,Thursday,3.3,3.41,3.8
+Lunch,46.6,55,Wednesday,11.5,16.3,34.98
+Breakfast,19.9,50,Friday,1.6,1.63,8.19
+Buffet / Event,128.4,89,Wednesday,42.1,56.76,44.21
+Dinner,31.2,37,Wednesday,4.4,5.11,16.38
+Breakfast,43.3,87,Saturday,5.0,6.07,14.02
+Lunch,32.8,53,Tuesday,3.0,6.03,18.38
+Lunch,37.9,54,Sunday,5.9,6.04,15.94
+Lunch,37.3,65,Wednesday,1.7,4.77,12.79
+Buffet / Event,160.2,169,Saturday,26.4,40.01,24.98
+Lunch,29.8,57,Wednesday,2.0,1.27,4.26
+Buffet / Event,169.3,140,Wednesday,13.9,37.09,21.91
+Breakfast,16.0,32,Sunday,1.8,2.53,15.81
+Breakfast,18.0,40,Tuesday,2.0,2.73,15.17
+Lunch,50.0,68,Wednesday,8.3,13.26,26.52
+Buffet / Event,135.2,160,Saturday,8.6,14.03,10.38
+Dinner,70.7,89,Saturday,6.9,12.87,18.2
+Breakfast,26.7,53,Tuesday,5.8,6.81,25.51
+Lunch,27.2,36,Monday,2.7,6.62,24.34
+Dinner,33.8,30,Friday,11.4,11.26,33.31
+Lunch,78.2,83,Wednesday,23.7,32.69,41.8
+Lunch,20.5,31,Monday,1.9,5.58,27.22
+Breakfast,22.4,44,Friday,3.1,3.38,15.09
+Breakfast,26.8,52,Saturday,2.9,3.9,14.55
+Dinner,80.3,72,Saturday,23.7,22.91,28.53
+Buffet / Event,129.4,123,Thursday,22.7,31.35,24.23
+Breakfast,9.5,21,Friday,1.9,0.94,9.89
+Lunch,41.8,80,Wednesday,0.6,1.68,4.02
+Dinner,94.7,99,Sunday,16.2,21.66,22.87
+Breakfast,26.8,56,Sunday,3.0,5.84,21.79
+Breakfast,41.1,79,Saturday,6.3,5.98,14.55
+Dinner,28.2,27,Sunday,8.0,8.58,30.43
+Dinner,14.8,18,Sunday,1.4,2.04,13.78
+Dinner,56.2,80,Monday,3.0,2.41,4.29
+Lunch,62.2,77,Friday,8.5,14.1,22.67
+Buffet / Event,136.1,143,Sunday,7.9,6.41,4.71
+Breakfast,18.8,38,Wednesday,1.1,4.3,22.87
+Lunch,25.9,45,Wednesday,0.7,2.26,8.73
+Dinner,55.0,67,Tuesday,8.5,7.61,13.84
+Buffet / Event,134.2,110,Thursday,37.2,38.0,28.32
+Breakfast,24.2,47,Tuesday,4.2,5.23,21.61
+Lunch,39.4,48,Saturday,4.2,8.03,20.38
+Lunch,53.0,62,Sunday,4.8,12.88,24.3
+Dinner,51.9,71,Friday,2.7,2.81,5.41
+Breakfast,30.4,61,Thursday,2.6,7.08,23.29
+Lunch,28.1,45,Sunday,3.6,5.25,18.68
+Breakfast,13.5,27,Sunday,2.1,3.29,24.37
+Lunch,70.1,71,Thursday,15.8,30.9,44.08
+Dinner,43.1,50,Monday,7.7,7.69,17.84
+Lunch,48.1,74,Saturday,7.3,6.64,13.8
+Dinner,38.5,59,Tuesday,1.6,2.14,5.56
+Dinner,44.9,49,Thursday,5.2,9.68,21.56
+Lunch,20.3,28,Monday,1.6,2.55,12.56
+Dinner,49.1,46,Wednesday,7.4,12.81,26.09
+Dinner,118.3,94,Saturday,33.3,49.55,41.89
+Lunch,37.6,53,Monday,4.1,7.11,18.91
+Dinner,50.2,59,Thursday,7.5,12.54,24.98
+Dinner,94.7,68,Wednesday,32.9,40.57,42.84
+Breakfast,24.2,60,Wednesday,3.9,3.8,15.7
+Lunch,59.3,85,Monday,5.4,12.3,20.74
+Lunch,42.1,76,Sunday,2.3,3.2,7.6
+Lunch,49.5,68,Monday,6.3,9.54,19.27
+Breakfast,22.1,48,Monday,2.8,1.68,7.6
+Dinner,35.4,38,Saturday,5.4,9.02,25.48
+Dinner,50.9,59,Friday,3.9,5.74,11.28
+Lunch,17.4,33,Wednesday,1.7,1.22,7.01
+Lunch,41.5,57,Tuesday,4.3,7.48,18.02
+Breakfast,17.4,30,Friday,3.0,6.45,37.07
+Breakfast,31.4,54,Tuesday,7.0,11.46,36.5
+Lunch,55.4,86,Saturday,6.9,7.11,12.83
+Breakfast,13.2,27,Tuesday,1.9,2.21,16.74
+Breakfast,21.1,49,Tuesday,2.7,4.59,21.75
+Dinner,81.7,79,Sunday,10.9,18.27,22.36
+Lunch,56.9,74,Friday,9.2,11.23,19.74
+Buffet / Event,226.9,142,Saturday,73.2,92.03,40.56
+Lunch,80.9,78,Wednesday,22.5,32.19,39.79
+Dinner,19.9,19,Thursday,3.5,6.3,31.66
+Lunch,71.1,107,Saturday,10.6,14.75,20.75
+Lunch,58.5,106,Saturday,0.5,3.55,6.07
+Lunch,47.6,82,Tuesday,3.0,2.73,5.74
+Lunch,41.0,79,Friday,1.8,1.28,3.12
+Lunch,27.1,28,Wednesday,6.6,10.59,39.08
+Buffet / Event,140.3,127,Monday,22.6,30.83,21.97
+Dinner,51.5,60,Friday,1.3,6.22,12.08
+Buffet / Event,130.6,106,Thursday,13.8,30.28,23.19
+Dinner,70.3,59,Wednesday,18.8,29.6,42.11
+Dinner,37.3,47,Friday,1.5,2.09,5.6
+Lunch,47.6,66,Sunday,6.4,7.83,16.45
+Breakfast,15.8,36,Thursday,0.3,0.72,4.56
+Lunch,64.3,76,Saturday,8.5,15.69,24.4
+Breakfast,24.2,46,Wednesday,1.6,3.18,13.14
+Buffet / Event,145.6,175,Friday,4.9,9.69,6.66
+Dinner,17.5,22,Friday,1.1,0.61,3.49
+Lunch,73.5,85,Saturday,21.5,26.63,36.23
+Breakfast,25.8,46,Tuesday,5.7,8.4,32.56
+Buffet / Event,109.3,85,Saturday,30.3,42.09,38.51
+Breakfast,26.9,59,Thursday,1.8,0.91,3.38
+Buffet / Event,102.6,109,Thursday,17.3,21.0,20.47
+Lunch,39.1,62,Sunday,1.8,3.43,8.77
+Breakfast,17.7,41,Sunday,1.5,0.95,5.37
+Lunch,52.4,60,Tuesday,13.8,20.98,40.04
+Breakfast,20.7,50,Tuesday,2.4,3.66,17.68
+Lunch,54.7,52,Tuesday,17.5,24.27,44.37
+Dinner,41.2,44,Saturday,5.5,9.3,22.57
+Lunch,45.0,58,Tuesday,7.9,10.54,23.42
+Lunch,43.2,58,Sunday,7.3,10.1,23.38
+Breakfast,31.7,63,Sunday,1.5,4.49,14.16
+Lunch,66.3,67,Friday,18.8,27.34,41.24
+Lunch,30.2,54,Sunday,1.8,1.05,3.48
+Dinner,18.2,24,Tuesday,0.5,2.88,15.82
+Breakfast,16.2,38,Wednesday,2.9,2.88,17.78
+Dinner,53.2,62,Saturday,1.6,3.88,7.29
+Lunch,31.2,52,Friday,1.7,1.83,5.87
+Dinner,21.5,28,Wednesday,1.4,2.24,10.42
+Dinner,21.1,24,Thursday,2.5,3.95,18.72
+Dinner,63.1,67,Sunday,9.1,9.24,14.64
+Lunch,36.8,45,Tuesday,2.7,8.06,21.9
+Lunch,72.3,79,Thursday,22.4,21.55,29.81
+Lunch,60.5,99,Sunday,8.8,10.62,17.55
+Dinner,51.1,65,Tuesday,3.0,3.84,7.51
+Lunch,15.3,23,Sunday,1.6,2.52,16.47
+Dinner,58.1,50,Tuesday,19.8,22.58,38.86
+Dinner,50.1,59,Sunday,2.0,4.98,9.94
+Buffet / Event,224.6,186,Sunday,22.7,48.46,21.58
+Dinner,63.7,57,Wednesday,20.3,26.05,40.89
+Dinner,42.7,45,Tuesday,7.1,8.16,19.11
+Breakfast,20.7,53,Sunday,2.6,2.82,13.62
+Breakfast,19.6,45,Thursday,1.3,1.48,7.55
+Breakfast,14.4,36,Sunday,1.1,1.82,12.64
+Lunch,44.0,71,Monday,6.9,7.65,17.39
+Dinner,64.5,63,Friday,7.1,15.61,24.2
+Buffet / Event,144.4,150,Wednesday,13.7,32.19,22.29
+Breakfast,15.3,36,Thursday,1.3,2.86,18.69
+Lunch,21.7,39,Thursday,1.4,0.86,3.96
