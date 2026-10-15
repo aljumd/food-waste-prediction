@@ -127,7 +127,7 @@ curl -X POST "http://127.0.0.1:8000/predict" \
     "Medium Waste": 0.1715
   },
   "recommendation_message": "The predicted food waste level for this lunch is Low. Food preparation is well-calibrated (0.67 kg/person).",
-  "efficiency_tag": "High Efficiency 🌱",
+  "efficiency_tag": "High Efficiency ",
   "waste_reduction_tips": [
     "Maintain current batch cooking portions.",
     "Log unserved leftovers for surplus donation programs.",
