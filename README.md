@@ -9,7 +9,7 @@ A machine learning application and REST API that predicts operational food waste
 Food waste in commercial kitchens, university cafeterias, and hotel buffets leads to substantial financial loss and environmental impact. The primary causes of commercial food waste are:
 1. **Demand Misestimation**: Preparing significantly more food than attendees consume.
 2. **Inflexible Safety Margins**: Applying uniform buffer percentages across diverse meal types and days without considering appetite benchmarks.
-3. **Historical Inefficiencies**: Ignoring previous meal waste trends in current meal planning
+3. **Historical Inefficiencies**: Ignoring previous meal waste trends in current meal planning.
 
 ### Objective
 To build an end-to-end Machine Learning solution that takes operational meal parameters before a service and accurately classifies the expected waste into actionable categories:
@@ -127,7 +127,7 @@ curl -X POST "http://127.0.0.1:8000/predict" \
     "Medium Waste": 0.1715
   },
   "recommendation_message": "The predicted food waste level for this lunch is Low. Food preparation is well-calibrated (0.67 kg/person).",
-  "efficiency_tag": "High Efficiency ",
+  "efficiency_tag": "High Efficiency 🌱",
   "waste_reduction_tips": [
     "Maintain current batch cooking portions.",
     "Log unserved leftovers for surplus donation programs.",
