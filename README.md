@@ -4,7 +4,7 @@ A machine learning application and REST API that predicts operational food waste
 
 ---
 
-## 📌 1. Project Overview & Problem Statement
+## 1. Project Overview & Problem Statement
 
 Food waste in commercial kitchens, university cafeterias, and hotel buffets leads to substantial financial loss and environmental impact. The primary causes of commercial food waste are:
 1. **Demand Misestimation**: Preparing significantly more food than attendees consume.
@@ -19,7 +19,7 @@ To build an end-to-end Machine Learning solution that takes operational meal par
 
 ---
 
-## 📊 2. Dataset Description & Methodology
+## 2. Dataset Description & Methodology
 
 ### Dataset Disclosure
 * **Dataset File**: `dataset.csv`
@@ -66,7 +66,7 @@ Three classification algorithms were trained and evaluated on an 80/20 stratifie
 
 | Model | 5-Fold CV Accuracy | Test Accuracy | Macro Precision | Macro Recall | Macro F1-Score | Weighted F1-Score | ROC-AUC (OvR Macro) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 🏆 **Random Forest (Selected)** | **86.46%** | **87.67%** | **0.8959** | **0.8670** | **0.8791** | **0.8770** | **0.9464** |
+|  **Random Forest (Selected)** | **86.46%** | **87.67%** | **0.8959** | **0.8670** | **0.8791** | **0.8770** | **0.9464** |
 | **Decision Tree Classifier** | 85.62% | 87.67% | 0.9014 | 0.8629 | 0.8782 | 0.8768 | 0.9415 |
 | **K-Nearest Neighbors (KNN)** | 83.96% | 83.83% | 0.8651 | 0.8225 | 0.8386 | 0.8384 | 0.9341 |
 
@@ -74,7 +74,7 @@ Three classification algorithms were trained and evaluated on an 80/20 stratifie
 
 ---
 
-## 🚀 5. Installation & Execution
+##  5. Installation & Execution
 
 ### Prerequisites
 * Python 3.9+
@@ -95,7 +95,7 @@ python app.py
 
 ---
 
-## 🧪 6. Testing & API Reference
+##  6. Testing & API Reference
 
 ### Endpoints
 * `GET /`: API status and route catalog.
@@ -145,7 +145,7 @@ curl -X POST "http://127.0.0.1:8000/predict" \
 
 ---
 
-## ⚠️ 7. Limitations & Recommendations for Real-World Deployment
+## 7. Limitations & Recommendations for Real-World Deployment
 
 1. **Synthetic Nature of Training Data**: The dataset was statistically generated using catering benchmark distributions. While realistic, it does not capture site-specific menu variations (e.g., salad bar vs. pasta bar).
 2. **Ingredient-Level Granularity**: The model evaluates total kilograms rather than individual dish categories (proteins, grains, vegetables).
